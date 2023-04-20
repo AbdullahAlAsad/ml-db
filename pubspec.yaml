@@ -18,7 +18,7 @@ publish_to: "none" # Remove this line if you wish to publish to pub.dev
 version: 1.0.0+1
 
 environment:
-  sdk: ">=2.12.0 <3.0.0"
+  sdk: ">=2.17.0 <3.0.0"
 
 dependencies:
   flutter:
@@ -32,7 +32,9 @@ dependencies:
   flutter_svg: ^0.22.0
   fl_chart: ^0.36.1
   provider: ^5.0.0
-  data_table_2: ^2.0.3
+  csv: ^5.0.1
+  word_cloud: ^1.0.1
+  # data_table_2: ^2.4.2
 
 dev_dependencies:
   flutter_test:
@@ -52,6 +54,7 @@ flutter:
   assets:
     - assets/images/
     - assets/icons/
+    - assets/
   #   - images/a_dot_ham.jpeg
 
   # An image asset can refer to one or more resolution-specific "variants", see

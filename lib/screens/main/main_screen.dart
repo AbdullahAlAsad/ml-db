@@ -1,6 +1,9 @@
+import 'package:admin/HomePage.dart';
 import 'package:admin/controllers/MenuAppController.dart';
+import 'package:admin/controllers/SideMenuController.dart';
 import 'package:admin/responsive.dart';
 import 'package:admin/screens/dashboard/dashboard_screen.dart';
+import 'package:admin/screens/dashboard/hierarchy_screen.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 
@@ -26,7 +29,17 @@ class MainScreen extends StatelessWidget {
             Expanded(
               // It takes 5/6 part of the screen
               flex: 5,
-              child: DashboardScreen(),
+              child: Consumer<SideMenuController>(
+                  builder: (context, controller, child) {
+                if (controller.selected == MenuEnum.Dashboard) {
+                  return DashboardScreen();
+                } else if (controller.selected == MenuEnum.Hierarchy) {
+                  return HierarchyScreen();
+                } else {
+                  return DashboardScreen();
+                }
+              }),
+              // child: Homepage(),
             ),
           ],
         ),

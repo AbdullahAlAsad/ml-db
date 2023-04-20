@@ -4,7 +4,9 @@ import 'package:flutter/material.dart';
 import '../../../constants.dart';
 
 class Chart extends StatelessWidget {
-  const Chart({
+  List<PieChartSectionData> paiChartSelectionDatas;
+   Chart({
+    required this.paiChartSelectionDatas,
     Key? key,
   }) : super(key: key);
 
@@ -19,7 +21,7 @@ class Chart extends StatelessWidget {
               sectionsSpace: 0,
               centerSpaceRadius: 70,
               startDegreeOffset: -90,
-              sections: paiChartSelectionDatas,
+              sections: this.paiChartSelectionDatas,
             ),
           ),
           Positioned.fill(
@@ -28,14 +30,14 @@ class Chart extends StatelessWidget {
               children: [
                 SizedBox(height: defaultPadding),
                 Text(
-                  "29.1",
-                  style: Theme.of(context).textTheme.headline4!.copyWith(
+                  "Sentiment",
+                  style: Theme.of(context).textTheme.headlineSmall!.copyWith(
                         color: Colors.white,
                         fontWeight: FontWeight.w600,
                         height: 0.5,
                       ),
                 ),
-                Text("of 128GB")
+                Text("Analysis")
               ],
             ),
           ),

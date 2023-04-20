@@ -1,4 +1,6 @@
 import 'package:admin/controllers/MenuAppController.dart';
+import 'package:admin/controllers/SearchModel.dart';
+import 'package:admin/repo/LocalDataRepository.dart';
 import 'package:admin/responsive.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/flutter_svg.dart';
@@ -6,11 +8,16 @@ import 'package:provider/provider.dart';
 
 import '../../../constants.dart';
 
-class Header extends StatelessWidget {
+class Header extends StatefulWidget {
   const Header({
     Key? key,
   }) : super(key: key);
 
+  @override
+  State<Header> createState() => _HeaderState();
+}
+
+class _HeaderState extends State<Header> {
   @override
   Widget build(BuildContext context) {
     return Row(
@@ -35,50 +42,63 @@ class Header extends StatelessWidget {
 }
 
 class ProfileCard extends StatelessWidget {
-  const ProfileCard({
+   ProfileCard({
     Key? key,
   }) : super(key: key);
 
   @override
   Widget build(BuildContext context) {
-    return Container(
-      margin: EdgeInsets.only(left: defaultPadding),
-      padding: EdgeInsets.symmetric(
-        horizontal: defaultPadding,
-        vertical: defaultPadding / 2,
-      ),
-      decoration: BoxDecoration(
-        color: secondaryColor,
-        borderRadius: const BorderRadius.all(Radius.circular(10)),
-        border: Border.all(color: Colors.white10),
-      ),
-      child: Row(
-        children: [
-          Image.asset(
-            "assets/images/profile_pic.png",
-            height: 38,
+    LocalDataRepository ld = LocalDataRepository.instance;
+
+
+    return Consumer<SearchModel>(
+      builder: (context, searchModel, child) {
+    var profile = ld.getProfileElonmusk;
+    if(searchModel.searchText == 'iamsrk')
+      profile = ld.getProfileSrk;
+        return Container(
+          margin: EdgeInsets.only(left: defaultPadding),
+          padding: EdgeInsets.symmetric(
+            horizontal: defaultPadding,
+            vertical: defaultPadding / 2,
           ),
-          if (!Responsive.isMobile(context))
-            Padding(
-              padding:
-                  const EdgeInsets.symmetric(horizontal: defaultPadding / 2),
-              child: Text("Angelina Jolie"),
-            ),
-          Icon(Icons.keyboard_arrow_down),
-        ],
-      ),
+          decoration: BoxDecoration(
+            color: secondaryColor,
+            borderRadius: const BorderRadius.all(Radius.circular(10)),
+            border: Border.all(color: Colors.white10),
+          ),
+          child: Row(
+            children: [
+              Image.network(
+               profile.profileImageUrl,
+                height: 38,
+              ),
+              if (!Responsive.isMobile(context))
+                Padding(
+                  padding:
+                      const EdgeInsets.symmetric(horizontal: defaultPadding / 2),
+                  child: Text( profile.displayname ??  "Angelina Jolie"),
+                ),
+              Icon(Icons.keyboard_arrow_down),
+            ],
+          ),
+        );
+      }
     );
   }
 }
 
 class SearchField extends StatelessWidget {
-  const SearchField({
+  var textController = TextEditingController();
+  SearchField({
     Key? key,
   }) : super(key: key);
 
   @override
   Widget build(BuildContext context) {
+     final searchModel = Provider.of<SearchModel>(context);
     return TextField(
+      controller: textController,
       decoration: InputDecoration(
         hintText: "Search",
         fillColor: secondaryColor,
@@ -88,7 +108,11 @@ class SearchField extends StatelessWidget {
           borderRadius: const BorderRadius.all(Radius.circular(10)),
         ),
         suffixIcon: InkWell(
-          onTap: () {},
+          onTap: () {
+            searchModel.searchText = textController.text;
+          //   print(textController.text);
+          //  changeCurrentProfile(textController.text);
+          },
           child: Container(
             padding: EdgeInsets.all(defaultPadding * 0.75),
             margin: EdgeInsets.symmetric(horizontal: defaultPadding / 2),

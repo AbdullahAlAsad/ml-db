@@ -11,8 +11,8 @@ import 'package:word_cloud/word_cloud_view.dart';
 
 import '../../../constants.dart';
 
-class RecentFiles extends StatelessWidget {
-  const RecentFiles({
+class HierarchyData extends StatelessWidget {
+  const HierarchyData({
     Key? key,
   }) : super(key: key);
 
@@ -27,6 +27,7 @@ class RecentFiles extends StatelessWidget {
         posts = ld.getPostSrk;
       }
 
+// ----------------
       // Step 1: Collect all topics from the rows into a single list.
       List<String> topics = posts.map((post) => post.topic).toList();
       print('topicstweet length ' + topics.length.toString());
@@ -160,6 +161,8 @@ class RecentFiles extends StatelessWidget {
           sortedEntriesNews.take(n).map((entry) => entry.key).toList();
 
       print(topNewsTopics);
+
+// -----------------------------------------------------------------
       List<Map> data_list = [];
 
       // for (var i = 0; i < sortedEntriesNews.length; i++) {
@@ -184,71 +187,21 @@ class RecentFiles extends StatelessWidget {
 
       print(data_list.length);
       WordCloudData mydata = WordCloudData(data: word_list);
+
       return Container(
-        padding: EdgeInsets.all(defaultPadding),
-        decoration: BoxDecoration(
-          color: secondaryColor,
-          borderRadius: const BorderRadius.all(Radius.circular(10)),
-        ),
-        child: Column(
-          crossAxisAlignment: CrossAxisAlignment.start,
-          children: [
-            Text(
-              "Frequent 10 Topics",
-              style: Theme.of(context).textTheme.headlineMedium?.apply(color: Colors.red),
-            ),
-            SizedBox(
-              width: double.infinity,
-              child: DataTable(
-                columnSpacing: defaultPadding,
-                columns: [
-                  DataColumn(
-                    label: Text("In All Posts", style: Theme.of(context).textTheme.titleLarge?.apply(color: Colors.blue),),
-                  ),
-                  DataColumn(
-                    label: Text("In Tweets", style: Theme.of(context).textTheme.titleLarge?.apply(color: Colors.blue),),
-                  ),
-                  DataColumn(
-                    label: Text("In Retweets", style: Theme.of(context).textTheme.titleLarge?.apply(color: Colors.blue),),
-                  ),
-                ],
-                rows: List.generate(
-                  demoRecentFiles.length,
-                  (index) => recentFileDataRow(frequentTopics[index]),
-                ),
-              ),
-            ),
-            // Text(
-            //   "Frequent 10 News Headlines",
-            //   style: Theme.of(context).textTheme.subtitle1,
-            // ),
-            // SizedBox(
-            //   width: double.infinity,
-            //   child: DataTable(
-            //     columnSpacing: defaultPadding,
-            //     columns: [
-            //       DataColumn(
-            //         label: Text("News Headlines"),
-            //       ),
-            //     ],
-            //     rows: List.generate(
-            //       demoRecentFiles.length,
-            //       (index) => DataRow(cells: [
-            //         DataCell(Text(topNewsTopics[index])),
-            //       ]),
-            //     ),
-            //   ),
-            // ),
-            // WordCloudView(
-            //   data: mydata,
-            //   mapwidth: 500,
-            //   mapheight: 300,
-            //   colorlist: [Colors.black, Colors.redAccent, Colors.indigoAccent],
-            //   mapcolor:  Color.fromARGB(255, 174, 183, 235),
-            // )
-          ],
-        ),
-      );
+          padding: EdgeInsets.all(defaultPadding),
+          height: MediaQuery.of(context).size.height,
+          width: double.infinity,
+          decoration: BoxDecoration(
+            color: secondaryColor,
+            borderRadius: const BorderRadius.all(Radius.circular(10)),
+          ),
+          child: Row(
+            children: [
+              Expanded(child: ExpandableHierarchyList()),
+              Expanded(child: ExpandableHierarchyList()),
+            ],
+          ));
     });
   }
 }
@@ -282,4 +235,156 @@ class FrequentTopic {
   final String? topic, topicTweet, topicRetweet;
 
   FrequentTopic({this.topic, this.topicTweet, this.topicRetweet});
+}
+
+// ----- expandable list --------
+
+class ExpandableHierarchyList extends StatefulWidget {
+  @override
+  _ExpandableHierarchyListState createState() =>
+      _ExpandableHierarchyListState();
+}
+
+class _ExpandableHierarchyListState extends State<ExpandableHierarchyList> {
+  List<Group> _groups = [
+    Group(
+      name: 'Personal Information',
+      description:
+          'This includes topics related to introductions, personal background, and interests.',
+      items: [
+        Item(name: 'John', count: 10),
+        Item(name: 'Mary', count: 5),
+        Item(name: 'David', count: 3),
+         Item(name: 'David', count: 3),
+          Item(name: 'David', count: 3),
+           Item(name: 'David', count: 3),
+            Item(name: 'David', count: 3),
+             Item(name: 'David', count: 3),
+              Item(name: 'David', count: 3),
+               Item(name: 'David', count: 3),
+      ],
+    ),
+    Group(
+      name: 'Current Events',
+      description:
+          'This includes topics related to local and global news, politics, and social issues.',
+      items: [
+        Item(name: 'News 1', count: 20),
+        Item(name: 'News 2', count: 15),
+        Item(name: 'News 3', count: 8),
+      ],
+    ),
+    Group(
+      name: 'Hobbies and Interests',
+      description:
+          'This includes topics related to hobbies, activities, and interests.',
+      items: [
+        Item(name: 'Hobby 1', count: 12),
+        Item(name: 'Hobby 2', count: 6),
+        Item(name: 'Hobby 3', count: 2),
+      ],
+    ),
+    // Add more groups here
+  ];
+
+  @override
+  Widget build(BuildContext context) {
+    return ListView.builder(
+        itemCount: _groups.length,
+        itemBuilder: (context, index) {
+          final group = _groups[index];
+          return ExpansionTile(
+            title: Text(group.name),
+            subtitle: Text(group.description),
+            children: [
+              DataTable(
+                columns: [
+                  DataColumn(label: Text('Name')),
+                  DataColumn(label: Text('Count')),
+                ],
+                rows: group.items
+                    .map((item) => DataRow(
+                          cells: [
+                            DataCell(Text(item.name)),
+                            DataCell(Text(item.count.toString())),
+                          ],
+                        ))
+                    .toList(),
+              ),
+            ],
+          );
+        },
+      );
+
+    // return GridView.builder(
+    //   itemCount: _groups.length,
+    //   gridDelegate: SliverGridDelegateWithFixedCrossAxisCount(
+    //     crossAxisCount: 2, // set the number of columns in the grid
+    //     // childAspectRatio: 3 / 2, // set the aspect ratio of each grid item
+    //     crossAxisSpacing: 10, // set the horizontal spacing between columns
+    //     mainAxisSpacing: 10, // set the vertical spacing between rows
+    //   ),
+    //   itemBuilder: (context, index) {
+    //     final group = _groups[index];
+    //     return ExpansionTile(
+    //       title: Text(group.name),
+    //       subtitle: Text(group.description),
+    //       children: [
+    //         DataTable(
+    //           columns: [
+    //             DataColumn(label: Text('Name')),
+    //             DataColumn(label: Text('Count')),
+    //           ],
+    //           rows: group.items
+    //               .map((item) => DataRow(
+    //                     cells: [
+    //                       DataCell(Text(item.name)),
+    //                       DataCell(Text(item.count.toString())),
+    //                     ],
+    //                   ))
+    //               .toList(),
+    //         ),
+    //       ],
+    //     );
+        // return Card(
+        //   child: Column(
+        //     children: [
+        //       Text(group.name),
+        //       Text(group.description),
+        //       DataTable(
+        //         columns: [
+        //           DataColumn(label: Text('Name')),
+        //           DataColumn(label: Text('Count')),
+        //         ],
+        //         rows: group.items
+        //           .map((item) => DataRow(
+        //             cells: [
+        //               DataCell(Text(item.name)),
+        //               DataCell(Text(item.count.toString())),
+        //             ],
+        //           ))
+        //           .toList(),
+        //       ),
+        //     ],
+        //   ),
+        // );
+      // },
+    // );
+  }
+}
+
+class Group {
+  final String name;
+  final String description;
+  final List<Item> items;
+
+  const Group(
+      {required this.name, required this.description, required this.items});
+}
+
+class Item {
+  final String name;
+  final int count;
+
+  const Item({required this.name, required this.count});
 }
