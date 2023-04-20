@@ -42,7 +42,7 @@ class _HeaderState extends State<Header> {
 }
 
 class ProfileCard extends StatelessWidget {
-   ProfileCard({
+  ProfileCard({
     Key? key,
   }) : super(key: key);
 
@@ -50,41 +50,37 @@ class ProfileCard extends StatelessWidget {
   Widget build(BuildContext context) {
     LocalDataRepository ld = LocalDataRepository.instance;
 
-
-    return Consumer<SearchModel>(
-      builder: (context, searchModel, child) {
-    var profile = ld.getProfileElonmusk;
-    if(searchModel.searchText == 'iamsrk')
-      profile = ld.getProfileSrk;
-        return Container(
-          margin: EdgeInsets.only(left: defaultPadding),
-          padding: EdgeInsets.symmetric(
-            horizontal: defaultPadding,
-            vertical: defaultPadding / 2,
-          ),
-          decoration: BoxDecoration(
-            color: secondaryColor,
-            borderRadius: const BorderRadius.all(Radius.circular(10)),
-            border: Border.all(color: Colors.white10),
-          ),
-          child: Row(
-            children: [
-              Image.network(
-               profile.profileImageUrl,
-                height: 38,
+    return Consumer<SearchModel>(builder: (context, searchModel, child) {
+      var profile = ld.getProfileElonmusk;
+      if (searchModel.searchText == 'iamsrk') profile = ld.getProfileSrk;
+      return Container(
+        margin: EdgeInsets.only(left: defaultPadding),
+        padding: EdgeInsets.symmetric(
+          horizontal: defaultPadding,
+          vertical: defaultPadding / 2,
+        ),
+        decoration: BoxDecoration(
+          color: secondaryColor,
+          borderRadius: const BorderRadius.all(Radius.circular(10)),
+          border: Border.all(color: Colors.white10),
+        ),
+        child: Row(
+          children: [
+            Image.network(
+              profile.profileImageUrl,
+              height: 38,
+            ),
+            if (!Responsive.isMobile(context))
+              Padding(
+                padding:
+                    const EdgeInsets.symmetric(horizontal: defaultPadding / 2),
+                child: Text(profile.displayname ?? "_"),
               ),
-              if (!Responsive.isMobile(context))
-                Padding(
-                  padding:
-                      const EdgeInsets.symmetric(horizontal: defaultPadding / 2),
-                  child: Text( profile.displayname ??  "Angelina Jolie"),
-                ),
-              Icon(Icons.keyboard_arrow_down),
-            ],
-          ),
-        );
-      }
-    );
+            Icon(Icons.keyboard_arrow_down),
+          ],
+        ),
+      );
+    });
   }
 }
 
@@ -96,7 +92,7 @@ class SearchField extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-     final searchModel = Provider.of<SearchModel>(context);
+    final searchModel = Provider.of<SearchModel>(context);
     return TextField(
       controller: textController,
       decoration: InputDecoration(
@@ -110,8 +106,8 @@ class SearchField extends StatelessWidget {
         suffixIcon: InkWell(
           onTap: () {
             searchModel.searchText = textController.text;
-          //   print(textController.text);
-          //  changeCurrentProfile(textController.text);
+            //   print(textController.text);
+            //  changeCurrentProfile(textController.text);
           },
           child: Container(
             padding: EdgeInsets.all(defaultPadding * 0.75),
