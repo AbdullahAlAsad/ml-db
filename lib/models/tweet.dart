@@ -1,3 +1,5 @@
+import 'dart:convert';
+
 class Tweet {
   String? date;
   String? id;
@@ -33,24 +35,27 @@ class Tweet {
     this.names,
   });
 
-  factory Tweet.fromJson(Map<String, dynamic> json) {
-    print(json['sentiment']);
+  factory Tweet.fromJson(Map<String, dynamic> js) {
+    String senJs = js['sentiment'];
+    senJs = senJs.replaceAll("'","\"");
+    String topJs = js['topic'];
+    topJs = topJs.replaceAll("'","\"");
     return Tweet(
-      date: json['date'] as String,
-      id: json['id'] as String,
-      rawContent: json['rawContent'] as String,
-      retweetedTweet: json['retweetedTweet'] as String,
-      quotedTweet: json['quotedTweet'] as String,
-      hashtags: json['hashtags'] as String,
-      replyCount: json['replyCount'] as String,
-      retweetCount: json['retweetCount'] as String,
-      likeCount: json['likeCount'] as String,
-      quoteCount: json['quoteCount'] as String,
-      viewCount: json['viewCount'] as String,
-      clean: json['clean'] as String,
-      sentiment: List<String>.from(json['sentiment'] as List<dynamic>),
-      topic: List<String>.from(json['topic'] as List<dynamic>),
-      names: json['names'] as String,
+      date: js['date'] as String,
+      id: js['id'] as String,
+      rawContent: js['rawContent'] as String,
+      retweetedTweet: js['retweetedTweet'] as String,
+      quotedTweet: js['quotedTweet'] as String,
+      hashtags: js['hashtags'] as String,
+      replyCount: js['replyCount'] as String,
+      retweetCount: js['retweetCount'] as String,
+      likeCount: js['likeCount'] as String,
+      quoteCount: js['quoteCount'] as String,
+      viewCount: js['viewCount'] as String,
+      clean: js['clean'] as String,
+      sentiment: json.decode(senJs).cast<String>(),//List<String>.from(json['sentiment'] as List<dynamic>),
+      topic: json.decode(topJs).cast<String>(),//List<String>.from(js['topic'] as List<dynamic>),
+      names: js['names'] as String,
     );
   }
 

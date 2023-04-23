@@ -1,6 +1,7 @@
 import 'package:admin/controllers/SearchModel.dart';
 import 'package:admin/models/ElonMuskTweet.dart';
 import 'package:admin/models/RecentFile.dart';
+import 'package:admin/models/word.dart';
 import 'package:admin/repo/LocalDataRepository.dart';
 // import 'package:data_table_2/data_table_2.dart';
 import 'package:flutter/material.dart';
@@ -22,10 +23,62 @@ class HierarchyData extends StatelessWidget {
       LocalDataRepository ld = LocalDataRepository.instance;
       var profile = ld.getProfileElonmusk;
       var posts = ld.getPostElonmusk;
+      var clses = ld.getTopicsElonmusk;
       if (searchModel.searchText == 'iamsrk') {
         profile = ld.getProfileSrk;
         posts = ld.getPostSrk;
+        clses = ld.getTopicsSrk;
       }
+
+      // separate list for every group
+
+      Map<String, List<Word>> groups = {};
+
+      for (Word word in clses) {
+        if (word.group != null) {
+          if (!groups.containsKey(word.group!)) {
+            groups[word.group!] = [];
+          }
+          groups[word.group!]!.add(word);
+        }
+      }
+
+      // Calculate the frequency of each word in each group
+      Map<String, Map<String, int>> wordCounts = {};
+      for (String groupName in groups.keys) {
+        Map<String, int> counts = {};
+        for (Word word in groups[groupName]!) {
+          if (word.word != null) {
+            if (!counts.containsKey(word.word!)) {
+              counts[word.word!] = 0;
+            }
+            counts[word.word!] = counts[word.word!]! + 1;
+          }
+        }
+        wordCounts[groupName] = counts;
+      }
+
+// Create the Group objects with the Item objects for each group
+      List<Group> groupList = [];
+      for (String groupName in groups.keys) {
+        List<Item> items = [];
+        for (String word in wordCounts[groupName]!.keys) {
+          int count = wordCounts[groupName]![word]!;
+          items.add(Item(name: word, count: count));
+        }
+        Group group = Group(
+            name: groupName,
+            description: "Description for $groupName",
+            items: items);
+        groupList.add(group);
+      }
+
+      int midpoint = groupList.length ~/ 2; // Find the midpoint index
+
+      List<Group> firstHalf =
+          groupList.sublist(0, midpoint); // Get the first half of the list
+      List<Group> secondHalf =
+          groupList.sublist(midpoint); // Get the second half of the list
 
 // ----------------
       // Step 1: Collect all topics from the rows into a single list.
@@ -59,135 +112,6 @@ class HierarchyData extends StatelessWidget {
 
       print(topTopics);
 
-      // Step 1: Collect all topics from the rows into a single list.
-      List<String> topicsTweet = posts
-          .where((post) =>
-              post.quotedTweet.isEmpty) // filter posts with empty quotedTweet
-          .map((post) => post.topic)
-          .toList();
-      print('topicstweet length' + topicsTweet.length.toString());
-// Step 2: Use the Map class to count the frequency of each topic.
-      Map<String, int> tweetTopicFrequency = {};
-      for (String topic in topicsTweet) {
-        tweetTopicFrequency[topic] = (tweetTopicFrequency[topic] ?? 0) + 1;
-        if (topic.length <= 1) {
-          tweetTopicFrequency[topic] = 0;
-        }
-        if (topic ==
-            'This is not a complete social media post so it is not possible to determine') {
-          tweetTopicFrequency[topic] = 0;
-        }
-        if (topic == 'none' || topic == 'Unknown') {
-          tweetTopicFrequency[topic] = 0;
-        }
-      }
-
-// Step 3: Sort the Map in descending order based on the frequency of the topics.
-      List<MapEntry<String, int>> sortedEntriesTweet =
-          tweetTopicFrequency.entries.toList()
-            ..sort((a, b) => b.value.compareTo(a.value));
-
-// Step 4: Select the top n topics from the sorted Map.
-      int nt = 10; // change this to select a different number of top topics
-      List<String> topTopicsTweet =
-          sortedEntriesTweet.take(nt).map((entry) => entry.key).toList();
-
-      print(topTopicsTweet);
-
-      // retweet
-
-      // Step 1: Collect all topics from the rows into a single list.
-      List<String> topicsRetweet = posts
-          .where((post) => post.quotedTweet
-              .isNotEmpty) // filter posts with non-empty quotedTweet
-          .map((post) => post.topic)
-          .toList();
-      print('topicstweet length' + topicsRetweet.length.toString());
-// Step 2: Use the Map class to count the frequency of each topic.
-      Map<String, int> retweetTopicFrequency = {};
-      for (String topic in topicsRetweet) {
-        retweetTopicFrequency[topic] = (retweetTopicFrequency[topic] ?? 0) + 1;
-        if (topic.length <= 1) {
-          retweetTopicFrequency[topic] = 0;
-        }
-        if (topic ==
-            'This is not a complete social media post so it is not possible to determine') {
-          retweetTopicFrequency[topic] = 0;
-        }
-        if (topic == 'none' || topic == 'Unknown') {
-          retweetTopicFrequency[topic] = 0;
-        }
-      }
-
-// Step 3: Sort the Map in descending order based on the frequency of the topics.
-      List<MapEntry<String, int>> sortedEntriesRetweet =
-          retweetTopicFrequency.entries.toList()
-            ..sort((a, b) => b.value.compareTo(a.value));
-
-// Step 4: Select the top n topics from the sorted Map.
-      int nrt = 10; // change this to select a different number of top topics
-      List<String> topTopicsRetweet =
-          sortedEntriesRetweet.take(nrt).map((entry) => entry.key).toList();
-
-      print(topTopicsRetweet);
-
-      List<FrequentTopic> frequentTopics = [];
-      var noOfTopicsToShow = 10;
-      for (var i = 0; i < noOfTopicsToShow; i++) {
-        FrequentTopic fq = new FrequentTopic(
-            topic: topTopics[i],
-            topicTweet: topTopicsTweet[i],
-            topicRetweet: topTopicsRetweet[i]);
-        frequentTopics.add(fq);
-      }
-// news topics
-      // Step 1: Collect all topics from the rows into a single list.
-      var newsPosts = ld.getNews;
-      List<String> newsTopics = newsPosts.map((post) => post.topic).toList();
-      print('topicsNews length ' + topics.length.toString());
-// Step 2: Use the Map class to count the frequency of each topic.
-      Map<String, int> newsTopicFrequency = {};
-      for (String topic in newsTopics) {
-        newsTopicFrequency[topic] = (newsTopicFrequency[topic] ?? 0) + 1;
-      }
-
-// Step 3: Sort the Map in descending order based on the frequency of the topics.
-      List<MapEntry<String, int>> sortedEntriesNews = newsTopicFrequency.entries
-          .toList()
-        ..sort((a, b) => b.value.compareTo(a.value));
-// Step 4: Select the top n topics from the sorted Map.
-      int nw = 10; // change this to select a different number of top topics
-      List<String> topNewsTopics =
-          sortedEntriesNews.take(n).map((entry) => entry.key).toList();
-
-      print(topNewsTopics);
-
-// -----------------------------------------------------------------
-      List<Map> data_list = [];
-
-      // for (var i = 0; i < sortedEntriesNews.length; i++) {
-      //   // print(sortedEntriesNews[i].key);
-      //   // print(sortedEntriesNews[i].value);
-      //   data_list.add({
-      //     'word': sortedEntriesNews[i].key,
-      //     'value': sortedEntriesNews[i].value
-      //   });
-      // }
-
-      List<Map> word_list = [
-        {'word': 'Apple', 'value': 100},
-        {'word': 'Samsung', 'value': 60},
-        {'word': 'Intel', 'value': 55},
-        {'word': 'Tesla', 'value': 50},
-        {'word': 'AMD', 'value': 40},
-        {'word': 'Google', 'value': 35},
-        {'word': 'Qualcom', 'value': 31},
-        {'word': 'Netflix', 'value': 27},
-      ];
-
-      print(data_list.length);
-      WordCloudData mydata = WordCloudData(data: word_list);
-
       return Container(
           padding: EdgeInsets.all(defaultPadding),
           height: MediaQuery.of(context).size.height,
@@ -198,8 +122,8 @@ class HierarchyData extends StatelessWidget {
           ),
           child: Row(
             children: [
-              Expanded(child: ExpandableHierarchyList()),
-              Expanded(child: ExpandableHierarchyList()),
+              Expanded(child: ExpandableHierarchyList(groups: firstHalf,)),
+              Expanded(child: ExpandableHierarchyList(groups: secondHalf,)),
             ],
           ));
     });
@@ -240,81 +164,45 @@ class FrequentTopic {
 // ----- expandable list --------
 
 class ExpandableHierarchyList extends StatefulWidget {
+  final List<Group> groups;
+  const ExpandableHierarchyList({Key? key, required this.groups})
+      : super(key: key);
   @override
   _ExpandableHierarchyListState createState() =>
       _ExpandableHierarchyListState();
 }
 
 class _ExpandableHierarchyListState extends State<ExpandableHierarchyList> {
-  List<Group> _groups = [
-    Group(
-      name: 'Personal Information',
-      description:
-          'This includes topics related to introductions, personal background, and interests.',
-      items: [
-        Item(name: 'John', count: 10),
-        Item(name: 'Mary', count: 5),
-        Item(name: 'David', count: 3),
-         Item(name: 'David', count: 3),
-          Item(name: 'David', count: 3),
-           Item(name: 'David', count: 3),
-            Item(name: 'David', count: 3),
-             Item(name: 'David', count: 3),
-              Item(name: 'David', count: 3),
-               Item(name: 'David', count: 3),
-      ],
-    ),
-    Group(
-      name: 'Current Events',
-      description:
-          'This includes topics related to local and global news, politics, and social issues.',
-      items: [
-        Item(name: 'News 1', count: 20),
-        Item(name: 'News 2', count: 15),
-        Item(name: 'News 3', count: 8),
-      ],
-    ),
-    Group(
-      name: 'Hobbies and Interests',
-      description:
-          'This includes topics related to hobbies, activities, and interests.',
-      items: [
-        Item(name: 'Hobby 1', count: 12),
-        Item(name: 'Hobby 2', count: 6),
-        Item(name: 'Hobby 3', count: 2),
-      ],
-    ),
-    // Add more groups here
-  ];
-
   @override
   Widget build(BuildContext context) {
+    List<Group> _groups = widget.groups;
+
     return ListView.builder(
-        itemCount: _groups.length,
-        itemBuilder: (context, index) {
-          final group = _groups[index];
-          return ExpansionTile(
-            title: Text(group.name),
-            subtitle: Text(group.description),
-            children: [
-              DataTable(
-                columns: [
-                  DataColumn(label: Text('Name')),
-                  DataColumn(label: Text('Count')),
-                ],
-                rows: group.items
-                    .map((item) => DataRow(
-                          cells: [
-                            DataCell(Text(item.name)),
-                            DataCell(Text(item.count.toString())),
-                          ],
-                        ))
-                    .toList(),
-              ),
-            ],
-          );
-        },
-      );
+      itemCount: _groups.length,
+      itemBuilder: (context, index) {
+        final group = _groups[index];
+        return ExpansionTile(
+          title: Text(group.name),
+          subtitle: Text(group.description),
+          children: [
+            DataTable(
+              columns: [
+                DataColumn(label: Text('Topic')),
+                DataColumn(label: Text('Count')),
+              ],
+              rows: group.items
+                  .map((item) => DataRow(
+                        cells: [
+                          DataCell(Text(item.name)),
+                          DataCell(Text(item.count.toString())),
+                        ],
+                      ))
+                  .toList(),
+            ),
+          ],
+        );
+      },
+    );
 
     // return GridView.builder(
     //   itemCount: _groups.length,
@@ -346,29 +234,29 @@ class _ExpandableHierarchyListState extends State<ExpandableHierarchyList> {
     //         ),
     //       ],
     //     );
-        // return Card(
-        //   child: Column(
-        //     children: [
-        //       Text(group.name),
-        //       Text(group.description),
-        //       DataTable(
-        //         columns: [
-        //           DataColumn(label: Text('Name')),
-        //           DataColumn(label: Text('Count')),
-        //         ],
-        //         rows: group.items
-        //           .map((item) => DataRow(
-        //             cells: [
-        //               DataCell(Text(item.name)),
-        //               DataCell(Text(item.count.toString())),
-        //             ],
-        //           ))
-        //           .toList(),
-        //       ),
-        //     ],
-        //   ),
-        // );
-      // },
+    // return Card(
+    //   child: Column(
+    //     children: [
+    //       Text(group.name),
+    //       Text(group.description),
+    //       DataTable(
+    //         columns: [
+    //           DataColumn(label: Text('Name')),
+    //           DataColumn(label: Text('Count')),
+    //         ],
+    //         rows: group.items
+    //           .map((item) => DataRow(
+    //             cells: [
+    //               DataCell(Text(item.name)),
+    //               DataCell(Text(item.count.toString())),
+    //             ],
+    //           ))
+    //           .toList(),
+    //       ),
+    //     ],
+    //   ),
+    // );
+    // },
     // );
   }
 }

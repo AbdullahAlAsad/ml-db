@@ -66,8 +66,8 @@ class LocalDataRepository {
     await loadPostIamSrk();
     await loadProfileElonMusk();
     await loadProfileIamSrk();
-    // await loadTweetsElonmusk();
-    // await loadTweetsSrk();
+    await loadTweetsElonmusk();
+    await loadTweetsSrk();
     await loadTopicsElonmusk();
     await loadTopicsSrk();
   }
@@ -159,25 +159,25 @@ class LocalDataRepository {
 
   Future<List<Tweet>> loadTweetsElonmusk() async {
     _tweetsElonmusk = await loadTweets(PATH_POST_T_ELONMUSK_JSON);
-    print(_tweetsElonmusk[0].toJson().toString());
+    // print(_tweetsElonmusk[0].toJson().toString());
     return _tweetsElonmusk;
   }
 
   Future<List<Tweet>> loadTweetsSrk() async {
     _tweetsSrk = await loadTweets(PATH_POST_T_IAMSRK_JSON);
-    print(_tweetsSrk[0].toJson().toString());
+    // print(_tweetsSrk[0].toJson().toString());
     return _tweetsSrk;
   }
 
   Future<List<Word>> loadTopicsElonmusk() async {
     _topicsElonMusk = await loadTopics(PATH_PA_ELONMUSK_JSON_CLASS);
-    print(_topicsElonMusk[0].toJson().toString());
+    // print(_topicsElonMusk[0].toJson().toString());
     return _topicsElonMusk;
   }
 
   Future<List<Word>> loadTopicsSrk() async {
     _topicsSrk = await loadTopics(PATH_PA_IAMSRK_JSON_CLASS);
-    print(_topicsSrk[0].toJson().toString());
+    // print(_topicsSrk[0].toJson().toString());
     return _topicsSrk;
   }
 }
