@@ -34,6 +34,7 @@ dependencies:
   provider: ^5.0.0
   csv: ^5.0.1
   word_cloud: ^1.0.1
+  intl: ^0.18.1
   # data_table_2: ^2.4.2
 
 dev_dependencies:

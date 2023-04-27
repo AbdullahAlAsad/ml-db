@@ -1,5 +1,6 @@
 import 'package:admin/responsive.dart';
 import 'package:admin/screens/dashboard/components/hierarchy_data.dart';
+import 'package:admin/screens/dashboard/components/hierarchy_details.dart';
 import 'package:admin/screens/dashboard/components/my_fields.dart';
 import 'package:admin/screens/dashboard/components/storage_details.dart';
 import 'package:flutter/material.dart';
@@ -27,11 +28,11 @@ class HierarchyScreen extends StatelessWidget {
                   child: Column(
                     children: [
                       MyFiles(),
-                      SizedBox(height: defaultPadding),
+                      SizedBox(height: defaultPadding*2),
                       HierarchyData(),
                       if (Responsive.isMobile(context))
                         SizedBox(height: defaultPadding),
-                      if (Responsive.isMobile(context)) StarageDetails(),
+                      if (Responsive.isMobile(context)) HierarchyDetails(),
                     ],
                   ),
                 ),
@@ -41,7 +42,7 @@ class HierarchyScreen extends StatelessWidget {
                 if (!Responsive.isMobile(context))
                   Expanded(
                     flex: 2,
-                    child: StarageDetails(),
+                    child: HierarchyDetails(),
                   ),
               ],
             )

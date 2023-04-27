@@ -1,10 +1,12 @@
 import 'package:admin/controllers/SearchModel.dart';
 import 'package:admin/models/MyFiles.dart';
+import 'package:admin/models/tweet.dart';
 import 'package:admin/repo/LocalDataRepository.dart';
 import 'package:admin/responsive.dart';
+import 'package:admin/screens/dashboard/components/tweet_bar_chart.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
-
+import 'package:intl/intl.dart';
 import '../../../constants.dart';
 import 'file_info_card.dart';
 
@@ -26,18 +28,6 @@ class MyFiles extends StatelessWidget {
               "Statistics",
               style: Theme.of(context).textTheme.subtitle1,
             ),
-            // ElevatedButton.icon(
-            //   style: TextButton.styleFrom(
-            //     padding: EdgeInsets.symmetric(
-            //       horizontal: defaultPadding * 1.5,
-            //       vertical:
-            //           defaultPadding / (Responsive.isMobile(context) ? 2 : 1),
-            //     ),
-            //   ),
-            //   onPressed: () {},
-            //   icon: Icon(Icons.add),
-            //   label: Text("Add New"),
-            // ),
             Text(
               "Updated 1 day ago",
               style: Theme.of(context).textTheme.subtitle1,
@@ -63,8 +53,8 @@ class MyFiles extends StatelessWidget {
 class FileInfoCardGridView extends StatelessWidget {
   const FileInfoCardGridView({
     Key? key,
-    this.crossAxisCount = 4,
-    this.childAspectRatio = 1,
+    this.crossAxisCount = 3,
+    this.childAspectRatio = 2,
   }) : super(key: key);
 
   final int crossAxisCount;
@@ -75,36 +65,47 @@ class FileInfoCardGridView extends StatelessWidget {
     return Consumer<SearchModel>(builder: (context, searchModel, child) {
       LocalDataRepository ld = LocalDataRepository.instance;
       var profile = ld.getProfileElonmusk;
-      var posts = ld.getPostElonmusk;
+      // var posts = ld.getPostElonmusk;
+      var tweets = ld.getTweetsElonmusk;
       if (searchModel.searchText == 'iamsrk') {
         profile = ld.getProfileSrk;
-        posts = ld.getPostSrk;
+        // posts = ld.getPostSrk;
+        tweets = ld.getTweetsSrk;
       }
       var tweetCounnt = 0;
       var reTweetCount = 0;
-      posts.map((post) {
-        tweetCounnt++;
-        if (post.quotedTweet.isNotEmpty) {
-          tweetCounnt--;
-          reTweetCount++;
-        }
-      }).toList();
+      // posts.map((post) {
+      //   tweetCounnt++;
+      //   if (post.quotedTweet.isNotEmpty) {
+      //     tweetCounnt--;
+      //     reTweetCount++;
+      //   }
+      // }).toList();
       // print('tweetcount -- $tweetCounnt -------retweetcount --------$reTweetCount');
 
+      tweets.map((post) {
+        if (post.quotedTweet!.isNotEmpty) {
+          reTweetCount++;
+        } else {
+          tweetCounnt++;
+        }
+      }).toList();
+      print(
+          'tweetcount -- $tweetCounnt -------retweetcount --------$reTweetCount');
       List stats = [
-        CloudStorageInfo(
-          title: "Status",
-          numOfFiles: int.parse(profile.statusesCount),
-          svgSrc: "assets/icons/message-circle-blank.svg",
-          totalStorage: "3 Month",
-          color: primaryColor,
-          percentage: 100,
-        ),
+        // CloudStorageInfo(
+        //   title: "Status",
+        //   numOfFiles: int.parse(profile.statusesCount),
+        //   svgSrc: "assets/icons/message-circle-blank.svg",
+        //   totalStorage: "3 Month",
+        //   color: primaryColor,
+        //   percentage: 100,
+        // ),
         CloudStorageInfo(
           title: "Tweet",
           numOfFiles: tweetCounnt,
           svgSrc: "assets/icons/message-circle-dots.svg",
-          totalStorage: "3 Month",
+          totalStorage: "4 Month",
           color: Color(0xFFFFA113),
           percentage: 100,
         ),
@@ -112,7 +113,7 @@ class FileInfoCardGridView extends StatelessWidget {
           title: "Retweet",
           numOfFiles: reTweetCount,
           svgSrc: "assets/icons/message-circle-refresh.svg",
-          totalStorage: "3 Month",
+          totalStorage: "4 Month",
           color: Color(0xFFA4CDFF),
           percentage: 100,
         ),
@@ -120,7 +121,7 @@ class FileInfoCardGridView extends StatelessWidget {
           title: "Followers",
           numOfFiles: int.parse(profile.followersCount),
           svgSrc: "assets/icons/team-member.svg",
-          totalStorage: "3 Month",
+          totalStorage: "4 Month",
           color: Color(0xFF007EE5),
           percentage: 100,
         ),
@@ -136,8 +137,54 @@ class FileInfoCardGridView extends StatelessWidget {
           mainAxisSpacing: defaultPadding,
           childAspectRatio: childAspectRatio,
         ),
-        itemBuilder: (context, index) => StatInfoCard(info: stats[index]),
+        itemBuilder: (context, index) => Column(
+          mainAxisSize: MainAxisSize.max,
+          children: [
+            StatInfoCard(info: stats[index]),
+            if (index == 0)
+              Expanded(
+                child: TweetBarChart(
+                    tweetCountByMonth: countTweetsByMonth(tweets)),
+              ),
+            if (index == 1)
+              Expanded(
+                child: TweetBarChart(
+                    tweetCountByMonth:
+                        countTweetsByMonth(tweets, isTweet: false)),
+              )
+          ],
+        ),
       );
     });
+  }
+
+  Map<String, int> countTweetsByMonth(List<Tweet> tweets,
+      {bool isTweet = true}) {
+    Map<String, int> tweetCountByMonth = {};
+
+    for (Tweet tweet in tweets) {
+      if (tweet.date != null) {
+        DateTime tweetDate = DateTime.parse(tweet.date!);
+        String monthYear = DateFormat('MMM yyyy').format(tweetDate);
+        if (!isTweet) {
+          // count retweet
+          if (tweet.quotedTweet!.isNotEmpty) {
+            if (tweetCountByMonth.containsKey(monthYear)) {
+              tweetCountByMonth[monthYear] = tweetCountByMonth[monthYear]! + 1;
+            } else {
+              tweetCountByMonth[monthYear] = 1;
+            }
+          }
+        } else {
+          if (tweetCountByMonth.containsKey(monthYear)) {
+            tweetCountByMonth[monthYear] = tweetCountByMonth[monthYear]! + 1;
+          } else {
+            tweetCountByMonth[monthYear] = 1;
+          }
+        }
+      }
+    }
+
+    return tweetCountByMonth;
   }
 }

@@ -75,9 +75,9 @@ class LocalDataRepository {
   Future<List<NewsTopic>> loadNews() async {
     String data = await rootBundle.loadString(PATH_NEWS_HEADLINES);
     List<List<dynamic>> csvTable = CsvToListConverter().convert(data);
-    print(csvTable[0].length.toString());
+    // print(csvTable[0].length.toString());
     List<NewsTopic> newsTopicList = csvTable.skip(1).map((row) {
-      print(row);
+      // print(row);
       return NewsTopic(topic: row[0]
           // Add additional properties as needed
           );

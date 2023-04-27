@@ -77,7 +77,7 @@ class StarageDetails extends StatelessWidget {
 
             var newsPosts = ld.getNews;
       List<String> newsTopics = newsPosts.map((post) => post.topic).toList();
-      print('topicsNews length ' + newsTopics.length.toString());
+      // print('topicsNews length ' + newsTopics.length.toString());
 // Step 2: Use the Map class to count the frequency of each topic.
       Map<String, int> newsTopicFrequency = {};
       for (String topic in newsTopics) {
@@ -93,7 +93,7 @@ class StarageDetails extends StatelessWidget {
       List<String> topNewsTopics =
           sortedEntriesNews.take(nw).map((entry) => entry.key).toList();
 
-      print(topNewsTopics);
+      // print(topNewsTopics);
 
       return Container(
         padding: EdgeInsets.all(defaultPadding),

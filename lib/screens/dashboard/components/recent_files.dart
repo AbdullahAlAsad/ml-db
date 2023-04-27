@@ -21,15 +21,38 @@ class RecentFiles extends StatelessWidget {
     return Consumer<SearchModel>(builder: (context, searchModel, child) {
       LocalDataRepository ld = LocalDataRepository.instance;
       var profile = ld.getProfileElonmusk;
-      var posts = ld.getPostElonmusk;
+      // var posts = ld.getPostElonmusk;
+      var tweets = ld.getTweetsElonmusk;
       if (searchModel.searchText == 'iamsrk') {
         profile = ld.getProfileSrk;
-        posts = ld.getPostSrk;
+        // posts = ld.getPostSrk;
+        tweets = ld.getTweetsSrk;
       }
 
+//       // Step 1: Collect all topics from the rows into a single list.
+//       List<String> topics = posts.map((post) => post.topic).toList();
+//       print('topicstweet length ' + topics.length.toString());
+// // Step 2: Use the Map class to count the frequency of each topic.
+//       Map<String, int> topicFrequency = {};
+//       for (String topic in topics) {
+//         topicFrequency[topic] = (topicFrequency[topic] ?? 0) + 1;
+//         if (topic.length <= 1) {
+//           topicFrequency[topic] = 0;
+//         }
+//         if (topic ==
+//             'This is not a complete social media post so it is not possible to determine') {
+//           topicFrequency[topic] = 0;
+//         }
+//         if (topic == 'none' || topic == 'Unknown') {
+//           topicFrequency[topic] = 0;
+//         }
+//       }
+
       // Step 1: Collect all topics from the rows into a single list.
-      List<String> topics = posts.map((post) => post.topic).toList();
-      print('topicstweet length ' + topics.length.toString());
+    List<String> topics = tweets.expand((post) => (post.topic ?? []).cast<String>()).toList();
+
+
+      // print('topicstweet length ' + topics.length.toString());
 // Step 2: Use the Map class to count the frequency of each topic.
       Map<String, int> topicFrequency = {};
       for (String topic in topics) {
@@ -46,29 +69,33 @@ class RecentFiles extends StatelessWidget {
         }
       }
 
+
+
 // Step 3: Sort the Map in descending order based on the frequency of the topics.
       List<MapEntry<String, int>> sortedEntries = topicFrequency.entries
           .toList()
         ..sort((a, b) => b.value.compareTo(a.value));
 
+        
+
 // Step 4: Select the top n topics from the sorted Map.
-      int n = 10; // change this to select a different number of top topics
+      int n = 20; // change this to select a different number of top topics
       List<String> topTopics =
           sortedEntries.take(n).map((entry) => entry.key).toList();
-
-      print(topTopics);
+// List<String> topTopicsRetweet = sortedEntriesRetweet.take(nrt).map((entry) => entry.key).where((topic) => topic.length > 3).toList();
+// .where((topic) => topic.length > 3)
+      // print(topTopics);
 
       // Step 1: Collect all topics from the rows into a single list.
-      List<String> topicsTweet = posts
+      List<String> topicsTweet = tweets
           .where((post) =>
-              post.quotedTweet.isEmpty) // filter posts with empty quotedTweet
-          .map((post) => post.topic)
-          .toList();
-      print('topicstweet length' + topicsTweet.length.toString());
+              post.quotedTweet!.isEmpty) // filter posts with empty quotedTweet
+          .expand((post) => (post.topic ?? []).cast<String>()).toList();
+      // print('topicstweet length--' + topicsTweet.length.toString());
 // Step 2: Use the Map class to count the frequency of each topic.
       Map<String, int> tweetTopicFrequency = {};
       for (String topic in topicsTweet) {
-        tweetTopicFrequency[topic] = (tweetTopicFrequency[topic] ?? 0) + 1;
+        tweetTopicFrequency[topic.toLowerCase()] = (tweetTopicFrequency[topic] ?? 0) + 1;
         if (topic.length <= 1) {
           tweetTopicFrequency[topic] = 0;
         }
@@ -76,7 +103,7 @@ class RecentFiles extends StatelessWidget {
             'This is not a complete social media post so it is not possible to determine') {
           tweetTopicFrequency[topic] = 0;
         }
-        if (topic == 'none' || topic == 'Unknown') {
+        if (topic == 'none' || topic == 'Unknown' || topic == 'unknown') {
           tweetTopicFrequency[topic] = 0;
         }
       }
@@ -87,21 +114,20 @@ class RecentFiles extends StatelessWidget {
             ..sort((a, b) => b.value.compareTo(a.value));
 
 // Step 4: Select the top n topics from the sorted Map.
-      int nt = 10; // change this to select a different number of top topics
+      int nt = 20; // change this to select a different number of top topics
       List<String> topTopicsTweet =
           sortedEntriesTweet.take(nt).map((entry) => entry.key).toList();
-
-      print(topTopicsTweet);
+//where((topic) => topic.length > 3).
+      // print(topTopicsTweet);
 
       // retweet
 
       // Step 1: Collect all topics from the rows into a single list.
-      List<String> topicsRetweet = posts
-          .where((post) => post.quotedTweet
+      List<String> topicsRetweet = tweets
+          .where((post) => post.quotedTweet!
               .isNotEmpty) // filter posts with non-empty quotedTweet
-          .map((post) => post.topic)
-          .toList();
-      print('topicstweet length' + topicsRetweet.length.toString());
+           .expand((post) => (post.topic ?? []).cast<String>()).toList();
+      // print('topicstweet length' + topicsRetweet.length.toString());
 // Step 2: Use the Map class to count the frequency of each topic.
       Map<String, int> retweetTopicFrequency = {};
       for (String topic in topicsRetweet) {
@@ -124,14 +150,14 @@ class RecentFiles extends StatelessWidget {
             ..sort((a, b) => b.value.compareTo(a.value));
 
 // Step 4: Select the top n topics from the sorted Map.
-      int nrt = 10; // change this to select a different number of top topics
+      int nrt = 20; // change this to select a different number of top topics
       List<String> topTopicsRetweet =
           sortedEntriesRetweet.take(nrt).map((entry) => entry.key).toList();
-
-      print(topTopicsRetweet);
+// .where((topic) => topic.length > 3)
+      // print(topTopicsRetweet);
 
       List<FrequentTopic> frequentTopics = [];
-      var noOfTopicsToShow = 10;
+      var noOfTopicsToShow = 20;
       for (var i = 0; i < noOfTopicsToShow; i++) {
         FrequentTopic fq = new FrequentTopic(
             topic: topTopics[i],
@@ -143,7 +169,7 @@ class RecentFiles extends StatelessWidget {
       // Step 1: Collect all topics from the rows into a single list.
       var newsPosts = ld.getNews;
       List<String> newsTopics = newsPosts.map((post) => post.topic).toList();
-      print('topicsNews length ' + topics.length.toString());
+      // print('topicsNews length ' + topics.length.toString());
 // Step 2: Use the Map class to count the frequency of each topic.
       Map<String, int> newsTopicFrequency = {};
       for (String topic in newsTopics) {
@@ -155,11 +181,11 @@ class RecentFiles extends StatelessWidget {
           .toList()
         ..sort((a, b) => b.value.compareTo(a.value));
 // Step 4: Select the top n topics from the sorted Map.
-      int nw = 10; // change this to select a different number of top topics
+      int nw = 20; // change this to select a different number of top topics
       List<String> topNewsTopics =
           sortedEntriesNews.take(n).map((entry) => entry.key).toList();
 
-      print(topNewsTopics);
+      // print(topNewsTopics);
       List<Map> data_list = [];
 
       // for (var i = 0; i < sortedEntriesNews.length; i++) {
@@ -182,7 +208,7 @@ class RecentFiles extends StatelessWidget {
         {'word': 'Netflix', 'value': 27},
       ];
 
-      print(data_list.length);
+      // print(data_list.length);
       WordCloudData mydata = WordCloudData(data: word_list);
       return Container(
         padding: EdgeInsets.all(defaultPadding),
@@ -194,26 +220,31 @@ class RecentFiles extends StatelessWidget {
           crossAxisAlignment: CrossAxisAlignment.start,
           children: [
             Text(
-              "Frequent 10 Topics",
-              style: Theme.of(context).textTheme.headlineMedium?.apply(color: Colors.red),
+              "Top 10 Topics",
+              style: Theme.of(context).textTheme.headlineMedium?.apply(color: Colors.yellow),
             ),
             SizedBox(
               width: double.infinity,
               child: DataTable(
                 columnSpacing: defaultPadding,
+                headingRowColor: MaterialStateProperty.all<Color?>(Color.fromARGB(255, 102, 102, 69)),
+                dividerThickness: 4,
+                showBottomBorder: true,
+                border: TableBorder.all(color: Colors.blue,width: 4),
+                dataRowColor: MaterialStateProperty.all<Color?>(Color.fromARGB(255, 14, 27, 77)),
                 columns: [
                   DataColumn(
-                    label: Text("In All Posts", style: Theme.of(context).textTheme.titleLarge?.apply(color: Colors.blue),),
+                    label: Text("In All Posts", style: Theme.of(context).textTheme.titleLarge?.apply(color: Color(0xFFFFA113)),),
                   ),
                   DataColumn(
-                    label: Text("In Tweets", style: Theme.of(context).textTheme.titleLarge?.apply(color: Colors.blue),),
+                    label: Text("In Tweets", style: Theme.of(context).textTheme.titleLarge?.apply(color: Color(0xFFA4CDFF)),),
                   ),
                   DataColumn(
-                    label: Text("In Retweets", style: Theme.of(context).textTheme.titleLarge?.apply(color: Colors.blue),),
+                    label: Text("In Retweets", style: Theme.of(context).textTheme.titleLarge?.apply(color: Color(0xFF007EE5)),),
                   ),
                 ],
                 rows: List.generate(
-                  demoRecentFiles.length,
+                 10,
                   (index) => recentFileDataRow(frequentTopics[index]),
                 ),
               ),
@@ -271,9 +302,9 @@ DataRow recentFileDataRow(FrequentTopic frequentTopic) {
       //     ],
       //   ),
       // ),
-      DataCell(Text(frequentTopic.topic!)),
-      DataCell(Text(frequentTopic.topicTweet!)),
-      DataCell(Text(frequentTopic.topicRetweet!)),
+      DataCell(Text(frequentTopic.topic!,style: TextStyle(color: Color(0xFFFFA113)),)),
+      DataCell(Text(frequentTopic.topicTweet!,style: TextStyle(color: Color(0xFFA4CDFF)))),
+      DataCell(Text(frequentTopic.topicRetweet!,style: TextStyle(color: Color(0xFF007EE5)))),
     ],
   );
 }

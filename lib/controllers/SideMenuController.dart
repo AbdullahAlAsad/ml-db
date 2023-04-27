@@ -2,7 +2,7 @@ import 'package:admin/screens/main/components/side_menu.dart';
 import 'package:flutter/material.dart';
 
 class SideMenuController extends ChangeNotifier {
-  MenuEnum _selected = MenuEnum.Hierarchy;
+  MenuEnum _selected = MenuEnum.Dashboard;
 
   MenuEnum get selected => _selected;
 
