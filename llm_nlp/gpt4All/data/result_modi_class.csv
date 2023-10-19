@@ -1,0 +1,339 @@
+Prompt,Output
+love,['love']
+happy,"['happy', 'happy']"
+awesome,"['awesome', 'awesome']"
+follow,"['follow', 'follow']"
+like,"['like', 'like', 'like', 'like', 'like']"
+retweet,"['I am a student at XYZ University.', 'I am currently studying for my exams.', 'I enjoy reading, playing video games and listening to music.', 'I enjoy watching movies and TV shows.', 'I am planning a trip to Europe next summer.', 'I love trying new cuisines and experimenting with different flavors.', 'I exercise regularly to maintain my physical health.']"
+link,[]
+followed,"['Name,', 'Address', 'World News,', 'Sports Scores', 'Reading,', 'Music', 'TV Shows,', 'Movie Trailers', 'Destinations,', 'Travel Tips', 'Italian Cuisine,', 'Mexican Food', 'Exercise,', 'Healthy Habits', 'Friendship,', 'Family', 'Job Interview,']"
+tweet,"['twet', 'twet', 'twet']"
+follow,"['follow', 'follow']"
+like,"['like', 'like', 'like', 'like']"
+retweet,"['I am a student at the University of California, Berkeley. I am majoring in Computer Science and minoring in Artificial Intelligence.', ""I am currently working on a project for my internship. It's an AI-based project that involves analyzing data from a social media platform."", 'I enjoy playing video games, reading books and watching movies.', 'I love watching TV shows and movies, especially those that are based on science fiction.']"
+love,"['love', 'love']"
+happy,"['happy', 'happy']"
+awesome,"['awesome', 'awesome']"
+nan,"['nan', 'nan', 'nan']"
+nan,"['nan', 'nan', 'nan']"
+revolutionize,"['revolutionize', 'revolutionize']"
+agrifood,"['agrifood', 'agrifood', 'agrifood', 'agrifood', 'agrifood']"
+reduce,[]
+wastage,"['wasstage', 'wasstage']"
+ensure,"['ensure', 'ensure', 'ensuring that the door is closed before leaving', 'ensuring that the car is parked safely.']"
+better,"[""What's your name?"", ""What's the latest news?"", 'I like to read, write and play video games.', 'I love watching movies and TV shows.', ""I've been to Paris, France and New York City."", 'I love trying new cuisines.', 'I exercise regularly to stay healthy.', 'I have a good relationship with my family.']"
+nan,"['nan', 'nan', 'nan']"
+follow,['follow']
+like,"['like', 'like', 'like', 'like', 'like']"
+retweet,"['Classify the following words into one of the categories: Personal Information, Current Events, Hobbies and Interests, Entertainment, Travel, Food and Dining, Health and Fitness, Relationships, Work and Career, Education, Culture and Society, Sports and Recreation, Personal Growth and Development, Fashion and Style, Home and Family, Technology and Gadgets, Art and Creativity, Pets and Animals, Philosophy and Ethics, Nature and Environment.', 'Classify the following words into one of the categories: Personal Information, Current Events.']"
+love,"['love', 'love']"
+happy,"['happy', 'happy']"
+hope,['hope.']
+pleasure,[]
+interaction,[]
+majesty,"['majesty', 'majesty']"
+king noro,['king noro']
+atpaea,[]
+cambodi,"['cambodi', 'cambodi']"
+welcome,[]
+king,"['king', 'king']"
+nerodom,['nerodom']
+nerodom,"['nerodom', 'nerodom']"
+strive,[]
+uphold,[]
+dignity,['diginity']
+enhance,[]
+life,"['life', 'life', 'life', 'life', 'life', 'life', 'life']"
+9 years old,[]
+seva,"['sevam', 'sevam', 'sevam', 'sevaaam', 'sevatam', 'sevam', 'sevam', 'sevam', 'sevam', 'sevaaam']"
+ugnvb,['ugnvb']
+nan,"['nan', 'nan', 'nan']"
+nan,"['nan', 'nan', 'nan']"
+nan,"['nan', 'nan', 'nan']"
+today,[]
+completed 9 years service nation honor privilege serve,[]
+filled humility,['filled humility']
+gratitude desire improve lives people,"['I am a student at XYZ University. I enjoy studying and learning new things.', ""I am currently working on a project for my internship. It's exciting to be working on something new."", 'I enjoy reading, playing video games and listening to music.', 'I love watching movies and TV shows, especially comedies.', 'I love traveling to new places and experiencing different cultures.']"
+guided desire improve lives people,"['I am a student at XYZ University. I enjoy studying and learning new things.', ""I am currently working on a project for my internship. It's been challenging but rewarding."", 'I enjoy reading, playing video games and listening to music.', 'I love watching movies and TV shows.', 'I have been to several places in my lifetime, including Europe and Asia.']"
+made every decision eye betterment people,"[""I'm sorry, I don't understand what you mean by 'made every decision eye betterment people'."", ""I'm sorry, I don't have any current events to share with you."", 'I have a variety of hobbies and interests, such as reading books, playing video games and listening to music.', 'I enjoy watching movies, playing video games and listening to music.', 'I love traveling to new places and experiencing different cultures.']"
+nan,"['nan', 'nan', 'nan']"
+follow,['follow']
+like,[]
+retweet,"['Name', 'Age', ""What's new in the world?"", 'The latest news', 'Reading, writing, painting', 'Watching movies, listening to music', 'Going on a trip to Paris, visiting the Grand Canyon', 'Eating sushi, trying new recipes', 'Exercising, eating healthy']"
+consistently,"['I am a student at the University of California, Berkeley. I am majoring in Computer Science and minoring in Artificial Intelligence.', ""I am currently working on a project for my internship. It's an AI-based project that involves analyzing data from a social media platform."", 'I enjoy playing video games, reading books and watching movies.', 'I love watching TV shows and movies, especially those that are based on science fiction.']"
+neglected,"['neglected', 'neglected']"
+2014,[]
+transformed,"['My name is [Name] and I am a student at the University of [University Name].', 'I am currently studying for my exams.', 'I enjoy reading, playing video games and listening to music.', 'I enjoy watching movies and TV shows.', 'I have traveled to [City] and I loved it.', 'I love trying new cuisines and restaurants.']"
+nan,"['nan', 'nan', 'nan']"
+peace upon,"['peace upon', 'peace upon', 'peace upon', 'peace upon', 'peace upon', 'peace upon', 'peace upon']"
+ ,"['Name,', 'Address', 'World News,', 'Sports Scores', 'Reading,', 'Music', 'TV Shows,', 'Movie Trailers', 'Destinations,', 'Travel Tips', 'Italian Cuisine,', 'Mexican Food', 'Exercise,', 'Healthy Recipes', 'Family,', 'Romance', 'Job Interview,']"
+ ,"['Name,', 'Address', 'World News,', 'Sports Scores', 'Reading,', 'Music', 'Movie Trailers,', 'TV Shows', 'Destinations,', 'Travel Tips', 'Italian Cuisine,', 'Mexican Food', 'Exercise Routine,', 'Healthy Recipes', 'Family,', 'Romance Novels']"
+world,"['world', 'world', 'world', 'world', 'world', 'world', 'world']"
+universe,"['I am a student at the University of California, Berkeley.', 'I am currently taking a course on the history of art.', 'I enjoy reading, playing the piano and painting.', 'I enjoy watching movies, playing video games and listening to music.', 'I have traveled to several countries in Europe and Asia.', 'I love trying new cuisines and experimenting with different flavors.']"
+ ,"['Name', 'Address', ""New Year's Eve"", 'World War II', 'Reading', 'Music', 'Watching TV', 'Listening to Music', 'Europe', 'Hawaii', 'Italian', 'Indian Cuisine', 'Exercise', 'Meditation', 'Friends', 'Family', 'Teacher']"
+ ,"['Name,', 'Address', ""New Year's Eve,"", 'Election Day', 'Reading,', 'Music', 'Movie,', 'Sports', 'Paris,', 'Hawaii', 'Italian,', 'Indian', 'Exercise,', 'Meditation', 'Marriage,', 'Friendship', 'Sales,', 'Engineer']"
+nan,"['nan', 'nan', 'nan']"
+confident,['confident.']
+constructive meeting,"['constructive meeting', 'constructive meeting', 'constructive meeting', 'constructive meeting', 'constructive meeting']"
+bjp cms deputy cm,"['bjp cms deputy cm', 'bjp cms deputy cm', 'bjp cms deputy cm']"
+cms,"['cms', 'cms', 'Technology and Gadget']"
+nan,"['nan', 'nan', 'nan']"
+nan,"['nan', 'nan', 'nan']"
+excellent,"['excellent', 'excellent']"
+museums,"['I have a collection of antique books and artifacts that I enjoy collecting.', ""I'm excited to see the new movie release this weekend."", 'I enjoy reading, playing guitar and painting.', 'I love watching TV shows and movies.', ""I'm planning a trip to Europe next summer."", 'I love trying new cuisines and restaurants.', 'I exercise regularly to maintain my health and fitness.']"
+indi,"['I am a student at the University of California, Berkeley. I am majoring in Computer Science and minoring in Artificial Intelligence.', ""I am currently working on a project for my internship. It's about analyzing data from a social media platform."", 'I enjoy playing soccer, reading books and listening to music.', 'I love watching movies and TV shows, especially action-adventure ones.']"
+aapko,"['aaplko', 'aaplko.']"
+mannki,[]
+summer,"['summer.', 'summer', 'summer', 'summer', 'summer', 'summer', 'summer']"
+highlight,"['Highlight the importance of teamwork in achieving success.', 'The athlete who was highlighted in the news for their outstanding performance.', 'Highlight the importance of taking breaks to avoid burnout.']"
+innovative startups,"['I am a student at XYZ University. I enjoy studying and learning new things.', ""I am currently working on a project for my internship. It's exciting to see it come together."", 'I enjoy reading, playing video games and listening to music.', 'I love watching movies and TV shows, especially comedies.', ""I am planning a trip to Europe next summer. I can't wait!""]"
+nan,"['nan', 'nan', 'nan']"
+man,"['man', 'man']"
+co,"['co', 'co', 'co']"
+ot,"['Name,', 'Address', 'World News,', 'Sports Scores', 'Reading,', 'Music', 'TV Shows,', 'Movie Trailers', 'Destinations,', 'Travel Tips', 'Italian Cuisine,', 'Mexican Food', 'Exercise,', 'Healthy Habits', 'Family,', 'Friendship', 'Job Interview,']"
+man,"['man', 'man']"
+co,"['co', 'co']"
+2vlovmb1ys,['2vlovmb1ys']
+nan,"['nan', 'nan', 'nan']"
+greatly admire,[]
+vishakha singh bihar,"['I am sorry, I do not have enough information to classify your name into one of the categories mentioned. Can you please provide more context or details about your name?']"
+greatly admire,[]
+man,"['man', 'man']"
+co,"['co', 'co', 'company']"
+p,"['Name', 'Age', ""What's new in the world?"", 'Reading, writing, painting', 'Watching movies, listening to music', 'Going on a trip to Paris next week', 'I love trying new cuisines', 'Exercising regularly to stay healthy', ""I'm in a relationship with my partner""]"
+man,"['man', 'man']"
+kibaat,"['kiBaaT', 'kiBaaT', 'kiBaaT', 'kiBaaT', 'kiBaaT', 'kiBaaT', 'kiBaaT', 'kiBaaT', 'kiBaaT', 'kiBaaT']"
+co,"['Name,', 'Address', ""New Year's Eve,"", 'Election Day', 'Reading,', 'Writing', 'Watching TV,', 'Listening to Music', 'Paris,', 'Machu Picchu', 'Italian,', 'Indian Cuisine', 'Exercise,', 'Healthy Habits', 'Marriage,', 'Family']"
+nan,"['nan', 'nan']"
+man,"['man', 'man']"
+kibaat,[]
+co,"['co', 'co']"
+co,"['co', 'co', 'co']"
+love,"['love', 'love']"
+hate,['hate']
+hope,"['hope', 'hope', 'hope']"
+prompt,[]
+task,"['task', 'task']"
+conversation,[]
+love,"['love', 'love']"
+hate,['hate']
+hope,['hope.']
+love,"['love', 'love']"
+happy,"['happy', 'happy']"
+thankful,[]
+love,"['love', 'love']"
+happy,"['happy', 'happy']"
+journey,"['jouurneay', 'jouurneay']"
+nan,"['nan', 'nan', 'nan']"
+delighted,['delighted']
+see,"['see', 'see', 'see']"
+recognized,"['recognized', 'recognized']"
+see,"['see', 'see']"
+senegal,"['I am a student at the University of Washington. I enjoy studying and learning new things.', ""I am currently working on a project for my internship. It's been challenging but rewarding."", 'I enjoy reading, playing guitar and listening to music. I also enjoy hiking, camping and spending time outdoors.', 'I enjoy watching movies, TV shows and playing video games. I also enjoy going to concerts and live performances.']"
+merge,"['merge', 'merge']"
+beautifully,"['beautifully', 'beautifully', 'beautifully', 'beautifully', 'beautifully']"
+new,['new']
+parliament house reflection,[]
+aspirations,['aspirations']
+share,[]
+month,['month']
+mannkibaaat,[]
+mann ki baat,[]
+programme,[]
+mann ki baat,[]
+nan,"['nan', 'nan', 'nan']"
+follow,['follow']
+like,[]
+retweet,"['I am a student at XYZ University.', 'I am currently studying for my exams.', 'I enjoy reading, playing video games and listening to music.', 'I enjoy watching movies, playing sports and listening to music.', 'I am planning a trip to Europe next summer.', 'I love trying new cuisines and experimenting with different flavors.', 'I exercise regularly to maintain my physical health.']"
+ ,"['Name,', 'Address', 'World News,', 'Sports Scores', 'Reading,', 'Music', 'Movie,', 'TV Show', 'Destination,', 'Hotel', 'Italian,', 'Indian Cuisine', 'Exercise,', 'Healthy Foods', 'Friend,', 'Family', 'Job,', 'Salary']"
+pride,"['What is your name?', 'What is the current political climate in your country?', 'What are your favorite hobbies or interests?', 'What is your favorite form of entertainment?', 'Where have you traveled to in the past?', 'What is your favorite dish to eat?', 'What is your favorite exercise routine?', 'What is your relationship status?']"
+mepride,"['mepride', 'mepride', 'mepride']"
+ ,"['Name', 'Address', 'World News', 'Sports Scores', 'Reading', 'Music', 'TV Shows', 'Movie Trailers', 'Destinations', 'Travel Guides', 'Italian Cuisine', 'Mexican Food', 'Exercise', 'Healthy Recipes', 'Family', 'Romance Novels']"
+pride,"['What is your name?', 'What is the current political climate in your country?', 'What are your favorite hobbies?', 'What is your favorite form of entertainment?', 'Where have you traveled to in the past?', 'What is your favorite dish?', 'What is your exercise routine like?', 'What is your relationship status?']"
+mvp,"['mvp', 'mvp', 'mvp', ""I'm a big fan of mvp"", 'I have a lot of interests in mvp.', 'mvp']"
+convolution,[]
+well,[]
+myparliamentmypride,[]
+nan,"['nan', 'nan', 'nan']"
+ ,"['Name,', 'Address', 'World News,', 'Sports Scores', 'Reading,', 'Music', 'TV Shows,', 'Movie Trailers', 'Destinations,', 'Travel Guides', 'Italian Cuisine,', 'Mexican Food', 'Exercise,', 'Healthy Recipes', 'Family,', 'Romance Novels']"
+pride,"['What is your name?', 'What is the current political climate in your country?', 'What are your favorite hobbies?', 'What is your favorite form of entertainment?', 'Where have you traveled to in the past?', 'What is your favorite dish?', 'What is your exercise routine like?', 'What is your relationship status?']"
+mepride,"['mepride', 'mepride', 'mepride']"
+ ,"['Name,', 'Address', 'World News,', 'Sports Scores', 'Reading,', 'Music', 'Movie,', 'TV Show', 'Paris,', 'New York', 'Italian,', 'Indian', 'Exercise,', 'Healthy Foods', 'Friend,', 'Family', 'Job,', 'Education', 'University,']"
+pride,"['What is your name?', 'What is the current political climate in your country?', 'What are your favorite hobbies?', 'What is your favorite form of entertainment?', 'Where have you traveled to in the past?', 'What is your favorite dish?', 'What is your favorite exercise routine?', 'What is your relationship status?']"
+mvp,"['Name', 'Address', 'World News', 'Sports Scores', 'Reading', 'Music', 'Movie Trailers', 'TV Shows', 'Destinations', 'Travel Tips', 'Italian Cuisine', 'Mexican Food', 'Exercise Routine', 'Healthy Foods', 'Marriage', 'Family Relationships']"
+feel,"['feel', 'feel']"
+welcome,[]
+respect,['respect']
+nan,"['nan', 'nan', 'nan']"
+love,['love']
+happy,['happy']
+hope,"['hope', 'hope', 'hope', 'hope', 'hope.']"
+love,"['love', 'love']"
+happy,"['happy', 'happy']"
+sad,"['Name', 'Address', 'World News', 'Sports Scores', 'Reading', 'Music', 'TV Shows', '.5. Travel - ', ', ', '.6. Food and Dining - ', ', ', '.7. Health and Fitness - ', ', ', '.8. Relationship - ', ', ', '.9. Work and Career - ', ', ']"
+love,['love']
+happy,"['happy', 'happy', 'happy', 'happy', 'happy', 'happy', 'happy']"
+awesome,['awesome']
+love,['love']
+happy,"['happy', 'happy', 'happy', 'happy', 'happy', 'happy']"
+hope,"['hope', 'hope']"
+love,"['love', 'love']"
+happy,"['happy', 'happy']"
+sad,"['Name,', 'Address', ""New Year's Eve,"", 'Presidential Inauguration', 'Reading,', 'Writing', 'Watching TV Shows,', 'Listening to Music', 'Europe,', 'Hawaii', 'Italian Cuisine,', 'Indian Curry', 'Exercise,', 'Meditation', 'Friends,', 'Family']"
+love,"['love', 'love']"
+happy,"['happy', 'happy']"
+hope,['hope.']
+love,"['love', 'love']"
+happy,"['happy', 'happy']"
+sad,"['Name,', 'Address', 'World Cup,', 'Election Day', 'Reading,', 'Music', 'Watching TV,', 'Listening to Music', 'Europe,', 'Hawaii', 'Italian,', 'Indian Cuisine', 'Exercise,', 'Healthy Eating', 'Friends,', 'Family', 'Sales,', 'Engineer']"
+love,['love']
+happy,"['happy', 'happy']"
+awesome,"['awesome', 'awesome']"
+love,"['love', 'love']"
+happy,"['happy', 'happy']"
+hope,"['hope', 'hope']"
+love,"['love', 'love']"
+happy,"['happy', 'happy']"
+sad,"['Name,', 'Address', 'World News,', 'Sports Scores', 'Reading,', 'Music', 'Movie Trailers,', 'TV Shows', 'Destinations,', 'Hotels', 'Italian Cuisine,', 'Indian Food', 'Exercise,', 'Healthy Habits', 'Family,', 'Friends', 'Job Interviews,']"
+love,"['love', 'love']"
+happy,['happy']
+hope,"['hope', 'hope']"
+love,"['love', 'love']"
+happy,"['happy', 'happy', 'happy', 'happy', 'happy', 'happy']"
+sad,"['Name,', 'Address', 'World News,', 'Sports Scores', 'Reading,', 'Music', 'TV Shows,', 'Movie Trailers', ""Cities I've Visited,"", 'Places to Visit', 'Italian Cuisine,', 'Best Restaurants', 'Exercise Routine,', 'Health Tips', 'Friends,', 'Family']"
+love,['love']
+happy,"['happy', 'happy', 'happy', 'happy', 'happy', 'happy']"
+awesome,['awesome']
+love,"['love', 'love']"
+happy,"['happy', 'happy']"
+hope,"['hope', 'hope']"
+love,"['love', 'love']"
+happy,"['happy', 'happy']"
+sad,"['Name', 'Age', ""Today's Date"", 'Reading', 'Writing', 'Watching Movies', 'Listening to Music', 'Going on a Vacation', 'Traveling to New Places', 'Eating Healthy Foods', 'Drinking Water', 'Exercising', 'Taking Medication', 'Talking to My Partner']"
+privilege,"['My name is [Name] and I am a student at the University of [University Name].', 'I am currently studying for my exams.', 'I enjoy reading, playing video games and listening to music.', 'I enjoy watching movies, playing sports and listening to live music.', 'I have traveled to [City] and visited the Eiffel Tower.', 'I love trying new cuisines and experimenting with different flavors.']"
+seek blessings,[]
+adheena,[]
+nan,"['nan', 'nan', 'nan']"
+nan,"['nan', 'nan', 'nan']"
+humble,['humble']
+fulfilled,"['My name is [Name], and I am a student at the University of [University Name]. I am majoring in [Major], and my interests include reading, writing, and playing sports. I also enjoy spending time with my family and friends.', 'I am currently studying for my exams, and I plan to take a break after the exams. In my free time, I enjoy watching movies and playing video games.', 'I have a few hobbies, such as painting and playing the guitar. I also enjoy hiking, camping and fishing.']"
+aspirations,"['Name,', 'Address', 'World News,', 'Sports Scores', 'Reading,', 'Music', 'Movie Trailers,', 'TV Shows', 'Destinations,', 'Travel Tips', 'Italian Cuisine,', 'Mexican Food', 'Exercise Routine,', 'Healthy Recipes', 'Family,', 'Romance', 'Job Interview,']"
+highlighted,"['highlighted', 'highlighted', 'highlighted']"
+key infrastructure,['key infrastructure.']
+ease,"['Name', 'Address', 'World News', 'Sports Scores', 'Reading', 'Music', 'TV Shows', 'Movie Trailers', 'Destinations', 'Travel Guides', 'Italian Cuisine', 'Mexican Food', 'Exercise', 'Healthy Foods', 'Family', 'Romance', 'Job Interviews']"
+grassroots level,['grassroots']
+nan,"['nan', 'nan', 'nan']"
+elect,"['elect', 'elect']"
+stable government,"['stable government', 'government.']"
+unparalleled support,"['I am a student at XYZ University. I enjoy studying and learning new things.', ""I am currently working on a project for my internship. It's been challenging but rewarding."", 'I enjoy reading, playing video games and listening to music.', 'I love watching movies and TV shows.', 'I have been to several places in my lifetime, including Europe and Asia.']"
+build,"['build', 'build']"
+strong,['strong']
+prosperous,"['prosperous', 'prosperous', 'prosperous', 'successful', 'prosperous', 'prosperous']"
+india,"['I am a student at the University of California, Berkeley. I am majoring in Computer Science and minoring in Artificial Intelligence.', 'I am currently working on a project for my internship. It involves analyzing data from a social media platform.', 'I enjoy playing soccer, reading books about history and science, listening to music by my favorite artist.', 'I enjoy watching movies, playing video games and listening to podcasts.']"
+amrit,"['amrit', 'amrit']"
+appreciated,[]
+since,"['since', 'since', 'I have been studying since last semester.', 'since', 'I am studying since I want to pass the exam.']"
+morning,['morning']
+9years,"['Name', 'Address', ""New Year's Eve"", 'Election Day', 'Reading', 'Writing', 'Watching TV', 'Listening to Music', 'Going on Vacation', 'Traveling to Europe', 'Italian Cuisine', 'Mexican Food', 'Exercise', 'Healthy Habits']"
+birthday,[]
+greeting,"['greeting', 'greeting', 'greeting']"
+passion,['passion']
+gadkari,"['gadkar', 'gadkar', 'gadkar', 'gadkar']"
+ji,"['ji', 'ji', 'ji']"
+nan,"['nan', 'nan', 'nan']"
+love,['love']
+happy,"['happy', 'happy']"
+hope,"['hope', 'hope', 'hope']"
+love,['love']
+happy,['happy']
+sad,"['Name', 'Age', ""Today's Date"", 'Reading', 'Writing', 'Music', 'Watching TV Shows', 'Listening to Music', 'Playing Video Games', 'Going on Vacations', 'Traveling to New Places', 'Eating Healthy Foods', 'Drinking Water', 'Eating Out']"
+love,['love']
+happy,"['happy', 'happy', 'happy', 'happy', 'happy', 'happy', 'happy']"
+awesome,['awesome']
+love,"['love', 'love']"
+happy,"['happy', 'happy']"
+hope,['hope.']
+love,['love']
+happy,"['happy', 'happy', 'happy', 'happy', 'happy', 'happy']"
+sad,"['Name', 'Age', ""What's new in the world?"", 'Reading, writing', 'Watching movies, listening to music', 'Going on a trip to Paris next month', 'Eating out at a fancy restaurant tonight', 'Exercising at the gym every day', 'Talking to my girlfriend about our future plans']"
+good news,[]
+connectivity,"['connectivity', 'connectivity', 'connectivity']"
+tourism,"['Name,', 'Address', 'World News,', 'Sports Scores', 'Reading,', 'Music', 'Movie Trailers,', 'TV Shows', 'Destinations,', 'Travel Tips', 'Italian Cuisine,', 'Mexican Food', 'Exercise,', 'Healthy Habits', 'Marriage,', 'Family', 'Job Interviews,']"
+new,"['new', 'new']"
+parliament building,['parliament building.']
+indian,"['I am a student at the University of California, Berkeley. I am majoring in Computer Science and minoring in Artificial Intelligence.', 'I am currently working on a project for my internship. It involves analyzing data from a social media platform.', 'I enjoy playing video games, reading books and watching movies.', 'I enjoy watching TV shows and movies, listening to music.', 'I have traveled to several countries in Europe and Asia.']"
+parliament,['parliament']
+next generation infrastructure,['next generation infrastructure.']
+boost,"['boost', 'boost']"
+ease,"['Name,', 'Address', ""New Year's Eve,"", 'Presidential election', 'Reading,', 'Music', 'Watching movies,', 'Listening to music', 'Paris,', 'New York', 'Italian,', 'Indian', 'Exercise,', 'Meditation', 'Friends,', 'Family', 'Sales,', 'Engineer']"
+living,"['living', 'living']"
+love,"['love', 'love']"
+happy,"['happy', 'happy']"
+hope,"['hope', 'hope']"
+love,"['love', 'love']"
+happy,"['happy', 'happy']"
+sad,"['Name', 'Age', ""Today's Date"", 'Reading', 'Writing', 'Painting', 'Watching Movies', 'Listening to Music', 'Playing Video Games', 'Reading Books', 'Going to the Beach', 'Traveling Abroad', 'Going on a Road Trip', 'Traveling to New York City']"
+love,"['love', 'love', 'love', 'love', 'love', 'love', 'love']"
+happy,"['happy', 'happy', 'happy', 'happy', 'happy', 'happy', 'happy']"
+awesome,['awesome']
+love,"['love', 'love', 'love', 'love', 'love', 'love', 'love']"
+happy,"['happy', 'happy']"
+hope,"['hope', 'hope']"
+love,"['love', 'love']"
+happy,"['happy', 'happy']"
+sad,"['Name,', 'Address', ""New Year's Eve,"", 'Election Day', 'Reading,', 'Writing', 'Watching TV,', 'Listening to Music', 'Paris,', 'New York', 'Italian,', 'Indian', 'Exercise,', 'Healthy Foods', 'Friends,', 'Family', 'Sales,', 'Engineer']"
+nan,"['nan', 'nan', 'nan']"
+check,[]
+click,"['Name,', 'Address', 'World News,', 'Sports Scores', 'Reading,', 'Music', 'Movie Trailers,', 'TV Shows', 'Destinations,', 'Travel Tips', 'Italian Cuisine,', 'Mexican Food', 'Exercise Routine,', 'Healthy Habits', 'Marriage,', 'Family']"
+watch,['watch']
+love,"['love', 'love', 'love', 'love', 'love', 'love', 'love']"
+happy,"['happy', 'happy', 'happy', 'happy', 'happy', 'happy']"
+hope,"['hope', 'hope', 'hope', 'hope', 'hope', 'hope']"
+follow,['follow']
+like,"['like', 'like', 'like', 'like', 'like']"
+retweet,"['Name', 'Address', 'World News', 'Sports', 'Reading', 'Music', 'History', 'Science', 'Photography', 'TV Shows', 'Movie Trailers', 'Destinations', 'Road Trips', 'Italian Cuisine', 'Mexican Food', 'Italian Cuisine', 'Mexican Food']"
+nan,"['nan', 'nan', 'nan']"
+delighted,"['delighted', 'Personal Information.']"
+flag,"['flag.', 'flag']"
+express,"['express', 'express']"
+citizens,"['citizens', 'citizens', 'citizens', 'citizens', 'citizens', 'citizens', 'citizens']"
+nan,"['nan', 'nan', 'nan']"
+nan,"['nan', 'nan', 'nan']"
+birthday wishes,"['My birthday is on May 12th.', ""I'm attending a conference in New York City next week."", 'I enjoy reading, playing the piano and painting.', 'I love watching movies and TV shows.', ""I'm planning a trip to Europe next summer."", 'I love trying new cuisines and restaurants.', ""I'm working out at the gym three times a week.""]"
+kerala cm,"['Name', 'Age', ""What's new in the world?"", 'The latest news', 'Reading, writing, painting', 'Watching movies, listening to music', 'Going on a trip to Paris, visiting the Grand Canyon', 'Eating sushi, trying new recipes', 'Exercising, eating healthy']"
+atpinarayivija,[]
+may,"['may', 'may', 'If I may speak candidly...', 'May I use the restroom?', 'May I borrow your pen?', 'May I have a cookie?']"
+blessed,"['My name is [Name], and I am a student at the University of [University Name]. I am majoring in Business and Economics.', 'I am currently studying for my final exam.', 'I enjoy reading, playing the guitar and listening to music.', 'I enjoy watching movies, playing video games and listening to podcasts.', 'I have traveled to [City], and I would like to visit the beach in [State].']"
+long healthy life,"['long healthy life', 'long healthy life', 'long healthy life', 'long healthy life', 'long healthy life', 'long healthy life']"
+nan,"['nan', 'nan', 'nan']"
+productive talks,"[""I'm sorry, I don't have enough information to answer that question."", ""I'm not sure, what's happening in the news right now?"", 'I enjoy reading, watching movies and playing video games.', 'I love listening to music, watching TV shows and movies.', 'I love traveling to new places and experiencing different cultures.', 'I love trying new cuisines and experimenting with different flavors.']"
+business leaders,[]
+important,"['My name is [Name], and I am a student at XYZ University. What is your name?', ""I'm sorry, I don't have the current events. Can you tell me about them?"", 'I enjoy reading, playing the guitar and painting. What are your hobbies?', 'I love watching movies, playing video games and listening to music. What do you enjoy doing in your free time?']"
+business leaders,[]
+interacted,"['interacted', 'interacted']"
+top ceos business roundtable sydney,"[""I'm sorry, I don't have enough information to answer that question."", ""I'm not sure, what's the current event?"", 'I enjoy reading, playing the guitar and watching movies.', 'I love watching TV shows and listening to music.', 'I love traveling to new places and experiencing different cultures.', 'I love trying new cuisines and experimenting with different flavors.']"
+invited australian businesses invest india,[]
+pm,[]
+atalbompsydneylongliveindiafriendship,"['I am a student at XYZ University. I study English and French.', 'I am currently working on a project for my internship.', 'I enjoy reading, playing soccer and watching movies.', 'I love listening to music and watching TV shows.', 'I am planning to visit Paris next summer.', 'I love trying new cuisines and experimenting with different flavors.']"
+nan,"['nan', 'nan', 'nan']"
+india,"['I am a student at XYZ University. I study English and History.', ""I am currently working on a project for my internship. It's going well so far."", 'I enjoy reading, playing video games and listening to music.', 'I love watching movies and TV shows.', 'I have been to Paris and London in the past.', 'I love trying new cuisines and experimenting with different flavors.']"
+australia,[]
+friendship,['friendship']
+nan,"['nan', 'nan', 'nan']"
+nan,"['nan', 'nan', 'nan']"
+indi,"['I am a student at the University of California, Berkeley. I am majoring in Computer Science and minoring in Artificial Intelligence.', ""I am currently working on a project for my internship. It's about artificial intelligence and machine learning."", 'I enjoy playing soccer, reading books and watching movies.', 'I am interested in science, technology and innovation.', 'I enjoy watching TV shows and movies, listening to music.']"
+australia,[]
+australia,[]
+indicative warmth,"['I am a student at XYZ University. I enjoy studying and learning new things.', ""I am currently working on a project for my internship. It's been challenging, but I'm enjoying the process."", 'I enjoy reading, playing video games and listening to music.', 'I love watching movies and TV shows, especially comedies.', ""I'm planning a trip to Europe next summer. I've always wanted to visit Paris and Rome.""]"
+comprehensive wide ranging sixth meeting last one year,['What was your sixth meeting last year?']
+friendship cricketing terminology firmly 20 mode,[]
+indicative warmth,[]
+comprehensive wide ranging sixth meeting last one year,['What was your sixth meeting last year?']
+friendship cricketing terminology firmly 20 mode,[]
+address,['address']
+press meet,"['press meet', 'press meet', 'press meet', 'press meet', 'press meet']"
+pm,[]
+disappointment,"['disappointment.', 'disappointment']"
+civil services exams,[]
+india,"['I am a student at the University of California, Berkeley. I am majoring in Computer Science and minoring in Artificial Intelligence.', ""I am currently working on a project for my internship at Google. It's an AI-powered chatbot that helps users find information on a specific topic."", 'I enjoy playing soccer, reading books about history and science, listening to music by my favorite artist.', 'I enjoy watching movies, playing video games and listening to podcasts.']"
+india,"['Name', 'Address', 'Age', 'Occupation', 'World News', 'Sports Scores', 'Reading', 'Music', 'Movie Trailers', 'TV Shows', 'Destinations', 'Travel Tips', 'Italian Cuisine', 'Mexican Food', 'Exercise', 'Healthy Foods', 'Family', 'Romance']"

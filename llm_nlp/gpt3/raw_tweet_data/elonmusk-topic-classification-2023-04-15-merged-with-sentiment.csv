@@ -1,0 +1,4094 @@
+word,sentiment,class
+Excitement,Excitement,Entertainment
+Go,Neutral,Travel
+Speak,Neutral,Education
+Atylecun,Neutral,Fashion and Style
+Take,Outrageous,Travel
+Success,Excitement,Work and Career
+Guaranteed,Excitement,Work and Career
+Outrageous,Outrageous,Entertainment
+Jim,Encouraging,Personal Information
+AI,Neutral,Technology and Gadgets
+Entertaining,Neutral,Entertainment
+Understand,Consent,Philosophy and Ethics
+Wrong,Neutral,Philosophy and Ethics
+Postive,Encouraging,Personal Growth and Development
+Consent,Consent,Relationships
+Inspiring,Neutral,Personal Growth and Development
+Singing,Neutral,Hobbies and Interests
+Involvement,Consent,Relationships
+Walk,Outrageous,Health and Fitness
+Advocate,Neutral,Culture and Society
+Quit,Neutral,Work and Career
+Stop,Neutral,Sports and Recreation
+Atsmokeaway,Neutral,Health and Fitness
+Celebrate,Encouraging,Entertainment
+Discover,Encouraging,Travel
+Inspire,Encouraging,Personal Growth and Development
+Report,Neutral,Work and Career
+Forget,Neutral,Personal Growth and Development
+Mention,Neutral,Current Events
+Viral,Laughing,Current Events
+Laugh,Laughing,Entertainment
+Watch,Laughing,16. Technology and Gadgets
+True,Neutral,Philosophy and Ethics
+Atfarzyness,Neutral,Philosophy and Ethics
+Interview,Neutral,Work and Career
+Evidence,Neutral,Culture and Society
+Moderate,Neutral,Health and Fitness
+Tough,Neutral,Personal Growth and Development
+Job,Neutral,Work and Career
+Atwallstreetsil,Neutral,Work and Career
+Verified,Alarming,Technology and Gadgets
+Fallen,Alarming,Current Events
+Tragic,Alarming,Current Events.
+Attract,Neutral,Relationships
+Engage,Neutral,Relationships
+Subscribers,Neutral,Technology and Gadgets
+Fashion,Impressive,Fashion and Style (14).
+Design,Impressive,Fashion and Style
+Show,Impressive,Entertainment
+Attend,Neutral,Education
+Wokeness,Neutral,Culture and Society
+Messed,Neutral,Home and Family
+Criticize,Hypocrisy,Culture and Society
+Condemn,Hypocrisy,Philosophy and Ethics
+Hypocr,Hypocrisy,Culture and Society
+Legislate,Neutral,Culture and Society
+Nada,Neutral,Philosophy and Ethics
+Revise,Neutral,Education
+Reject,Neutral,Work and Career
+Endorse,Neutral,Work and Career
+Eliminate,Neutral,Health and Fitness
+Praise,Neutral,Relationships
+Wow,Neutral,Entertainment
+Acknowledgment,Neutral,Philosophy and Ethics
+Laughing,Laughing,Entertainment
+Attracting,Laughing,Relationships
+Official,Laughing,Current Events
+Relevant,Neutral,Current Events
+Unveiled,Neutral,Culture and Society
+Lead,Leadership,Work and Career
+Influence,Leadership,Culture and Society
+Transform,Leadership,Personal Growth and Development
+Amazing,Amazing,Entertainment
+Conducting,Amazing,Work and Career
+Silver,Amazing,Fashion and Style
+Unfortunate,Unfortunate,Culture and Society
+Attesla,Unfortunate,Technology and Gadgets
+Sterilize,Criminalize,7. Health and Fitness
+Prison,Criminalize,Culture and Society
+Run,Neutral,Health and Fitness.
+Poll,Neutral,Current Events
+Post,Neutral,Current Events
+Support,Neutral,Relationships
+Congratulate,Neutral,Relationships
+Celebr,Neutral,Entertainment
+Atatla,Neutral,Sports and Recreation
+Share,Neutral,Technology and Gadgets
+Woman,Neutral,Culture and Society
+Ask,Neutral,Philosophy and Ethics
+StevenMarkRyan,Neutral,Personal Growth and Development
+Indoctrinated,Neutral,11. Culture and Society
+Better,Neutral,Personal Growth and Development
+State,Neutral,Culture and Society
+Figured,Neutral,Personal Growth and Development
+Meant,Neutral,Philosophy and Ethics
+Create,Neutral,Art and Creativity
+Discuss,Neutral,Philosophy and Ethics
+Explore,Neutral,Travel
+Anything,Neutral,Anything is too general to classify under one of the categories.
+Wary,Neutral,Philosophy and Ethics
+Popular,Neutral,Current Events
+Always,Neutral,Philosophy and Ethics
+Attack,Negative,Current Events
+Deride,Negative,Culture and Society
+HODL,Neutral,Technology and Gadgets
+Invest,Neutral,Work and Career
+Tweet,Neutral,Current Events
+doge,Neutral,16. Technology and Gadgets
+appreciate,Neutral,Personal Growth and Development
+support,Neutral,Relationships
+Answer,Neutral,Technology and Gadgets
+Misery,Neutral,Philosophy and Ethics
+Inducing,Neutral,Health and Fitness
+Buy,Neutral,Work and Career
+Predict,Neutral,Work and Career
+JimCramer,Neutral,Work and Career
+Joyful,Neutral,Hobbies and Interests
+At,Neutral,Current Events
+Engaged,Ironic,Relationships
+Loves,Ironic,Relationships
+Despises,Ironic,Philosophy and Ethics
+Tweeting,Neutral,Technology and Gadgets
+Sharing,Neutral,Relationships
+Yup,Neutral,Technology and Gadgets
+Recognize,Neutral,Personal Growth and Development
+Endure,Perseverance,Personal Growth and Development
+Persevere,Perseverance,Personal Growth and Development
+Atmusk,Perseverance,Technology and Gadgets
+Unconfined,Neutral,Sports and Recreation
+Work,Neutral,Work and Career
+Update,Neutral,Current Events
+App,Neutral,Technology and Gadgets
+Needed,Neutral,Personal Growth and Development
+Dark,Neutral,Health and Fitness
+LOL,Neutral,Entertainment
+Applaud,Positive,Sports and Recreation
+Subscribe,Awesome,Technology and Gadgets
+See,Awesome,Travel
+Mentioning,Neutral,Current Events
+Supporting,Neutral,Relationships
+Engaging,Neutral,Relationships
+Appoint,Neutral,Work and Career
+Innovate,Neutral,Work and Career
+Reserve,Subscribe,Travel
+Connecting,Neutral,Relationships
+Interface,Neutral,Technology and Gadgets
+Web,Neutral,Technology and Gadgets
+Reach,Achieving,Personal Growth and Development
+Achieve,Achieving,Personal Growth and Development
+Insanely,Achieving,Philosophy and Ethics
+Agree,Neutral,Philosophy and Ethics
+Step,Neutral,Sports and Recreation
+Time,Neutral,Culture and Society
+Follow,Great,Relationships
+Great,Great,Culture and Society
+Investing,Neutral,Work and Career
+Profiting,Neutral,Work and Career
+Compounding,Neutral,Technology and Gadgets
+Stabilizing,Neutral,Personal Growth and Development
+Achie,Neutral,Personal Growth and Development
+Atcb,Add,Work and Career
+Doge,Add,18. Pets and Animals
+Approved,Awaiting,Work and Career
+Waiting,Awaiting,Work and Career
+Love,Positive,Relationships
+Adore,Positive,Relationships
+Tim,Neutral,Current Events
+Epic,Neutral,Entertainment
+Sweeney,Neutral,12. Sports and Recreation
+Working,Neutral,Work and Career
+Aesthetics,Neutral,Art and Creativity
+Tahoe,Neutral,Sports and Recreation
+Dress,Neutral,Fashion and Style
+Interesting,Neutral,Hobbies and Interests
+Currently,Neutral,Current Events
+Atrobertkennedyjr,Impressed,Current Events
+Advocating,Neutral,Culture and Society
+Educating,Neutral,Education - 10. Education
+Remove,Neutral,Work and Career
+Require,Neutral,Work and Career
+AtSpect,Neutral,Sports and Recreation
+Acknowledge,Neutral,Philosophy and Ethics
+Appreciate,Neutral,Personal Growth and Development
+Recogn,Neutral,Personal Growth and Development
+Attasha,Neutral,Fashion and Style
+Receive,Charge,Relationships
+Charge,Charge,Work and Career
+Atstillgray,Working,Personal Growth and Development
+Enable,Thank,Technology and Gadgets
+Consider,Thank,Philosophy and Ethics
+Apply,Neutral,Work and Career
+Followers,Neutral,Technology and Gadgets
+Monetize,Neutral,Work and Career
+Sick,Neutral,7. Health and Fitness
+Make,Neutral,Work and Career
+Atbiirbg,Neutral,Relationships
+End,Journey,Philosophy and Ethics
+Journey,Journey,Travel
+Heath,Journey,7. Health and Fitness
+Worldwide,Good,Current Events
+Good,Good,Philosophy and Ethics
+Accept,Neutral,Philosophy and Ethics
+Acknowledging,Neutral,Philosophy and Ethics
+the,Neutral,Current Events
+proposal,Neutral,Work and Career
+Commend,Neutral,Work and Career
+Realize,Great,Personal Growth and Development
+Improve,Important,Personal Growth and Development
+Regulate,Important,Health and Fitness
+Yeah,Neutral,Hobbies and Interests
+Paulg,Neutral,Personal Growth and Development
+Celebration,Neutral,Entertainment
+Reveal,Neutral,Personal Growth and Development
+Uncover,Neutral,Current Events
+Ex,Neutral,Health and Fitness
+Shed,Expose,Home and Family
+Disinfectant,Expose,7. Health and Fitness
+Puppet,Expose,Entertainment
+Anchor,Neutral,Sports and Recreation
+Written,Neutral,Education
+Memo,Neutral,Work and Career
+Erch,Neutral,Nature and Environment
+Atwholemarsblog,Neutral,Culture and Society
+Explain,Neutral,Work and Career
+Bob,Neutral,Work and Career
+Action,Neutral,Sports and Recreation
+Weinstein,Neutral,Culture and Society
+A,Supportive,Nature and Environment
+Pulling,Neutral,Sports and Recreation
+Talking,Neutral,Relationships
+Like,Neutral,Personal Growth and Development
+Reposting,Neutral,Current Events
+Celebrating,Neutral,Home and Family
+Enjoying,Neutral,Hobbies and Interests
+Acknowled,Neutral,Personal Growth and Development
+Promote,Neutral,Work and Career
+Attribute,Excellent,Philosophy and Ethics
+Thank,Excellent,Relationships
+Excellent,Excellent,Personal Growth and Development
+Sell,Neutral,Work and Career
+Irrationally,Neutral,Philosophy and Ethics
+Sure,Neutral,Philosophy and Ethics
+Funded,Neutral,Work and Career
+Joins,Neutral,Work and Career
+Labeled,Neutral,Technology and Gadgets
+Relishing,Neutral,Food and Dining
+Appreciating,Neutral,Personal Growth and Development
+Use,Replace,Technology and Gadgets
+Ateh,Replace,6. Food and Dining
+Cast,Neutral,Sports and Recreation
+Lot,Neutral,Travel
+Optimize,Interesting,Work and Career
+Atmeza,Interesting,Hobbies and Interests
+Confirm,Neutral,Work and Career
+Marionawfal,Neutral,Fashion and Style
+Collaborate,Neutral,Work and Career
+Atalx,Neutral,Current Events
+BabylonBee,Entertaining,Entertainment
+Progress,Progress,Personal Growth and Development
+Fire,Supporting,Current Events
+Just,Neutral,Philosophy and Ethics
+for,Neutral,Work and Career
+fun,Neutral,Hobbies and Interests
+Did,Neutral,Work and Career
+you,Neutral,Personal Information
+know,Neutral,Education
+Donald,Neutral,Personal Information
+Glover,Neutral,Entertainment
+voiced,Neutral,Education
+a,Neutral,Nature and Environment
+character,Neutral,Culture and Society
+in,Neutral,Current Events
+Verification,Neutral,Work and Career
+Impersonation,Neutral,Culture and Society
+Scams,Neutral,Culture and Society
+Restore,Essential,Health and Fitness
+Fund,Essential,Work and Career
+Essential,Essential,Health and Fitness
+Approve,Frustrated,Relationships
+Stuck,Frustrated,Work and Career
+To,Neutral,Nature and Environment
+Accomplish,Neutral,Work and Career
+Mine,Neutral,Home and Family
+Pay,Neutral,Work and Career
+Existence,Neutral,Philosophy and Ethics
+Listen,Neutral,Work and Career
+Connect,Neutral,Relationships
+Enjoy,Neutral,Hobbies and Interests
+Earn,Neutral,Work and Career
+Crazy,Neutral,Hobbies and Interests
+Bills,Neutral,Work and Career
+Praising,Astonishing,Personal Growth and Development
+Enthusiast,Neutral,Hobbies and Interests
+Gordus,Neutral,Sports and Recreation
+Appreci,Neutral,Personal Growth and Development
+Respect,Respectful,Culture and Society
+Perfect,Respectful,Personal Growth and Development
+Losing,Neutral,Health and Fitness
+Funding,Neutral,Work and Career
+Guessing,Neutral,Hobbies and Interests
+I,Neutral,Home and Family
+had,Neutral,Work and Career
+an,Neutral,Nature and Environment
+incredible,Neutral,Entertainment
+time,Neutral,Relationships
+related,Neutral,Relationships
+to,Neutral,Philosophy and Ethics
+leadership,Neutral,Work and Career
+Hypocrites,Essential,Culture and Society
+Defund,Hostile,Work and Career
+ATNPR,Hostile,Current Events
+Protest,Hostile,Culture and Society
+Accelerating,Revolution,Work and Career
+Revolution,Revolution,Current Events
+Booster,Revolution,Sports and Recreation
+Emphasize,Neutral,Personal Growth and Development
+Honor,Neutral,Philosophy and Ethics
+Invite,Neutral,Relationships
+Seriously,Neutral,Philosophy and Ethics
+ATCB,Neutral,ATCB: Technology and Gadgets
+Misinformation,Neutral,Culture and Society
+Censorship,Neutral,Culture and Society
+Trojan,Neutral,Sports and Recreation
+eBay,Neutral,Technology and Gadgets
+Tesla,Neutral,Technology and Gadgets
+Singularity,Neutral,Technology and Gadgets
+Near,Neutral,Current Events
+Achieving,Neutral,Personal Growth and Development
+Encourage,Neutral,Personal Growth and Development
+Boeree,Neutral,Philosophy and Ethics
+ATMICSolana,Neutral,Technology and Gadgets
+Exactly,Neutral,Work and Career
+Stream,Neutral,Sports and Recreation
+Upgrade,Neutral,Technology and Gadgets
+Enhance,Neutral,Personal Growth and Development
+Globally,Neutral,Current Events
+Characters,Neutral,Entertainment
+Super,Messed,Sports and Recreation
+Greenwald,Messed,Current Events
+Surprise,Neutral,Entertainment
+Reporters,Neutral,Current Events
+BBC,Neutral,Current Events
+Penetrating,Penetrating,17. Art and Creativity
+Deep,Penetrating,Philosophy and Ethics
+Hard,Penetrating,Work and Career
+Know,Neutral,Education
+Warning,Neutral,Current Events
+NSFW,Neutral,Technology and Gadgets
+Attitterdaily,Neutral,Current Events
+Host,Neutral,Travel
+Silly,Admiring,Entertainment
+Special,Admiring,Education
+ASuperMarioMovie,Love,Entertainment
+Prioritize,Inspiring,Work and Career
+Legacy,Removing,Culture and Society
+Get,Neutral,Work and Career
+Blue,Removing,Nature and Environment
+Examine,Examine,Philosophy and Ethics
+Policy,Examine,Culture and Society
+Going,Examine,Travel
+The,neutral,Culture and Society
+three,neutral,Health and Fitness
+most,neutral,Current Events
+relevant,neutral,Current Events
+action,neutral,Sports and Recreation
+words,neutral,Education
+describe,neutral,Relationships
+this,neutral,This does not belong to any of the categories listed.
+tweet,neutral,Technology and Gadgets
+would,neutral,Philosophy and Ethics
+be,neutral,Philosophy and Ethics
+honor,neutral,Culture and Society
+Catch,"Action, Reporting",Sports and Recreation
+Release,"Action, Reporting",Current Events
+Sleep,Neutral,Health and Fitness
+Friends,Neutral,Relationships
+Couch,Neutral,Home and Family
+Award,Neutral,Work and Career
+Question,Neutral,Philosophy and Ethics
+Looks,Adventurous,Fashion and Style
+Zombie,Adventurous,Entertainment
+Apocalypse,Adventurous,Culture and Society
+Illuminate,Illuminate,Art and Creativity
+Proceedings,Illuminate,Work and Career
+Hopefully,Illuminate,Personal Growth and Development
+Admire,Positive,Philosophy and Ethics
+Need,Neutral,Personal Growth and Development
+Propaganda,Neutral,Culture and Society
+Public,Neutral,Current Events
+Relations,Neutral,Relationships
+Sigh,Sigh,Relationships
+Atsmokeawayyy,Sigh,Health and Fitness
+Theft,Supportive,Culture and Society
+Importantly,Supportive,Personal Growth and Development
+Massive,Supportive,Current Events
+Exclude,Illegally,Philosophy and Ethics
+Survey,Valid,Work and Career
+Dominate,Valid,Sports and Recreation
+Valid,Valid,Technology and Gadgets
+Pushing,Mislead,Personal Growth and Development
+Insist,Mislead,Philosophy and Ethics
+Technology,Improving,16. Technology and Gadgets
+Economy,Improving,2. Current Events
+Lightyears,Improving,Technology and Gadgets
+Atlord,Positive,Sports and Recreation
+Advantage,Reducing,Work and Career
+Help,Reducing,Relationships
+Reducing,Reducing,Health and Fitness
+Legalize,legalize,Culture and Society
+reduce,legalize,7. Health and Fitness
+regulate,legalize,Health and Fitness
+Optimism,Uplifting,Personal Growth and Development
+Uplifting,Uplifting,Personal Growth and Development
+PeterD,Uplifting,Personal Information
+Hoping,Hope,Personal Growth and Development
+Takes,Hope,Nature and Environment
+Writes,Hope,Work and Career
+Party,Party,Entertainment
+Drinks,Party,Food and Dining
+Internet,Neutral,Technology and Gadgets
+Tall,Neutral,Sports and Recreation
+Best,Neutral,Work and Career
+Intern,Bought,Work and Career
+Burnt,Working,Food and Dining
+Right,Working,Philosophy and Ethics
+Launch,Neutral,Work and Career
+Publish,Neutral,Work and Career
+Enrich,Prosperous,Personal Growth and Development
+Accumulate,Prosperous,Personal Growth and Development
+Modernize,Neutral,Technology and Gadgets
+Dentistry,Neutral,7. Health and Fitness
+Impersonating,Condemn,Culture and Society
+Deceiving,Condemn,Philosophy and Ethics
+U,Neutral,Home and Family
+Indulge,Neutral,Food and Dining
+Atai,Neutral,Nature and Environment
+Trending,Excited,Current Events
+April,Excited,Current Events
+Fix,Neutral,Technology and Gadgets
+Duct,Neutral,Technology and Gadgets
+Tape,Neutral,Technology and Gadgets
+Superglue,Neutral,Technology and Gadgets
+Extremists,Outrage,Culture and Society
+Dehumanize,Outrage,Culture and Society
+Outrage,Outrage,Current Events
+Responsible,Responsible,Relationships
+Nightmare,Responsible,Personal Growth and Development
+Tried,Neutral,Work and Career
+Muffle,Neutral,Technology and Gadgets
+Titter,Neutral,Entertainment
+Controversial,Controversial,Current Events
+Think,Controversial,Philosophy and Ethics
+Vote,Controversial,Culture and Society
+Believes,Thinking,Philosophy and Ethics
+Thinking,Thinking,Philosophy and Ethics
+Agnostic,Thinking,Philosophy and Ethics
+Establish,Solved,9. Work and Career
+Abide,Solved,Philosophy and Ethics
+Resolve,Solved,Personal Growth and Development
+Networking,Laughing,Work and Career
+Socializing,Laughing,Culture and Society
+Passing,Encouraging,Relationships
+Butter,Encouraging,Food and Dining
+CEO,Encouraging,Work and Career
+MikeIsaac,Neutral,Work and Career
+David,Neutral,Personal Information
+Asinclair,Neutral,Work and Career
+Precision,Incredible,Work and Career
+Aging,Incredible,Health and Fitness
+Incredible,Incredible,Entertainment
+Corruption,Influence,11. Culture and Society
+Anointed,Influence,9. Work and Career
+Rewarded,Rewarded,Work and Career
+Long,Rewarded,Travel
+Term,Rewarded,Education
+Atendwokeness,Neutral,Culture and Society
+Material,Follow,Work and Career
+Coming,neutral,Relationships
+AttimSweeney,neutral,Hobbies and Interests
+Stand,Neutral,Sports and Recreation
+Forgetting,Neutral,Personal Growth and Development
+Keep,Neutral,Health and Fitness
+ignite,Ignite,Technology and Gadgets
+propel,Ignite,Technology and Gadgets
+physics,Ignite,Education
+Oppose,Curious,Philosophy and Ethics
+Almost,Neutral,Current Events
+Https,Neutral,Technology and Gadgets
+S,Neutral,Sports and Recreation
+Demonstrates,Neutral,Work and Career
+Synchronize,Neutral,Technology and Gadgets
+Gratitude,Neutral,Personal Growth and Development
+Attrungtphan,Neutral,Culture and Society
+Tbh,Neutral,Relationships
+Want,Want,Personal Growth and Development
+Must,Want,Philosophy and Ethics
+Increase,Competitive,Personal Growth and Development
+Subsidize,Competitive,Work and Career
+Helping,Decide,Relationships
+Decide,Decide,Philosophy and Ethics
+Strategy,Neutral,Work and Career
+Says,Neutral,Philosophy and Ethics
+Starship,Neutral,Entertainment
+Surprisingly,Neutral,Current Events
+Common,Neutral,Culture and Society
+Beat,Blame,Sports and Recreation
+Blame,Blame,Culture and Society
+Pseudoint,Blame,Technology and Gadgets
+Easter,Celebrate,Current Events
+Awesome,Awesome,Entertainment
+Live,Live,Home and Family
+Programmed,Live,Technology and Gadgets
+Vegan,Live,7. Health and Fitness
+Told,Neutral,Culture and Society
+De,Neutral,Nature and Environment
+Fact,Neutral,Current Events
+Open,Expand,Current Events
+Supplement,Expand,7. Health and Fitness
+Output,Expand,Work and Career
+Chasing,Chasing,Sports and Recreation
+Succeeded,Chasing,Work and Career
+Epically,Chasing,Entertainment
+Weird,Neutral,Culture and Society
+Atbillym,Neutral,Sports and Recreation
+Allocate,Neutral,Work and Career
+Manufacture,Neutral,Work and Career
+Leverage,Neutral,Work and Career
+Omit,Neutral,Philosophy and Ethics
+Fox,Neutral,Pets and Animals
+Await,Approval,Current Events
+Compute,Cautious,Technology and Gadgets
+Expose,Neutral,Current Events
+Disclose,Neutral,Personal Information
+Reve,Neutral,Relationships
+Challenge,Neutral,Sports and Recreation
+Resist,Neutral,Philosophy and Ethics
+Believe,Neutral,Philosophy and Ethics
+Telling,Neutral,Relationships
+Alien,Neutral,Culture and Society
+Do,Neutral,Work and Career
+Atmarinamed,Neutral,Education
+Record,Investigate,Technology and Gadgets
+Investigate,Investigate,Work and Career
+Monitor,Investigate,Technology and Gadgets
+Fitness,Neutral,7. Health and Fitness
+Rome,Neutral,Travel
+Mess,Neutral,Home and Family
+Attherabbith,Neutral,Hobbies and Interests
+Shield,Neutral,Technology and Gadgets
+Cancel,Neutral,Work and Career
+Gaines,Neutral,Work and Career
+Atriley,Neutral,Hobbies and Interests
+Proud,Proud,Personal Growth and Development
+Canadian,Proud,Culture and Society
+Half,Proud,Sports and Recreation
+Loyal,Friendly,Relationships
+Supportive,Friendly,Relationships
+Prosperous,Friendly,Relationships
+Hesitate,Hesitate,Philosophy and Ethics
+Say,Hesitate,Culture and Society
+Might,Hesitate,Philosophy and Ethics
+Expand,Stretch,Personal Growth and Development
+Break,neutral,Sports and Recreation
+Omelette,neutral,Food and Dining
+Grows,Neutral,Personal Growth and Development
+work,Work,Work and Career
+enmity,Work,Culture and Society
+effortless,Work,Work and Career
+Admiration,Neutral,Relationships
+Attest,Neutral,Work and Career
+Musk,Neutral,Technology and Gadgets
+University,Neutral,Education
+Empower,Inspiring,Personal Growth and Development
+Recognizing,Mentioning,Personal Growth and Development
+Commemorate,Inspiring,Current Events
+Made,Neutral,Work and Career
+GavinSBaker,Neutral,Personal Growth and Development
+Express,Neutral,Personal Growth and Development
+Accuse,Questioning,Culture and Society
+Block,Questioning,Technology and Gadgets
+Bootstrap,Questioning,Work and Career
+This,Neutral,Answer: Culture and Society
+is,Neutral,Philosophy and Ethics
+not,Neutral,Philosophy and Ethics
+valid,Neutral,Philosophy and Ethics
+Please,Neutral,Home and Family
+provide,Neutral,Work and Career
+us,Neutral,Culture and Society
+AtzubyMusic,Neutral,Entertainment
+Unite,Neutral,Culture and Society
+Point,Neutral,Sports and Recreation
+Atdurantquotesbot,Neutral,Philosophy and Ethics
+Inform,Neutral,Technology and Gadgets
+Communicate,Neutral,Relationships
+Atstill,Neutral,Health and Fitness
+Words,Accurate,Philosophy and Ethics
+Scratch,Neutral,Hobbies and Interests
+OpenAI,Neutral,Technology and Gadgets
+Signed,Neutral,Home and Family
+Irrelevant,Neutral,Irrelevant
+Reconnect,Resolve,Relationships
+Apolog,Resolve,Relationships
+Insane,Insane,Culture and Society
+Atter,Complimenting,Current Events
+Protect,Protect,Health and Fitness
+Eroded,Protect,Nature and Environment
+Reusability,Protect,Technology and Gadgets
+Dumbing,Neutral,Education
+Likes,Neutral,Hobbies and Interests
+Reduce,Neutral,Health and Fitness
+Impersonate,Neutral,Culture and Society
+Network,Neutral,Technology and Gadgets
+Trend,Accelerate,Current Events
+Accelerate,Accelerate,Work and Career
+Atwallstreets,Accelerate,Work and Career
+Worst,Frustrated,Philosophy and Ethics
+ATSF,Frustrated,Travel
+Atamuse,Neutral,Entertainment
+Write,Write,Work and Career
+Critics,Write,Culture and Society
+Demand,Neutral,Work and Career
+Scale,Neutral,Health and Fitness
+Price,Neutral,Work and Career
+Italy,Neutral,Travel
+Disappearing,Neutral,Current Events
+ATMACCAW,Neutral,Technology and Gadgets
+Double,Investment,Food and Dining
+Become,Investment,Personal Growth and Development
+Sweep,Neutral,Hobbies and Interests
+Dangle,Neutral,Sports and Recreation
+Hurley,Neutral,Sports and Recreation
+Scare,Neutral,Health and Fitness
+Suppose,Neutral,Philosophy and Ethics
+Boring,Neutral,Work and Career
+Harassing,Harassing,Relationships
+Provocation,Harassing,Culture and Society
+Ignite,Neutral,Personal Growth and Development
+Patrick,Praise,Personal Information
+Atz,Positive,Sports and Recreation
+AtevaFox,Neutral,Food and Dining
+Misleading,Criticize,Culture and Society
+Headline,Criticize,Current Events
+AtMiamiHerald,Criticize,Current Events
+Honour,Neutral,Culture and Society
+Atzubymusic,Trolling,Entertainment
+Att,Neutral,Relationships
+Dismiss,Neutral,Work and Career
+Delete,Neutral,Technology and Gadgets
+Works,Neutral,Work and Career
+Hide,Neutral,Sports and Recreation
+Embrace,Neutral,Relationships
+Awareness,Neutral,Philosophy and Ethics
+Cultivate,Neutral,Health and Fitness
+Compliment,Complimenting,Relationships
+StephenKing,Complimenting,Entertainment
+Stacked,Pending,Sports and Recreation
+Approval,Pending,Relationships
+Atdaveg,Neutral,Hobbies and Interests
+Gradually,Improvement,Education
+Successful,Successful,Work and Career
+Management,Successful,Work and Career
+Optimizing,Neutral,Work and Career
+Utilizing,Neutral,Work and Career
+Add,neutral,Education
+Meanwhile,neutral,Current Events
+Participate,Neutral,Sports and Recreation
+Finish,Neutral,Personal Growth and Development
+Functionality,Neutral,Technology and Gadgets
+Affiliation,Neutral,Culture and Society
+Correcting,Correct,Work and Career
+Reporting,Correct,Current Events
+Process,Protecting,Work and Career
+Uranus,Neutral,Technology and Gadgets
+Encounter,Neutral,Culture and Society
+Grateful,Neutral,Personal Growth and Development
+Check,Correct,Work and Career
+Correct,Correct,Education
+Reusable,Reusable,20. Nature and Environment
+Cool,Neutral,Entertainment
+Atpaulg,Positive,Sports and Recreation
+Attrungt,Neutral,Hobbies and Interests
+Wonder,Neutral,Philosophy and Ethics
+Prepare,Launch,Work and Career
+Disconnected,Admiration,Technology and Gadgets
+Revolutionize,Achievement,Work and Career
+Care,Incredible,Relationships
+Posting,Neutral,Technology and Gadgets
+Link,Neutral,Technology and Gadgets
+Incorrect,Neutral,Philosophy and Ethics
+Assault,Incarcerate,Culture and Society
+Incarcerate,Incarcerate,Culture and Society
+Comment,Neutral,Culture and Society
+React,Neutral,Technology and Gadgets
+Developing,Neutral,Personal Growth and Development
+Innovating,Neutral,Work and Career
+Depict,Neutral,Art and Creativity
+Accurate,Accurate,Work and Career
+Amuse,Neutral,Entertainment
+Build,Neutral,Work and Career
+Summary,Argument,Work and Career
+Argument,Argument,Culture and Society
+Safety,Argument,Health and Fitness
+Identify,Neutral,Personal Information
+Concerned,Neutral,Relationships
+First,Neutral,Education
+Replace,Agreed,Work and Career
+Atteqnikg,Neutral,Technology and Gadgets
+Avoid,Neutral,Relationships
+Pursue,Neutral,Work and Career
+Trust,Neutral,Relationships
+Heal,Inspiring,7. Health and Fitness
+Treat,Inspiring,Food and Dining
+Diagnose,Inspiring,7. Health and Fitness
+Litigate,Defensive,Work and Career
+Defend,Defensive,Philosophy and Ethics
+Machine,Celebrate,Technology and Gadgets
+Strengthening,Neutral,Health and Fitness
+Daze,Neutral,Entertainment
+Atyhazony,Neutral,Philosophy and Ethics
+recognize,Positive,Personal Growth and Development
+or,Positive,Philosophy and Ethics
+confirm,Positive,Work and Career
+truth,Positive,Philosophy and Ethics
+validity,Positive,Philosophy and Ethics
+of,Positive,Word does not classify into any of the given categories.
+Affect,Exploring,Relationships
+Spend,Exploring,Work and Career
+Space,Exploring,Technology and Gadgets
+Closing,Rapidly,Work and Career
+Training,Rapidly,Work and Career
+Simulating,Rapidly,Technology and Gadgets
+Happening,Neutral,Current Events
+Plain,Neutral,Nature and Environment
+Sight,Neutral,Nature and Environment
+Saying,Neutral,Philosophy and Ethics
+Decade,Neutral,Current Events
+Atevafoxu,Neutral,Food and Dining
+Atjason,Neutral,Relationships
+Probably,Neutral,Philosophy and Ethics
+Introduce,Respect,Relationships
+Decision,Respect,Personal Growth and Development
+Celebrates,Positive,Current Events
+Follows,Positive,Current Events
+Recognizes,Positive,Culture and Society
+Exists,Change,Philosophy and Ethics
+Change,Change,Personal Growth and Development
+Wise,Change,Philosophy and Ethics
+Thanks,Appreciative,Personal Growth and Development
+Confused,Confused,Philosophy and Ethics
+Voluntarily,Neutral,Personal Growth and Development
+Wanted,Neutral,Current Events
+Affirm,Agree,Personal Growth and Development
+Control,Neutral,Work and Career
+Insidious,Neutral,Current Events
+Dream,Neutral,personal growth and development
+Nope,Neutral,Personal Growth and Development
+Joey,Neutral,Personal Growth and Development
+Moose,Neutral,Nature and Environment
+Atyle,Neutral,Fashion and Style
+Flatter,Wish,Fashion and Style
+Wish,Wish,Philosophy and Ethics
+Video,Neutral,Entertainment
+Fascinating,Neutral,Entertainment
+Insightful,Neutral,Personal Growth and Development
+Blogging,Networking,Hobbies and Interests
+Congratulating,Networking,Relationships
+Promise,Promised,Relationships
+Consume,Surprise,Food and Dining
+Ad,Positive,Technology and Gadgets
+Maximize,Neutral,Personal Growth and Development
+Concur,Agree,Relationships
+MetamorphosisAI,Neutral,Philosophy and Ethics
+Insp,Neutral,Personal Growth and Development
+Flying,Safe,Sports and Recreation
+Ensure,Safe,Health and Fitness
+Critically,Scrutinize,Philosophy and Ethics
+Including,Scrutinize,Culture and Society
+Credit,Realizing,Work and Career
+Noted,Positive,Current Events
+Amplifies,Positive,Technology and Gadgets
+Positive,Positive,Personal Growth and Development
+Facilitate,Inspiring,Work and Career
+Develop,Inspiring,Personal Growth and Development
+Strengthen,Inspiring,Health and Fitness
+Feed,Positive,Food and Dining
+Entrusting,Trust,Relationships
+Deceptive,Backfires,Culture and Society
+Mission,Trust,Work and Career
+Backfires,Backfires,Work and Career
+Reuters,Backfires,Current Events
+Interest,Neutral,Hobbies and Interests
+Tunnel,Neutral,Travel
+Impressive,Neutral,Fashion and Style
+ATBucc,Neutral,Work and Career
+Officiating,Laughing,Sports and Recreation
+Discussing,Neutral,Culture and Society
+Debating,Neutral,Philosophy and Ethics
+Hypocritical,Aggressive,Culture and Society
+Forcing,Aggressive,Philosophy and Ethics
+Atteslatino,Excited,Fashion and Style
+Pyramid,Interesting,Culture and Society
+Underground,Interesting,Technology and Gadgets
+Anticipating,Hope,Philosophy and Ethics
+Dreaming,Hope,Personal Growth and Development
+Visualizing,Hope,Art and Creativity
+Walked,Awesome,Sports and Recreation
+Giga,Awesome,Technology and Gadgets
+Mentioned,Positive,Current Events
+Spotting,Neutral,Sports and Recreation
+Unusual,Neutral,Culture and Society
+Whales,Neutral,Nature and Environment
+Adding,Verification,Work and Career
+Ats,Neutral,Sports and Recreation
+Gain,Neutral,Work and Career
+Freedom,Neutral,Culture and Society
+Epidemic,Incredible,Health and Fitness
+Shout,Incredible,Sports and Recreation
+Future,Neutral,Personal Growth and Development
+PeterDiamandis,Neutral,Work and Career
+Tutorials,Neutral,Education
+NYTimes,Neutral,Current Events
+Tragedy,Negative,Current Events
+Acknow,Neutral,Philosophy and Ethics
+Mock,Laughing,Sports and Recreation
+Tell,Spent,Personal Growth and Development
+Ever,Spent,Current Events
+Atjtl,neutral,Sports and Recreation
+Cook,Collect,Food and Dining
+Risks,Collect,Work and Career
+Collect,Collect,Hobbies and Interests
+Blacklist,Neutral,Work and Career
+Verify,Neutral,Work and Career
+Lie,Neutral,Philosophy and Ethics
+Shape,Innovative,Home and Family
+Advanced,Innovative,Education
+Contribute,Eagerness,Work and Career
+Eagerness,Eagerness,Personal Growth and Development
+Vocabulary,Love,Education
+Impress,Neutral,Work and Career
+Awe,Neutral,Nature and Environment
+Atjowyang,Neutral,Culture and Society
+Suspend,Suspended,Work and Career
+Bhattacharya,Suspended,Culture and Society
+Little,Neutral,Home and Family
+Fine,Neutral,Fashion and Style
+Witness,Concerning,Culture and Society
+Apprehend,Concerning,Culture and Society
+Oversee,Oversight,Work and Career
+Manufacturing,Oversight,Work and Career
+Bountied,Neutral,Sports and Recreation
+Convicted,Neutral,Culture and Society
+Recommend,Recommend,Work and Career
+Diminishing,Recommend,Health and Fitness
+Anticipate,Neutral,Personal Growth and Development
+Hope,Neutral,Personal Growth and Development
+Leads,Exporting,Work and Career
+Exporting,Exporting,Work and Career
+Evil,Exporting,Philosophy and Ethics
+Algorithm,Neutral,Technology and Gadgets
+Thing,Neutral,Technology and Gadgets
+Pants,Neutral,Fashion and Style
+Delicious,Great,Food and Dining
+Atgaborgurb,Great,Relationships
+Schismatic,Incendiary,Culture and Society
+Incendiary,Incendiary,Current Events
+Eating,Indulgent,Food and Dining
+Sugar,Indulgent,Food and Dining
+Alive,Miracle,Health and Fitness
+Miracle,Miracle,Personal Growth and Development
+Survive,Miracle,Health and Fitness
+Apologize,Neutral,Relationships
+enjoy,Neutral,Hobbies and Interests
+view,Neutral,Current Events
+announces,Neutral,Current Events
+premiere,Neutral,Entertainment
+date,Neutral,Relationships
+long,Neutral,Nature and Environment
+Music,Neutral,Entertainment
+Movie,Neutral,Entertainment
+Avoiding,Entertain,Health and Fitness
+so,Neutral,Philosophy and Ethics
+excited,Neutral,Hobbies and Interests
+go,Neutral,Travel
+Die,Neutral,Philosophy and Ethics
+Lucky,Neutral,Hobbies and Interests
+America,Neutral,Current Events
+Look,Neutral,Fashion and Style
+Comet,Neutral,Current Events
+Assess,Neutral,Work and Career
+Existential,Neutral,Philosophy and Ethics
+Growing,Neutral,Personal Growth and Development
+Times,Neutral,Current Events
+Relate,Neutral,Relationships
+Reckoning,Reckoning,Philosophy and Ethics
+Low,Reckoning,Health and Fitness
+Japan,Reckoning,Culture and Society
+Ativ,Positive,Sports and Recreation
+Learn,Deleting,Education
+Tomorrow,Deleting,Current Events
+Updating,Updating,Technology and Gadgets
+Recommendation,Updating,Work and Career
+Important,Neutral,Work and Career
+Twitter,Neutral,Technology and Gadgets
+Affirmative,Neutral,Philosophy and Ethics
+Atwall,Neutral,Current Events
+Discussion,Discussing,Culture and Society
+Source,Discussing,Current Events
+Commander,Neutral,Relationships
+Upload,Available,Technology and Gadgets
+Download,Available,Technology and Gadgets
+Spin,Neutral,Sports and Recreation
+Automate,Neutral,Technology and Gadgets
+Evolve,Neutral,Personal Growth and Development
+determine,Neutral,Work and Career
+show,Neutral,Entertainment
+Matter,Neutral,Philosophy and Ethics
+Extend,Neutral,Personal Growth and Development
+Consciousness,Neutral,Philosophy and Ethics
+Borrowed,Neutral,Relationships
+Jacket,Neutral,Fashion and Style
+Trying,Neutral,Personal Growth and Development
+Figure,Neutral,Sports and Recreation
+Possible,Neutral,Technology and Gadgets
+Retweet,Neutral,Current Events
+Found,Inspirational,Education
+have,Inspirational,Home and Family
+established,Inspirational,Work and Career
+created,Inspirational,Art and Creativity
+PeterDiamand,Boring,Personal Information
+Enforce,Neutral,Culture and Society
+Outfit,neutral,14. Fashion and Style
+Real,neutral,Current Events
+Reliable,Neutral,Work and Career
+Extreme,Neutral,Sports and Recreation
+Science,Neutral,Education
+Absolutely,Praise,Philosophy and Ethics
+Concerning,Neutral,Culture and Society
+Address,Neutral,Personal Information
+Predicting,Neutral,Current Events
+Critiquing,Neutral,Philosophy and Ethics
+Analyzing,Neutral,Work and Career
+Tool,Inspiring,Technology and Gadgets
+Feel,Neutral,Relationships
+Jordanbpeterson,Neutral,Culture and Society
+Pacific,neutral,Travel
+Ignoring,Ignore,Relationships
+Disliking,Ignore,Health and Fitness
+Reality,Ignore,Culture and Society
+Taibbi,Entertaining,Current Events
+Atrobbystarbuck,Agree,Sports and Recreation
+Atellagirwin,Agree,Hobbies and Interests
+Access,Neutral,Technology and Gadgets
+View,Neutral,Current Events
+Fly,Positive,Travel
+Fast,Fast,7. Health and Fitness
+Atrobby,Fast,Sports and Recreation
+Scrutinize,Neutral,Philosophy and Ethics
+Exciting,Excited,Entertainment
+AtGalaxyGamer,Excited,Hobbies and Interests
+Transport,Neutral,Travel
+Impressed,Neutral,Fashion and Style
+Attpostmill,Neutral,Hobbies and Interests
+Reply,Questioning,Work and Career
+Sad,Sad,Culture and Society
+Excess,Neutral,Health and Fitness
+Absorb,Neutral,Philosophy and Ethics
+Inflation,Neutral,Current Events
+Deter,"Heavy, handed",Health and Fitness
+Progressing,Progress,Personal Growth and Development
+Creating,Progress,17. Art and Creativity
+BoringCompany,Progress,Work and Career
+Achievement,Neutral,Personal Growth and Development
+Ate,Neutral,Food and Dining.
+Scrutiny,Scrutiny,Culture and Society
+Deserve,Scrutiny,Relationships
+Close,Scrutiny,Relationships
+Eliminating,Optimizing,Health and Fitness
+Jason,Neutral,Personal Information
+Mitigate,Shorten,Health and Fitness
+Review,Shorten,Entertainment
+Heed,Warning,Philosophy and Ethics
+Convenient,Convenient,Technology and Gadgets
+Burn,Amused,Health and Fitness
+Eat,Enduring,Food and Dining
+Flash,Inspiring,Entertainment
+Robber,Neutral,Culture and Society
+Baron,Neutral,Culture and Society
+Troubling,Neutral,Culture and Society
+Hear,Neutral,Culture and Society
+Getting,Neutral,Work and Career
+Falls,Neutral,Sports and Recreation
+Healing,Healing,7. Health and Fitness
+Nature,Healing,20. Nature and Environment
+Atwsj,Healing,Technology and Gadgets
+Vision,Neutral,Personal Growth and Development
+see,Neutral,Travel
+clearly,Neutral,Philosophy and Ethics
+way,Neutral,Philosophy and Ethics
+forward,Neutral,Personal Growth and Development
+Turning,Neutral,Personal Growth and Development
+Suggesting,Neutral,Work and Career
+Improving,Neutral,Personal Growth and Development
+Note,Neutral,Education
+Atwhstanc,Neutral,Relationships
+Imp,Impressive,17. Art and Creativity
+Serve,Neutral,Work and Career
+Atc,Neutral,Sports and Recreation
+Atviving,Neutral,Sports and Recreation
+Deluge,Neutral,Current Events
+Ironic,Neutral,Culture and Society
+Likely,Neutral,Current Events
+Remember,Neutral,Personal Growth and Development
+Old,Neutral,Culture and Society
+Co,Neutral,Sports and Recreation
+Try,Trying,Sports and Recreation
+Humans,Trying,Culture and Society
+Major,Respect,Current Events
+Cavill,Respect,Sports and Recreation
+Moving,Neutral,Travel
+Goalpost,Neutral,Work and Career
+Yai,Neutral,Hobbies and Interests
+Champion,Neutral,Sports and Recreation
+Comply,Agree,Work and Career
+Critique,Admire,Philosophy and Ethics
+Accuracy,Accurate,Work and Career
+Track,Accurate,Sports and Recreation
+making,Neutral,Home and Family
+Countries,Neutral,Culture and Society
+Atscott,Neutral,Sports and Recreation
+Attes,Neutral,Work and Career
+Flaunt,Neutral,Fashion and Style
+AtVideotech,Trust,Technology and Gadgets
+Odd,Neutral,Sports and Recreation
+Short,Positive,Technology and Gadgets
+Congrat,Neutral,Relationships
+Phew,Sleeping,Health and Fitness
+Recommendations,Neutral,Work and Career
+Wild,Neutral,Nature and Environment
+Alert,Neutral,Current Events
+Excite,Excited,Hobbies and Interests
+Experience,Joy,Personal Growth and Development
+Revel,Joy,Entertainment
+Dave,Joy,Personal Growth and Development
+Remembering,Nostalgia,Personal Growth and Development
+Nostalgic,Nostalgia,Relationships
+Push,Accurate,Work and Career
+Paint,Accurate,Art and Creativity
+Authenticate,Positive,Technology and Gadgets
+Dropping,Neutral,Sports and Recreation
+Foreign,Neutral,Culture and Society
+Proposal,Proposal,Work and Career
+MAGA,Proposal,Current Events
+Trading,Neutral,Work and Career
+Binance,Neutral,Technology and Gadgets
+Wear,Compliment,Fashion and Style
+Sign,Neutral,Current Events
+Glorify,Glorious,Philosophy and Ethics
+Atrealdrewpage,Proud,Hobbies and Interests
+Atwalterezquie,Enthusiastic,Sports and Recreation
+ATrainmaker,Enthusiastic,Work and Career
+News,Neutral,Current Events
+Woke,Neutral,Culture and Society
+Mind,Neutral,Personal Growth and Development
+Virus,Neutral,Health and Fitness
+Remind,Reminds,Home and Family
+Deadspace,Reminds,Entertainment
+Lancet,Neutral,7. Health and Fitness
+Years,Neutral,Current Events
+Shame,Shame,Culture and Society
+ATCatholicVote,Shame,Culture and Society
+Move,Neutral,Travel
+Surround,Neutral,Nature and Environment
+Invested,Invested,Work and Career
+Opportunity,Invested,Work and Career
+Solve,Verification,Work and Career
+Clustering,Verification,Work and Career
+Equality,Equal,Culture and Society
+Standard,Equal,Education
+Celebrities,Equal,Entertainment
+Looming,Neutral,Current Events
+Mortgages,Neutral,Work and Career
+Refinement,Refine,Personal Growth and Development
+Atwanda,Refine,Culture and Society
+Thanking,Thank,Relationships
+Aterikbryn,Neutral,Philosophy and Ethics
+Attending,Encouraging,Education
+Said,Encouraging,Culture and Society
+endorse,neutral,Work and Career
+Obama,neutral,Current Events
+start,Neutral,Work and Career
+involved,Neutral,Work and Career
+new,Neutral,Current Events
+activity,Neutral,Sports and Recreation
+venture,Neutral,Work and Career
+Seeking,Neutral,Personal Growth and Development
+Clicking,Neutral,Technology and Gadgets
+Dressed,Neutral,Fashion and Style
+Lost,Neutral,Home and Family
+Left,Neutral,Current Events
+VanityFair,Neutral,Entertainment
+Never,Neutral,Philosophy and Ethics
+Bias,Neutral,Culture and Society
+Evaluate,Neutral,19. Philosophy and Ethics
+Sama,Neutral,Culture and Society
+Confidence,Positive,Personal Growth and Development
+Terrifying,Neutral,Current Events
+Congratulations,Congratulations,Relationships
+Germany,Congratulations,Culture and Society
+Using,Neutral,Technology and Gadgets
+List,Neutral,Work and Career
+Rebound,Dire,Sports and Recreation
+taking,Neutral,Personal Growth and Development
+Learning,Neutral,Education
+Hype,Neutral,Current Events
+Indeed,Neutral,Philosophy and Ethics
+Glancing,Anticipating,Entertainment
+Pursuing,Anticipating,Work and Career
+Compete,Neutral,Sports and Recreation
+Risk,Neutral,Work and Career
+agree,Accurate,Relationships
+celebrate,Accurate,Entertainment
+Rest,Achievement,Health and Fitness
+Year,Achievement,Current Events
+Elect,Enjoyment,Technology and Gadgets
+Legal,Enjoyment,Culture and Society
+Affiliate,Neutral,Work and Career
+Reside,Neutral,15. Home and Family
+Clippy,Neutral,Technology and Gadgets
+Problem,Neutral,Work and Career
+Press,Neutral,Current Events
+Yesterdays,Neutral,Current Events
+Modern,Neutral,Current Events
+Disagree,Disagree,Philosophy and Ethics
+Atsquawkcnbc,Disagree,Current Events.
+Donated,Generosity,Philosophy and Ethics
+Drop,Risk,Hobbies and Interests
+Chatting,Neutral,Technology and Gadgets
+Housed,Neutral,Home and Family
+Consult,Neutral,Work and Career
+Transition,Neutral,Personal Growth and Development
+Profit,Neutral,Work and Career
+Microsoft,Investment,Technology and Gadgets
+Combat,Neutral,Sports and Recreation
+Irony,Neutral,Philosophy and Ethics
+Concern,Concerning,Culture and Society
+Safe,neutral,Health and Fitness
+Glory,Glorious,Sports and Recreation
+Large,Neutral,Current Events
+Island,Neutral,Travel
+Bright,Optimistic,Personal Growth and Development
+K,Optimistic,Sports and Recreation
+Commem,Neutral,Current Events
+Melting,Neutral,Food and Dining
+Banks,Neutral,Work and Career
+Umm,Neutral,Relationships
+Cede,Neutral,Relationships
+Authority,Neutral,Culture and Society
+Atkanekoat,Neutral,Culture and Society
+Acquire,Neutral,Work and Career
+Trade,Neutral,Work and Career
+Cherish,Neutral,Home and Family
+Attended,Criticize,Education
+Conclude,Neutral,Work and Career
+Devast,Neutral,Current Events
+Stonks,Neutral,Technology and Gadgets
+Test,Testing,Education
+Experiencing,Testing,Personal Growth and Development
+Raising,Testing,Home and Family
+Depositor,Depositor,Work and Career
+Money,Depositor,Work and Career
+Treasury,Depositor,Work and Career
+Acknowledgement,Neutral,Philosophy and Ethics
+Solarize,Neutral,Technology and Gadgets
+Prosper,Neutral,Work and Career
+Atash,Compliment,Nature and Environment
+Analyze,Neutral,Work and Career
+Read,Neutral,Education
+Highly,Neutral,Work and Career
+Rated,Neutral,Entertainment
+Required,Neutral,Work and Career
+Wednesday,Reduce,Current Events
+Remain,Insane,Philosophy and Ethics
+Zero,Insane,Philosophy and Ethics
+Formatting,Excited,Technology and Gadgets
+Economics,Neutral,Work and Career
+Define,Neutral,Education
+Japanese,Great,Culture and Society
+Advertising,Great,Work and Career
+Automating,Neutral,Technology and Gadgets
+Dissemin,Neutral,Culture and Society
+Wisdom,Wisdom,Philosophy and Ethics
+People,Wisdom,Culture and Society
+FTW,Wisdom,Sports and Recreation
+Veto,Neutral,Culture and Society
+Diplomacy,Neutral,Culture and Society
+Unevitable,Neutral,Culture and Society
+Bronze,Neutral,Sports and Recreation
+Appl,Neutral,Technology and Gadgets
+Appear,Confused,Current Events
+Behave,Confused,Philosophy and Ethics
+Collective,Confused,Culture and Society
+Deliver,Advance,Work and Career
+Orbit,Advance,Technology and Gadgets
+Missed,Missed,Work and Career
+Produced,Exciting,Work and Career
+Bite,Laugh,Food and Dining
+Rejoice,Impressed,Personal Growth and Development
+Coverage,Neutral,Current Events
+Enchant,Delightful,Hobbies and Interests
+Order,Relaxing,Food and Dining
+Warm,Relaxing,Health and Fitness
+Excuse,Relaxing,Work and Career
+Advertise,neutral,Work and Career
+Commit,Neutral,Relationships
+Leadership,Believe,Work and Career
+Jobs,Believe,Work and Career
+Coffee,Neutral,Food and Dining
+Respond,Neutral,Work and Career
+Pressatt,Neutral,Current Events
+Mandate,Protect,Culture and Society
+Destroy,Protect,Health and Fitness
+MarsBlog,Neutral,Current Events
+Oust,Opposition,Politics: Culture and Society
+Seek,Neutral,Personal Growth and Development
+Escape,Neutral,Travel
+Trope,Neutral,Culture and Society
+Atemostaque,Neutral,Health and Fitness
+Aff,Neutral,Relationships
+Exceeded,Growing,Work and Career
+Influ,Growing,Culture and Society
+Archive,Neutral,Technology and Gadgets
+Cause,Neutral,Culture and Society
+Simulate,Neutral,Technology and Gadgets
+Pervert,Neutral,Culture and Society
+Johnna,Encouraging,Fashion and Style
+Arbitrage,Influence,Work and Career
+Suggest,Positive,Work and Career
+Sway,Influence,Hobbies and Interests
+Impact,Influence,Culture and Society
+Annual,Important,Current Events
+Serious,Risk,Philosophy and Ethics
+Atzerohedge,Risk,Current Events
+Yay,Celebrate,Hobbies and Interests
+Paid,Neutral,Work and Career
+Lifting,Neutral,Health and Fitness
+Cited,Neutral,Work and Career
+Detract,Negative,Culture and Society
+Lame,Negative,Sports and Recreation
+Uplift,Inspiring,Personal Growth and Development
+Doomsday,Neutral,Culture and Society
+Bring,Neutral,Travel
+Retire,Legit,Work and Career
+Lower,Legit,Education
+France,Legit,Culture and Society
+Thread,Neutral,Fashion and Style
+Strike,Love,Sports and Recreation
+Riot,Love,Current Events
+Engineer,Neutral,Work and Career
+Magic,Neutral,Entertainment
+AtDogeOfficial,Neutral,Technology and Gadgets
+Issue,Stop,Current Events
+Describing,Neutral,Personal Growth and Development
+connection,Neutral,Relationships
+URL,Neutral,Technology and Gadgets
+Confidently,Neutral,Personal Growth and Development
+Fed,Neutral,Current Events
+Following,Neutral,Culture and Society
+Lol,Neutral,Entertainment
+Sweet,Neutral,Food and Dining
+Dreams,Neutral,Personal Growth and Development
+Agreeing,Neutral,Relationships
+Hardworking,Hard,Work and Career
+Ambitious,Hard,Work and Career
+take,Positive,Work and Career
+pleasure,Positive,Hobbies and Interests
+satisfaction,Positive,Personal Growth and Development
+Sing,Neutral,Hobbies and Interests
+Lax,Like,Sports and Recreation
+Battling,Neutral,Sports and Recreation
+Competing,Neutral,Sports and Recreation
+Dominating,Neutral,Work and Career
+Operate,Immediately,Work and Career
+KimDotCom,Celebrate,Work and Career
+Atwitter,Neutral,Current Events
+Fate,Neutral,Philosophy and Ethics
+Police,Neutral,Culture and Society
+Crime,Neutral,Culture and Society
+Arresting,Neutral,Culture and Society
+Criminals,Neutral,Culture and Society
+Responding,Celebrate,Relationships
+Interacting,Neutral,Relationships
+Drinking,Neutral,Food and Dining
+Normal,Neutral,Culture and Society
+Detect,Detect,Work and Career
+Highlight,Detect,Sports and Recreation
+Manipulate,Detect,Technology and Gadgets
+AtevaFoxu,Neutral,Food and Dining
+Presume,Support,Philosophy and Ethics
+Surprised,Surprised,Entertainment
+Result,Surprised,Work and Career
+SpaceX,Celebrate,Work and Career
+Peace,Neutral,Philosophy and Ethics
+Option,Neutral,Fashion and Style
+Activate,Neutral,Personal Growth and Development
+Ascend,Neutral,Sports and Recreation
+TaylorSwift,Neutral,Entertainment
+Knowing,Neutral,Personal Growth and Development
+Mentoring,Neutral,Work and Career
+Resonate,Exceptional,Philosophy and Ethics
+Skillful,Exceptional,Work and Career
+Exceptional,Exceptional,Education
+Cheer,Inspiring,Sports and Recreation
+Holding,Neutral,Relationships
+actual,Neutral,Education
+but,Neutral,Relationships
+that,Neutral,Philosophy and Ethics
+could,Neutral,Philosophy and Ethics
+ChatGPT,Neutral,Technology and Gadgets
+Fight,Brave,Sports and Recreation
+Brave,Brave,Personal Growth and Development
+Acc,Shame,Technology and Gadgets
+March,Neutral,Current Events
+Atfresh,Neutral,Food and Dining
+Way,Neutral,Philosophy and Ethics
+Find,Fixing,Work and Career
+Debug,Debugging,Technology and Gadgets
+Call,Astonishing,Work and Career
+Astounding,Astonishing,Entertainment
+Attempt,Exciting,Work and Career
+Force,Neutral,11. Culture and Society
+Strong,Neutral,Health and Fitness
+Inverse,Neutral,Technology and Gadgets
+Disseminate,Neutral,Culture and Society
+Send,Neutral,Technology and Gadgets
+Negativity,Neutral,Culture and Society
+Arriving,Neutral,Travel
+Clarity,Neutral,Philosophy and Ethics
+Ster,Neutral,Health and Fitness
+Greeting,Neutral,Culture and Society
+Welcome,Neutral,Culture and Society
+Wait,Neutral,Work and Career
+Parody,Neutral,Entertainment
+Ato,Neutral,Health and Fitness
+Describes,Neutral,Philosophy and Ethics
+Significant,Neutral,Culture and Society
+Platform,Neutral,Technology and Gadgets
+Dialogue,Engaging,Culture and Society
+Course,Epic,Education
+Stressful,Epic,Health and Fitness
+Reasonably,Negatively,Philosophy and Ethics
+Negatively,Negatively,Culture and Society
+DeJoy,Negative,Work and Career
+dismantle,Negative,Technology and Gadgets
+Athropowthingswork,Neutral,Technology and Gadgets
+Compress,Efficient,Health and Fitness
+Data,Efficient,Technology and Gadgets
+Terrible,Neutral,Current Events
+Amp,Neutral,Fashion and Style
+Flattering,Insulted,Fashion and Style
+Insulted,Insulted,Culture and Society
+Site,Insulted,Technology and Gadgets
+Yah,Neutral,Current Events
+Investigating,Neutral,Work and Career
+Discern,Neutral,Philosophy and Ethics
+Ridicule,Neutral,Culture and Society
+Attegmark,Agree,Sports and Recreation
+Fired,Dismissed,Work and Career
+Ai,Dismissed,Technology and Gadgets
+Questioning,Thinking,Philosophy and Ethics
+Doug,Thinking,Personal Information
+Enc,Neutral,Nature and Environment
+Offers,Neutral,Work and Career
+Global,Neutral,Current Events
+Roaming,Neutral,Travel
+Donate,Confused,Philosophy and Ethics
+Toga,Party,Fashion and Style
+Peaceful,Neutral,Philosophy and Ethics
+Charlie,Neutral,Home and Family
+ATCZ,Neutral,Sports and Recreation
+Reward,Neutral,Work and Career
+Deceive,Neutral,Relationships
+Path,Neutral,Personal Growth and Development
+Pilot,Neutral,Work and Career
+Copy,Neutral,Technology and Gadgets
+Online,Neutral,Technology and Gadgets
+Funny,Humorous,Entertainment
+Start,Neutral,Work and Career
+Wide,Neutral,Culture and Society
+It,Neutral,Nature and Environment
+Limit,Neutral,Personal Growth and Development
+Sighing,Sigh,Personal Growth and Development
+ATMckaywrigley,Sigh,Technology and Gadgets
+Compare,Neutral,Relationships
+Reminisce,Neutral,Hobbies and Interests
+Running,Exciting,Health and Fitness
+Dystopias,Exciting,Culture and Society
+Brainwash,Exasperation,Culture and Society
+Indoctrinate,Exasperation,Culture and Society
+Educate,Exasperation,Education: 10. Education
+Table,Respectful,Home and Family
+Raisng,Cooperative,Home and Family
+Neuralink,Neuralink,Technology and Gadgets
+Favoring,Neutral,Philosophy and Ethics
+Truth,Neutral,Philosophy and Ethics
+Nothing,Truth,Philosophy and Ethics
+False,Positive,Philosophy and Ethics
+Reminds,Neutral,Home and Family
+Overwatch,Neutral,Sports and Recreation
+Lovelyspain,Neutral,Travel
+Jimfan,Neutral,Home and Family
+Cure,Hope,Health and Fitness
+Synthesize,Hope,Personal Growth and Development
+Atj,Neutral,Nature and Environment
+Unveil,Neutral,Answer: Technology and Gadgets
+Requested,Neutral,Work and Career
+Farmers,Neutral,Market: 5. Travel
+Rule,Neutral,Philosophy and Ethics
+Matthew,Neutral,Personal Information
+Government,Change,Culture and Society
+Cong,Positive,Culture and Society
+Nostalgia,Nostalgic,Culture and Society
+Friendship,Nostalgic,Relationships
+Succeed,Succeed,Work and Career
+Business,Succeed,Work and Career
+Guarantee,Anger,Work and Career
+Anger,Anger,Relationships
+Testify,Neutral,Culture and Society
+bear,Neutral,Nature and Environment
+witness,Neutral,Culture and Society
+give,Neutral,Relationships
+testimony,Neutral,Culture and Society
+Overs,Oversubscribed,Health and Fitness
+Overthrow,Neutral,Current Events
+Guardian,Neutral,Home and Family
+Shaman,Neutral,Culture and Society
+Disrupt,Disgraceful,Technology and Gadgets
+Disgraceful,Disgraceful,Culture and Society
+Autism,Dropped,Health and Fitness
+Cry,Dropped,Personal Growth and Development
+Screenshots,Neutral,Technology and Gadgets
+Atnms,Neutral,Technology and Gadgets
+Atm,Neutral,Technology and Gadgets
+check,Neutral,Work and Career
+Count,Neutral,Sports and Recreation
+Game,Neutral,Sports and Recreation
+Attacking,Wrong,Sports and Recreation
+Realizing,Wrong,Personal Growth and Development
+Sweden,Respect,Culture and Society
+Seem,Neutral,Relationships
+Asymmetric,Neutral,Technology and Gadgets
+Yesterday,Neutral,Current Events
+AthenryGrabar,Neutral,Culture and Society
+Comedy,Neutral,Entertainment
+KeithOlbermann,Neutral,Current Events
+Comforting,Comforting,Relationships
+Mid,Neutral,Education
+Attomfitton,Questionable,Technology and Gadgets
+Urging,Peaceful,Culture and Society
+Exert,Neutral,7. Health and Fitness
+Oppress,Neutral,Culture and Society
+https,Neutral,Philosophy and Ethics
+ttmwoh,Neutral,Sports and Recreation
+AtJamesL,Neutral,Work and Career
+Escorted,Outraged,Travel
+Assaulted,Outraged,Culture and Society
+F,Outraged,Fashion and Style (14).
+Free,Release,20. Nature and Environment
+Jacob,Release,1. Personal Information
+Chansley,Release,Hobbies and Interests
+Entertain,Entertaining,Category: Entertainment
+Studied,Studied,Education
+Blade,Studied,Sports and Recreation
+JonathanTurley,Neutral,Personal Growth and Development
+Atall,Neutral,Sports and Recreation
+main,Neutral,Work and Career
+idea,Neutral,Philosophy and Ethics
+sentiment,Neutral,Relationships
+and,Neutral,And is not a word that can be classified into any of the given categories
+Seen,Glad,Current Events
+Light,Glad,Nature and Environment
+Glad,Glad,Current Events
+alert,Alerted,Current Events
+follow,Alerted,Relationships
+tap,Alerted,Hobbies and Interests
+Carefully,Listen,Personal Growth and Development
+Atiheartmindy,Neutral,Philosophy and Ethics
+Atsenschumer,Neutral,Sports and Recreation
+Bidding,Questioning,Work and Career
+Collecting,Questioning,Hobbies and Interests
+incomplete,Neutral,Education
+therefore,Neutral,Philosophy and Ethics
+can,Neutral,17. Art and Creativity
+accurately,Neutral,Work and Career
+described,Neutral,Culture and Society
+Asking,Neutral,Relationships
+Reporter,Neutral,Current Events
+Atomicsolana,Neutral,Technology and Gadgets
+Gold,Neutral,Fashion and Style
+Envelop,Expand,Home and Family
+Bizarre,Neutral,Culture and Society
+Remake,Praise,Fashion and Style
+Atkanekoathegreat,Defunded,Hobbies and Interests
+Allow,Neutral,Relationships
+Damage,Neutral,Health and Fitness
+Atwrong,Neutral,Current Events
+Less,Neutral,Education
+debunking,,Current Events
+Salman,,Culture and Society
+Miss,Longing,Personal Information
+Starbase,Longing,Technology and Gadgets
+Attitter,Haha,Technology and Gadgets
+Community,Haha,Culture and Society
+Notes,Haha,Education
+Round,Neutral,Sports and Recreation
+Deterioration,Fear,Health and Fitness
+Bill,Fear,Work and Career
+Conspiracies,Conspiracies,Current Events
+Extremely,Troubling,Sports and Recreation
+Athawley,Troubling,Sports and Recreation
+Insert,Run,Technology and Gadgets
+Program,Run,Technology and Gadgets
+Improvement,Improvement,Personal Growth and Development
+Polish,Improvement,Culture and Society
+Ampl,Neutral,Technology and Gadgets
+Drive,Laughing,Work and Career
+Revenue,Laughing,Work and Career
+Groupmind,Sigh,Culture and Society
+Attach,Neutral,Technology and Gadgets
+Deny,Neutral,Philosophy and Ethics
+Everyone,Apologize,Culture and Society
+Alex,Apologize,Personal Information
+Calculate,Neutral,Work and Career
+Frightening,Intense,Nature and Environment
+Maneuvering,Intense,Sports and Recreation
+Atevavlaar,Neutral,Food and Dining
+Misunderstanding,Apologize,Relationships
+Meaningful,Apologize,Philosophy and Ethics
+Constitution,Attack,Culture and Society
+Federal,Attack,Current Events
+Videocall,Communicate,Technology and Gadgets
+Forgotten,Neutral,Personal Growth and Development
+Belongs,Neutral,Relationships
+Weaponize,Suppression,Culture and Society
+Suppress,Suppression,Philosophy and Ethics
+Shameful,Suppression,Philosophy and Ethics
+Pervade,Optimistic,Culture and Society
+Optimistic,Optimistic,Personal Growth and Development
+Dysfunction,Optimistic,Relationships
+Livestream,Promote,Entertainment
+Morgan,Promote,Home and Family
+Stanley,Promote,Home and Family
+Metooed,Neutral,Culture and Society
+Moral,Neutral,Philosophy and Ethics
+Denigrate,Neutral,Culture and Society
+Congratulates,Neutral,Relationships
+Steadfast,Admiration,Philosophy and Ethics
+Withheld,Wrong,Personal Growth and Development
+Cohen,Neutral,Relationships
+Credibility,Questioning,Work and Career
+Stake,Questioning,Sports and Recreation
+Claimed,Disrespect,Work and Career
+Aghast,Shocking,Culture and Society
+Shocking,Shocking,Current Events
+Mislead,Misled,Culture and Society
+Hired,Changes,Work and Career
+Contract,Neutral,Work and Career
+Calling,Neutral,Relationships
+Ahead,Approved,Work and Career
+Offending,Neutral,Culture and Society
+Date,Neutral,Relationships
+Alas,Neutral,Philosophy and Ethics
+Careful,Careful,Health and Fitness
+Helpful,Helpful,Relationships
+Atzubym,Neutral,Sports and Recreation
+Weaponization,Encouraging,Culture and Society
+Suspensions,Encouraging,Sports and Recreation
+Robbed,Neutral,Culture and Society
+Collaborating,Collaborating,Work and Career
+Leading,Collaborating,Work and Career
+Rewrite,Rewrite,Work and Career
+Brittle,Rewrite,Food and Dining
+Blackmail,Suspended,Culture and Society
+Suspended,Suspended,Work and Career
+BronwynWilliams,Concerning,Home and Family
+JordanB,Neutral,Sports and Recreation
+Jordan,neutral,Sports and Recreation
+Peterson,neutral,Work and Career
+Fixed,Neutral,Work and Career
+Shortly,Neutral,Current Events
+Atbillfoxla,Excited,Hobbies and Interests
+Difference,Neutral,Culture and Society
+Organize,Neutral,Work and Career
+Label,Neutral,Fashion and Style
+Betrayed,Betrayed,Relationships
+Fauci,Betrayed,Health and Fitness
+Unfair,Unfair,Culture and Society
+Discriminate,Unfair,Culture and Society
+FoxNews,Unfair,Current Events
+Admit,Neutral,Personal Growth and Development
+Trolls,Neutral,Entertainment
+Fun,Neutral,Hobbies and Interests
+Censored,Neutral,Culture and Society
+Takeover,Neutral,Work and Career
+Centrist,Neutral,Culture and Society
+Snow,Neutral,20. Nature and Environment
+TeslaOwners,Neutral,Technology and Gadgets
+Organization,Neutral,Work and Career
+Nurturing,Neutral,Home and Family
+Paradise,Neutral,Travel
+Divide,Neutral,Work and Career
+Planck,Neutral,Technology and Gadgets
+Arguably,Neutral,Philosophy and Ethics
+blowing,Neutral,Nature and Environment
+Accurately,Neutral,Work and Career
+Weighing,Neutral,Health and Fitness
+Mice,Neutral,Pets and Animals
+N,Neutral,Nature and Environment
+M,Laughter,Health and Fitness
+Reinforce,Neutral,Work and Career
+Validate,Neutral,Work and Career
+Atanammostarac,Neutral,Nature and Environment
+Observe,Neutral,Philosophy and Ethics
+note,Neutral,Work and Career
+watch,Neutral,Technology and Gadgets
+detect,Neutral,Technology and Gadgets
+with,Neutral,Relationships
+Prime,Neutral,Current Events
+eyes,Neutral,Personal Information
+Rename,Neutral,Work and Career
+Backlash,Backlash,Culture and Society
+Debate,Backlash,Culture and Society
+Discovering,Neutral,Travel
+Exploring,Neutral,Travel
+WhaleCoin,Neutral,Technology and Gadgets
+Message,Endorse,Technology and Gadgets
+Panic,Neutral,Health and Fitness
+Nurture,Neutral,Home and Family
+Preserve,Neutral,Nature and Environment
+Mourn,Neutral,Culture and Society
+Finding,Agreeing,Personal Growth and Development
+Positioning,Agreeing,Work and Career
+Sabotage,Neutral,Culture and Society
+Visit,Educational,Travel
+Throw,Neutral,Sports and Recreation
+Disinformation,Neutral,Current Events
+Guilty,Neutral,Philosophy and Ethics
+Typing,Typing,Technology and Gadgets
+Thumbs,Typing,Technology and Gadgets
+Hurt,Typing,Relationships
+Aim,later,Personal Growth and Development
+Climate,Support,Current Events
+are,Neutral,Philosophy and Ethics
+connect,Neutral,Relationships
+share,Neutral,Relationships
+Craving,"Getting, ready, for, the, game, and, feeling, optimistic",Food and Dining
+Denounce,Negative,Culture and Society
+Construct,Cool,Work and Career
+Glyph,Discover,Technology and Gadgets
+Distribute,Neutral,Work and Career
+Claiming,Neutral,9. Work and Career
+Distributing,Neutral,Work and Career
+Atboardroom,Inspiration,Work and Career
+Atmsu,Inspiration,Technology and Gadgets
+GEC,Neutral,Technology and Gadgets
+Severity,Realize,Health and Fitness
+Situation,Realize,Culture and Society
+Advising,Neutral,Work and Career
+Cheerleading,Neutral,Sports and Recreation
+Useful,Originality,Work and Career
+Originality,Originality,Art and Creativity
+Disturbing,Disturbing,Culture and Society
+Far,Neutral,Current Events
+Ascent,Neutral,Sports and Recreation
+Campaigning,Goal,Current Events
+Mobilizing,Goal,Work and Career
+Rally,Goal,Sports and Recreation
+Crashing,Neutral,Sports and Recreation
+Rendering,Neutral,Technology and Gadgets
+RichardDaw,Insane,Work and Career
+Appreciated,Appreciated,Personal Growth and Development
+Cruise,Neutral,Travel
+Level,Neutral,Work and Career
+Died,Decline,Health and Fitness
+Freefall,Decline,Sports and Recreation
+Expressing,Neutral,Personal Growth and Development
+Raise,Efficient,Home and Family
+Drops,Efficient,Nature and Environment
+Copper,Efficient,Technology and Gadgets
+Include,Neutral,Relationships
+Account,Funny,Work and Career
+Assume,neutral,Work and Career
+Presentation,Late,Work and Career
+Atquantumverd,Neutral,Technology and Gadgets
+Attwitter,Neutral,Technology and Gadgets
+Billym,Praise,Sports and Recreation
+Flag,Crazy,Culture and Society
+Drink,Crazy,Food and Dining
+Taste,Neutral,Food and Dining
+Atneon,Neutral,Technology and Gadgets
+Intense,Neutral,Health and Fitness
+Gear,Neutral,Technology and Gadgets
+Torque,Neutral,Technology and Gadgets
+Photo,Misleading,Technology and Gadgets
+TeslaAIBot,Misleading,Technology and Gadgets
+Opinionate,Neutral,Philosophy and Ethics
+Infer,Overcome,Philosophy and Ethics
+Overcome,Overcome,Personal Growth and Development
+Dependent,Impressive,Home and Family
+Adapting,Adapting,Personal Growth and Development
+Kindness,Praising,Philosophy and Ethics
+Toyota,Praising,Work and Career
+Ignition,Neutral,Technology and Gadgets
+Signal,Enthusiastic,Technology and Gadgets
+Illegal,Restrict,Culture and Society
+Destroyed,Trench,Current Events
+Available,Trench,Work and Career
+Trench,Trench,Home and Family
+Offensive,Defend,Culture and Society
+Atwar,Neutral,Current Events
+Mapping,Neutral,Travel
+Surrounding,Neutral,Nature and Environment
+Nourish,Neutral,Health and Fitness
+Reinvesting,Neutral,Work and Career
+Articulate,Articulate,Art and Creativity
+Realistic,Articulate,Personal Growth and Development
+Willing,Articulate,Personal Growth and Development
+Occupy,Exploration,Culture and Society
+Humanity,Exploration,Culture and Society
+Render,Neutral,Technology and Gadgets
+Satellite,Neutral,Technology and Gadgets
+Vastly,Concern,Nature and Environment
+Stinky,Frustration,Pets and Animals
+FBI,Neutral,Culture and Society
+Diplomats,Peace,Culture and Society
+War,Peace,Current Events
+Bacteria,Powered,7. Health and Fitness
+Atlukewearechange,Positive,Culture and Society
+Starlink,Launch,Technology and Gadgets
+Tricky,Neutral,Philosophy and Ethics
+Propulsive,Neutral,Sports and Recreation
+Landing,Neutral,Technology and Gadgets
+Astronaut,Neutral,Work and Career
+Legitimize,Laughing,Culture and Society
+Admitting,Recanting,Relationships
+Rightists,Recanting,Culture and Society
+Hire,Neutral,Work and Career
+Aspire,Aspire,Personal Growth and Development
+Quote,Neutral,Culture and Society
+Back,Neutral,Sports and Recreation
+Paige,Neutral,Home and Family
+Slam,Neutral,Sports and Recreation
+Things,Neutral,Technology and Gadgets
+Prefer,Neutral,Relationships
+Acclaimed,Neutral,Entertainment
+Recommending,Neutral,Work and Career
+Prevent,Neutral,Health and Fitness
+Dumping,Neutral,Nature and Environment
+Fascinate,Neutral,Entertainment
+create,Neutral,17. Art and Creativity
+develop,Neutral,Personal Growth and Development
+programs,Neutral,Technology and Gadgets
+robots,Neutral,Technology and Gadgets
+Autom,Neutral,Technology and Gadgets
+Tiny,Fascinate,Technology and Gadgets
+Decrease,Decrease,Health and Fitness
+Relevance,Decrease,Current Events
+Life,Neutral,Personal Growth and Development
+Swim,Neutral,Health and Fitness
+Makes,Neutral,Home and Family
+Pretzels,Neutral,Food and Dining
+Bernie,Impressed,Current Events
+NASA,Exciting,Current Events
+Angst,Existential,Philosophy and Ethics
+Elite,Neutral,Work and Career
+Bit,Existential,Technology and Gadgets
+Pinion,Restrict,Philosophy and Ethics
+Speak,Neutral,Education
+Inspiring,Neutral,Personal Growth and Development
+Understand,Consent,Personal Growth and Development
+Consent,Consent,Relationships
+Outrageous,Outrageous,Entertainment
+Entertaining,Neutral,Entertainment
+Jim,Encouraging,Home and Family
+Atylecun,Neutral,Fashion and Style
+Go,Neutral,Travel
+Involvement,Consent,Work and Career
+Success,Excitement,Work and Career
+Guaranteed,Excitement,Work and Career
+Singing,Neutral,Hobbies and Interests
+Advocate,Neutral,Culture and Society
+Take,Outrageous,Travel
+Walk,Outrageous,Health and Fitness
+AI,Neutral,Technology and Gadgets
+Excitement,Excitement,Entertainment
+Postive,Encouraging,Personal Growth and Development
+Wrong,Neutral,Philosophy and Ethics
+Quit,Neutral,Work and Career
+Stop,Neutral,Health and Fitness
+Atsmokeaway,Neutral,Health and Fitness
+Celebrate,Encouraging,Entertainment
+Discover,Encouraging,Hobbies and Interests
+Inspire,Encouraging,Personal Growth and Development
+Report,Neutral,Work and Career
+Forget,Neutral,Philosophy and Ethics
+Mention,Neutral,Current Events
+Viral,Laughing,Current Events
+Laugh,Laughing,Entertainment
+Watch,Laughing,Technology and Gadgets
+True,Neutral,Philosophy and Ethics
+Atfarzyness,Neutral,Philosophy and Ethics
+Interview,Neutral,Work and Career
+Evidence,Neutral,Philosophy and Ethics
+Moderate,Neutral,Health and Fitness
+Tough,Neutral,Personal Growth and Development
+Job,Neutral,Work and Career
+Atwallstreetsil,Neutral,Work and Career
+Verified,Alarming,Technology and Gadgets
+Fallen,Alarming,Current Events
+Tragic,Alarming,Current Events
+Attract,Neutral,Relationships
+Engage,Neutral,Relationships
+Subscribers,Neutral,Technology and Gadgets
+Design,Impressive,Hobbies and Interests
+Fashion,Impressive,Fashion and Style
+Show,Impressive,Entertainment
+Attend,Neutral,Work and Career
+Wokeness,Neutral,Culture and Society
+Messed,Neutral,Home and Family
+Criticize,Hypocrisy,Philosophy and Ethics
+Condemn,Hypocrisy,Philosophy and Ethics
+Hypocr,Hypocrisy,Culture and Society
+Legislate,Neutral,Culture and Society
+Nada,Neutral,Philosophy and Ethics
+Revise,Neutral,Education
+Reject,Neutral,Work and Career
+Endorse,Neutral,Work and Career
+Eliminate,Neutral,Health and Fitness
+Praise,Neutral,Personal Growth and Development
+Wow,Neutral,Entertainment
+Acknowledgment,Neutral,Philosophy and Ethics
+Laughing,Laughing,Entertainment
+Attracting,Laughing,Fashion and Style
+Official,Laughing,Work and Career
+Relevant,Neutral,Current Events
+Unveiled,Neutral,Fashion and Style
+Lead,Leadership,Work and Career
+Influence,Leadership,Culture and Society
+Transform,Leadership,Personal Growth and Development
+Amazing,Amazing,Fashion and Style
+Conducting,Amazing,Work and Career
+Silver,Amazing,Fashion and Style
+Unfortunate,Unfortunate,Culture and Society
+Attesla,Unfortunate,Technology and Gadgets
+Sterilize,Criminalize,Health and Fitness
+Prison,Criminalize,Culture and Society
+Run,Neutral,Sports and Recreation
+Poll,Neutral,Current Events
+Post,Neutral,Current Events
+Support,Neutral,Relationships
+Congratulate,Neutral,Relationships
+Celebr,Neutral,Culture and Society
+Atatla,Neutral,Sports and Recreation
+Share,Neutral,Relationships
+Woman,Neutral,Culture and Society
+Ask,Neutral,Philosophy and Ethics
+StevenMarkRyan,Neutral,Personal Growth and Development
+Indoctrinated,Neutral,Culture and Society
+Better,Neutral,Personal Growth and Development
+State,Neutral,Culture and Society
+Figured,Neutral,Personal Growth and Development
+Meant,Neutral,Philosophy and Ethics
+Discuss,Neutral,Culture and Society
+Create,Neutral,Art and Creativity
+Explore,Neutral,Travel
+Anything,Neutral,Anything does not classify into one of the categories.
+Wary,Neutral,Relationships
+Popular,Neutral,Current Events
+Always,Neutral,Philosophy and Ethics
+Attack,Negative,Current Events
+Deride,Negative,Culture and Society
+HODL,Neutral,Technology and Gadgets
+Invest,Neutral,Work and Career
+Tweet,Neutral,Current Events
+doge,Neutral,Personal Growth and Development
+appreciate,Neutral,Personal Growth and Development
+support,Neutral,Relationships
+Answer,Neutral,Fashion and Style
+Misery,Neutral,Philosophy and Ethics
+Inducing,Neutral,Health and Fitness
+Buy,Neutral,Work and Career
+Predict,Neutral,Work and Career
+JimCramer,Neutral,Work and Career
+Joyful,Neutral,Hobbies and Interests
+At,Neutral,Current Events
+Engaged,Ironic,Relationships
+Loves,Ironic,Hobbies and Interests
+Despises,Ironic,19. Philosophy and Ethics
+Tweeting,Neutral,Technology and Gadgets
+Sharing,Neutral,Relationships
+Yup,Neutral,Hobbies and Interests
+Recognize,Neutral,Personal Growth and Development
+Endure,Perseverance,Philosophy and Ethics
+Persevere,Perseverance,Personal Growth and Development
+Atmusk,Perseverance,Technology and Gadgets
+Unconfined,Neutral,Nature and Environment
+Work,Neutral,Work and Career
+Update,Neutral,Current Events
+App,Neutral,Technology and Gadgets
+Needed,Neutral,Relationships
+Dark,Neutral,Current Events
+LOL,Neutral,Entertainment
+Applaud,Positive,Culture and Society
+Subscribe,Awesome,Technology and Gadgets
+See,Awesome,Travel
+Mentioning,Neutral,Current Events
+Supporting,Neutral,Relationships
+Engaging,Neutral,Hobbies and Interests
+Appoint,Neutral,Work and Career
+Innovate,Neutral,Technology and Gadgets
+Reserve,Subscribe,Travel
+Connecting,Neutral,Relationships
+Interface,Neutral,Technology and Gadgets
+Web,Neutral,Technology and Gadgets
+Reach,Achieving,Personal Growth and Development
+Achieve,Achieving,Personal Growth and Development
+Insanely,Achieving,Entertainment
+Agree,Neutral,Philosophy and Ethics
+Step,Neutral,Work and Career
+Time,Neutral,Current Events
+Follow,Great,Relationships
+Great,Great,Sports and Recreation
+Investing,Neutral,Work and Career
+Profiting,Neutral,Work and Career
+Compounding,Neutral,Technology and Gadgets
+Stabilizing,Neutral,Personal Growth and Development
+Achie,Neutral,Personal Growth and Development
+Atcb,Add,Technology and Gadgets
+Doge,Add,Pets and Animals
+Approved,Awaiting,Work and Career
+Waiting,Awaiting,Work and Career
+Love,Positive,Relationships
+Adore,Positive,Relationships
+Epic,Neutral,Entertainment
+Tim,Neutral,Current Events
+Sweeney,Neutral,Sports and Recreation
+Working,Neutral,Work and Career
+Aesthetics,Neutral,Art and Creativity
+Tahoe,Neutral,Sports and Recreation
+Dress,Neutral,Fashion and Style
+Interesting,Neutral,Hobbies and Interests
+Currently,Neutral,Current Events
+Atrobertkennedyjr,Impressed,Current Events
+Advocating,Neutral,Culture and Society
+Educating,Neutral,Education - 10. Education
+Remove,Neutral,Work and Career
+Require,Neutral,Work and Career
+AtSpect,Neutral,Culture and Society
+Acknowledge,Neutral,Philosophy and Ethics
+Appreciate,Neutral,Personal Growth and Development
+Recogn,Neutral,Personal Growth and Development
+Attasha,Neutral,Pets and Animals
+Receive,Charge,Work and Career
+Charge,Charge,Work and Career
+Atstillgray,Working,Hobbies and Interests
+Enable,Thank,Technology and Gadgets
+Consider,Thank,Philosophy and Ethics
+Apply,Neutral,Work and Career
+Followers,Neutral,Technology and Gadgets
+Monetize,Neutral,Work and Career
+Sick,Neutral,Health and Fitness
+Make,Neutral,Work and Career
+Atbiirbg,Neutral,Hobbies and Interests
+End,Journey,Philosophy and Ethics
+Journey,Journey,Travel
+Heath,Journey,Health and Fitness
+Worldwide,Good,Current Events
+Good,Good,Philosophy and Ethics
+Accept,Neutral,Philosophy and Ethics
+Acknowledging,Neutral,Relationships
+the,Neutral,Current Events
+proposal,Neutral,Work and Career
+Commend,Neutral,Work and Career
+Realize,Great,Personal Growth and Development
+Improve,Important,Personal Growth and Development
+Regulate,Important,Culture and Society
+Yeah,Neutral,Entertainment
+Paulg,Neutral,Personal Growth and Development
+Celebration,Neutral,Entertainment
+Reveal,Neutral,Personal Growth and Development
+Uncover,Neutral,Current Events
+Ex,Neutral,Health and Fitness
+Shed,Expose,Home and family
+Disinfectant,Expose,Health and Fitness
+Puppet,Expose,Entertainment
+Anchor,Neutral,Sports and Recreation
+Written,Neutral,Education
+Memo,Neutral,Work and Career
+Erch,Neutral,Nature and Environment
+Atwholemarsblog,Neutral,Culture and Society
+Explain,Neutral,Education
+Bob,Neutral,Work and Career
+Action,Neutral,Sports and Recreation
+Weinstein,Neutral,Culture and Society
+A,Supportive,Nature and Environment
+Pulling,Neutral,Sports and Recreation
+Talking,Neutral,Culture and Society
+Like,Neutral,Hobbies and Interests
+Reposting,Neutral,Current Events
+Celebrating,Neutral,Home and Family
+Enjoying,Neutral,Hobbies and Interests
+Acknowled,Neutral,Philosophy and Ethics
+Promote,Neutral,Work and Career
+Attribute,Excellent,Philosophy and Ethics
+Thank,Excellent,Relationships
+Excellent,Excellent,Personal Growth and Development
+Sell,Neutral,Work and Career
+Irrationally,Neutral,Philosophy and Ethics
+Sure,Neutral,Philosophy and Ethics
+Funded,Neutral,Work and Career
+Joins,Neutral,Relationships
+Labeled,Neutral,Work and Career
+Relishing,Neutral,Food and Dining
+Appreciating,Neutral,Personal Growth and Development
+Use,Replace,Technology and Gadgets
+Ateh,Replace,Food and Dining
+Cast,Neutral,Sports and Recreation
+Lot,Neutral,Nature and Environment
+Optimize,Interesting,Work and Career
+Atmeza,Interesting,Philosophy and Ethics
+Confirm,Neutral,Work and Career
+Marionawfal,Neutral,Home and Family
+Collaborate,Neutral,Work and Career
+Atalx,Neutral,Current Events
+BabylonBee,Entertaining,Entertainment
+Progress,Progress,Personal Growth and Development
+Fire,Supporting,Current Events
+Just,Neutral,Philosophy and Ethics
+for,Neutral,Work and Career
+fun,Neutral,Entertainment
+Did,Neutral,Work and Career
+you,Neutral,Personal Information
+know,Neutral,Education
+Donald,Neutral,Personal Information
+Glover,Neutral,Culture and Society
+voiced,Neutral,Culture and Society
+a,Neutral,Nature and Environment
+character,Neutral,Culture and Society
+in,Neutral,Current Events
+Verification,Neutral,Technology and Gadgets
+Impersonation,Neutral,Culture and Society
+Scams,Neutral,Culture and Society
+Restore,Essential,Health and Fitness
+Fund,Essential,Work and Career
+Essential,Essential,Health and Fitness
+Approve,Frustrated,Relationships
+Stuck,Frustrated,Work and Career
+To,Neutral,Nature and Environment
+Accomplish,Neutral,Work and Career
+Mine,Neutral,Home and Family
+Pay,Neutral,Work and Career
+Existence,Neutral,Philosophy and Ethics
+Listen,Neutral,Personal Growth and Development
+Connect,Neutral,Relationships
+Enjoy,Neutral,Hobbies and Interests
+Earn,Neutral,Work and Career
+Crazy,Neutral,Hobbies and Interests
+Bills,Neutral,Work and Career
+Praising,Astonishing,Relationships
+Enthusiast,Neutral,Hobbies and Interests
+Gordus,Neutral,Philosophy and Ethics
+Respect,Respectful,Culture and Society
+Appreci,Neutral,Personal Growth and Development
+Perfect,Respectful,Personal Growth and Development
+Losing,Neutral,Health and Fitness
+Funding,Neutral,Work and Career
+Guessing,Neutral,Hobbies and Interests
+I,Neutral,Personal Growth and Development
+had,Neutral,Work and Career
+an,Neutral,Nature and Environment
+incredible,Neutral,Hobbies and Interests
+time,Neutral,Current Events
+related,Neutral,Relationships
+to,Neutral,Home and Family
+leadership,Neutral,Work and Career
+Hypocrites,Essential,Culture and Society
+Defund,Hostile,Work and Career
+ATNPR,Hostile,Current Events
+Protest,Hostile,Culture and Society
+Accelerating,Revolution,Work and Career
+Revolution,Revolution,Current Events
+Booster,Revolution,Sports and Recreation
+Emphasize,Neutral,Personal Growth and Development
+Honor,Neutral,Culture and Society
+Invite,Neutral,Relationships
+Seriously,Neutral,Philosophy and Ethics
+ATCB,Neutral,Work and Career
+Misinformation,Neutral,Culture and Society
+Censorship,Neutral,Culture and Society
+Trojan,Neutral,Sports and Recreation
+eBay,Neutral,Technology and Gadgets
+Tesla,Neutral,Technology and Gadgets
+Singularity,Neutral,Technology and Gadgets
+Near,Neutral,Nature and Environment
+Achieving,Neutral,Personal Growth and Development
+Encourage,Neutral,Relationships
+Boeree,Neutral,Philosophy and Ethics
+ATMICSolana,Neutral,Technology and Gadgets
+Exactly,Neutral,Philosophy and Ethics
+Stream,Neutral,Sports and Recreation
+Upgrade,Neutral,Technology and Gadgets
+Enhance,Neutral,Personal Growth and Development
+Globally,Neutral,Current Events
+Characters,Neutral,Entertainment
+Super,Messed,Sports and Recreation
+Greenwald,Messed,Current Events
+Surprise,Neutral,Entertainment
+Reporters,Neutral,Current Events
+BBC,Neutral,Current Events
+Penetrating,Penetrating,Philosophy and Ethics
+Deep,Penetrating,Philosophy and Ethics
+Hard,Penetrating,Work and Career
+Know,Neutral,Education
+Warning,Neutral,Current Events
+NSFW,Neutral,Technology and Gadgets
+Attitterdaily,Neutral,Current Events
+Host,Neutral,Travel
+Silly,Admiring,Entertainment
+Special,Admiring,Education
+ASuperMarioMovie,Love,Entertainment.
+Prioritize,Inspiring,Work and Career
+Legacy,Removing,Culture and Society
+Blue,Removing,Nature and Environment
+Get,Neutral,Work and Career
+Examine,Examine,Philosophy and Ethics
+Policy,Examine,Culture and Society
+Going,Examine,Travel
+The,neutral,Culture and Society
+three,neutral,Sports and Recreation
+most,neutral,Current Events
+relevant,neutral,Current Events
+action,neutral,Sports and Recreation
+words,neutral,Education
+describe,neutral,Culture and Society
+this,neutral,Current Events
+tweet,neutral,Technology and Gadgets
+would,neutral,Philosophy and Ethics
+be,neutral,Philosophy and Ethics
+honor,neutral,Relationships
+Catch,"Action, Reporting",Sports and Recreation
+Release,"Action, Reporting",Current Events
+Sleep,Neutral,Health and Fitness
+Friends,Neutral,Relationships
+Couch,Neutral,Home and Family
+Award,Neutral,Work and Career
+Question,Neutral,Philosophy and Ethics
+Looks,Adventurous,Fashion and Style
+Zombie,Adventurous,Entertainment
+Apocalypse,Adventurous,Culture and Society
+Illuminate,Illuminate,Art and Creativity
+Proceedings,Illuminate,Work and Career
+Hopefully,Illuminate,Personal Growth and Development
+Admire,Positive,Philosophy and Ethics
+Need,Neutral,Personal Growth and Development
+Propaganda,Neutral,Culture and Society
+Public,Neutral,Culture and Society
+Relations,Neutral,Category: Relationships
+Sigh,Sigh,Philosophy and Ethics
+Atsmokeawayyy,Sigh,Health and Fitness
+Theft,Supportive,Culture and Society
+Importantly,Supportive,Personal Growth and Development
+Massive,Supportive,Current Events
+Exclude,Illegally,Culture and Society
+Survey,Valid,Work and Career
+Dominate,Valid,Sports and Recreation
+Valid,Valid,Technology and Gadgets
+Pushing,Mislead,Personal Growth and Development
+Insist,Mislead,Philosophy and Ethics
+Technology,Improving,16. Technology and Gadgets
+Economy,Improving,Culture and Society
+Lightyears,Improving,Technology and Gadgets
+Atlord,Positive,Sports and Recreation
+Advantage,Reducing,Work and Career
+Help,Reducing,Relationships
+Reducing,Reducing,Health and Fitness
+Legalize,legalize,Culture and Society
+reduce,legalize,7. Health and Fitness
+regulate,legalize,Nature and Environment
+Optimism,Uplifting,Personal Growth and Development
+Uplifting,Uplifting,Personal Growth and Development
+PeterD,Uplifting,Personal Information
+Hoping,Hope,Personal Growth and Development
+Takes,Hope,Travel
+Writes,Hope,Work and Career
+Party,Party,Entertainment
+Drinks,Party,Food and Dining
+Internet,Neutral,Technology and Gadgets
+Tall,Neutral,Sports and Recreation
+Best,Neutral,Work and Career
+Intern,Bought,Work and Career
+Burnt,Working,Food and Dining
+Right,Working,Philosophy and Ethics
+Launch,Neutral,Work and Career
+Publish,Neutral,Work and Career
+Enrich,Prosperous,Personal Growth and Development
+Accumulate,Prosperous,Personal Growth and Development
+Modernize,Neutral,Technology and Gadgets
+Dentistry,Neutral,Work and Career
+Impersonating,Condemn,Culture and Society
+Deceiving,Condemn,Philosophy and Ethics
+U,Neutral,Nature and Environment
+Indulge,Neutral,Food and Dining
+Atai,Neutral,Nature and Environment
+Trending,Excited,Current Events
+April,Excited,Current Events
+Fix,Neutral,Technology and Gadgets
+Duct,Neutral,Technology and Gadgets
+Tape,Neutral,Technology and Gadgets
+Superglue,Neutral,Technology and Gadgets
+Extremists,Outrage,Culture and Society
+Dehumanize,Outrage,Culture and Society
+Outrage,Outrage,Current Events
+Responsible,Responsible,Philosophy and Ethics
+Nightmare,Responsible,Personal Growth and Development
+Tried,Neutral,Work and Career
+Muffle,Neutral,Sports and Recreation
+Titter,Neutral,Entertainment
+Controversial,Controversial,Culture and Society
+Think,Controversial,Philosophy and Ethics
+Vote,Controversial,Current Events
+Believes,Thinking,Philosophy and Ethics
+Thinking,Thinking,Philosophy and Ethics
+Agnostic,Thinking,Philosophy and Ethics
+Establish,Solved,Work and Career
+Abide,Solved,Philosophy and Ethics
+Resolve,Solved,Personal Growth and Development
+Networking,Laughing,Work and Career
+Socializing,Laughing,Culture and Society
+Passing,Encouraging,Education
+Butter,Encouraging,Food and Dining
+CEO,Encouraging,Work and Career
+MikeIsaac,Neutral,Personal Growth and Development
+David,Neutral,Personal Information
+Asinclair,Neutral,Relationships
+Precision,Incredible,Work and Career
+Aging,Incredible,Health and Fitness
+Incredible,Incredible,Entertainment
+Corruption,Influence,Culture and Society
+Anointed,Influence,Philosophy and Ethics
+Rewarded,Rewarded,Work and Career
+Long,Rewarded,Travel
+Term,Rewarded,Education
+Atendwokeness,Neutral,Personal Growth and Development
+Material,Follow,Work and Career
+Coming,neutral,Home and Family
+AttimSweeney,neutral,Hobbies and Interests
+Stand,Neutral,Sports and Recreation
+Forgetting,Neutral,Personal Growth and Development
+Keep,Neutral,Home and Family
+ignite,Ignite,Culture and Society
+propel,Ignite,11. Culture and Society
+physics,Ignite,Education
+Oppose,Curious,Philosophy and Ethics
+Almost,Neutral,Current Events
+S,Neutral,Sports and Recreation
+Https,Neutral,Technology and Gadgets
+Demonstrates,Neutral,Work and Career
+Synchronize,Neutral,Technology and Gadgets
+Gratitude,Neutral,Philosophy and Ethics
+Attrungtphan,Neutral,Culture and Society
+Tbh,Neutral,Relationships
+Want,Want,Personal Growth and Development
+Must,Want,Philosophy and Ethics
+Increase,Competitive,Personal Growth and Development
+Subsidize,Competitive,Work and Career
+Helping,Decide,Relationships
+Decide,Decide,Philosophy and Ethics
+Strategy,Neutral,Work and Career
+Says,Neutral,Culture and Society
+Starship,Neutral,Entertainment
+Surprisingly,Neutral,Current Events
+Common,Neutral,Culture and Society
+Beat,Blame,Sports and Recreation
+Blame,Blame,Culture and Society
+Pseudoint,Blame,Technology and Gadgets
+Easter,Celebrate,Current Events
+Awesome,Awesome,Entertainment
+Live,Live,Home and Family
+Programmed,Live,Technology and Gadgets
+Vegan,Live,Food and Dining
+Told,Neutral,Fashion and Style
+De,Neutral,Nature and Environment
+Fact,Neutral,Current Events
+Open,Expand,Current Events
+Supplement,Expand,7. Health and Fitness
+Output,Expand,Work and Career
+Chasing,Chasing,Sports and Recreation
+Succeeded,Chasing,Work and Career
+Epically,Chasing,Sports and Recreation
+Weird,Neutral,Culture and Society
+Atbillym,Neutral,Sports and Recreation
+Allocate,Neutral,Work and Career
+Manufacture,Neutral,Work and Career
+Leverage,Neutral,Work and Career
+Omit,Neutral,Work and Career
+Fox,Neutral,Pets and Animals
+Await,Approval,Current Events
+Compute,Cautious,Technology and Gadgets
+Expose,Neutral,Current Events
+Disclose,Neutral,Personal Information
+Reve,Neutral,Relationships
+Challenge,Neutral,Sports and Recreation
+Resist,Neutral,Philosophy and Ethics
+Believe,Neutral,Philosophy and Ethics
+Telling,Neutral,Relationships
+Alien,Neutral,Culture and Society
+Do,Neutral,Work and Career
+Atmarinamed,Neutral,Home and Family
+Record,Investigate,Work and Career
+Investigate,Investigate,Work and Career
+Monitor,Investigate,Technology and Gadgets
+Fitness,Neutral,7. Health and Fitness
+Rome,Neutral,Travel
+Mess,Neutral,Home and Family
+Attherabbith,Neutral,Hobbies and Interests
+Shield,Neutral,Sports and Recreation
+Cancel,Neutral,Work and Career
+Gaines,Neutral,Work and Career
+Atriley,Neutral,Technology and Gadgets
+Proud,Proud,Personal Growth and Development
+Canadian,Proud,Culture and Society
+Half,Proud,Sports and Recreation
+Loyal,Friendly,Relationships
+Supportive,Friendly,Relationships
+Prosperous,Friendly,Culture and Society
+Hesitate,Hesitate,Philosophy and Ethics
+Say,Hesitate,Relationships
+Might,Hesitate,Philosophy and Ethics
+Expand,Stretch,Personal Growth and Development
+Break,neutral,Sports and Recreation
+Omelette,neutral,Food and Dining
+Grows,Neutral,Personal Growth and Development
+work,Work,Work and Career
+enmity,Work,Culture and Society
+effortless,Work,Work and Career
+Admiration,Neutral,Relationships
+Attest,Neutral,Work and Career
+Musk,Neutral,Technology and Gadgets
+University,Neutral,Education
+Empower,Inspiring,Personal Growth and Development
+Recognizing,Mentioning,Personal Growth and Development
+Commemorate,Inspiring,Current Events
+Made,Neutral,Work and Career
+GavinSBaker,Neutral,Personal Growth and Development
+Express,Neutral,Work and Career
+Accuse,Questioning,Culture and Society
+Block,Questioning,Technology and Gadgets
+Bootstrap,Questioning,Work and Career
+This,Neutral,This: Personal Growth and Development
+is,Neutral,Philosophy and Ethics
+not,Neutral,Philosophy and Ethics
+valid,Neutral,Philosophy and Ethics
+Please,Neutral,Pets and Animals
+provide,Neutral,Work and Career
+AtzubyMusic,Neutral,Entertainment
+us,Neutral,Culture and Society
+Unite,Neutral,Culture and Society
+Point,Neutral,Sports and Recreation
+Atdurantquotesbot,Neutral,Philosophy and Ethics
+Inform,Neutral,Technology and Gadgets
+Communicate,Neutral,Relationships
+Atstill,Neutral,Technology and Gadgets
+Words,Accurate,Philosophy and Ethics
+Scratch,Neutral,Hobbies and Interests
+OpenAI,Neutral,Technology and Gadgets
+Signed,Neutral,Fashion and Style
+Irrelevant,Neutral,Irrelevant
+Reconnect,Resolve,Relationships
+Apolog,Resolve,Relationships
+Insane,Insane,Culture and Society
+Atter,Complimenting,Health and Fitness
+Protect,Protect,Health and Fitness
+Eroded,Protect,Nature and Environment
+Reusability,Protect,Technology and Gadgets
+Dumbing,Neutral,Education
+Likes,Neutral,Hobbies and Interests
+Reduce,Neutral,7. Health and Fitness
+Impersonate,Neutral,Culture and Society
+Network,Neutral,Technology and Gadgets
+Trend,Accelerate,Current Events
+Accelerate,Accelerate,Work and Career
+Atwallstreets,Accelerate,Work and Career
+Worst,Frustrated,Philosophy and Ethics
+ATSF,Frustrated,Technology and Gadgets
+Atamuse,Neutral,Entertainment
+Write,Write,Work and Career
+Critics,Write,Culture and Society
+Demand,Neutral,Work and Career
+Scale,Neutral,Health and Fitness
+Price,Neutral,Work and Career
+Italy,Neutral,Travel
+Disappearing,Neutral,Current Events
+ATMACCAW,Neutral,Technology and Gadgets
+Become,Investment,Personal Growth and Development
+Double,Investment,Food and Dining
+Sweep,Neutral,Sports and Recreation
+Dangle,Neutral,Sports and Recreation
+Hurley,Neutral,Sports and Recreation
+Scare,Neutral,Nature and Environment
+Suppose,Neutral,Philosophy and Ethics
+Boring,Neutral,Work and Career
+Harassing,Harassing,Relationships
+Provocation,Harassing,Culture and Society
+Ignite,Neutral,Personal Growth and Development
+Patrick,Praise,Personal Information
+Atz,Positive,Sports and Recreation
+AtevaFox,Neutral,Food and Dining
+Misleading,Criticize,Culture and Society
+Headline,Criticize,Current Events
+AtMiamiHerald,Criticize,Current Events
+Honour,Neutral,Culture and Society
+Atzubymusic,Trolling,Entertainment
+Att,Neutral,17. Art and Creativity
+Dismiss,Neutral,Work and Career
+Delete,Neutral,Technology and Gadgets
+Works,Neutral,Work and Career
+Hide,Neutral,Sports and Recreation
+Embrace,Neutral,Personal Growth and Development
+Awareness,Neutral,Philosophy and Ethics
+Cultivate,Neutral,Work and Career
+Compliment,Complimenting,Relationships
+StephenKing,Complimenting,Entertainment
+Stacked,Pending,Sports and Recreation
+Approval,Pending,Relationships
+Atdaveg,Neutral,Hobbies and Interests
+Gradually,Improvement,Education
+Successful,Successful,Work and Career
+Management,Successful,Work and Career
+Optimizing,Neutral,Work and Career
+Utilizing,Neutral,Work and Career
+Add,neutral,Education
+Meanwhile,neutral,Current Events
+Participate,Neutral,Sports and Recreation
+Finish,Neutral,Work and Career
+Functionality,Neutral,Technology and Gadgets
+Affiliation,Neutral,Culture and Society
+Correcting,Correct,Work and Career
+Reporting,Correct,Current Events
+Process,Protecting,Work and Career
+Uranus,Neutral,Technology and Gadgets
+Encounter,Neutral,Culture and Society
+Grateful,Neutral,Personal Growth and Development
+Check,Correct,Work and Career
+Correct,Correct,Education
+Reusable,Reusable,Technology and Gadgets
+Cool,Neutral,Entertainment
+Atpaulg,Positive,Sports and Recreation
+Attrungt,Neutral,Pets and Animals
+Wonder,Neutral,Philosophy and Ethics
+Prepare,Launch,Work and Career
+Disconnected,Admiration,Technology and Gadgets
+Revolutionize,Achievement,Current Events
+Care,Incredible,Work and Career
+Link,Neutral,Technology and Gadgets
+Posting,Neutral,Technology and Gadgets
+Incorrect,Neutral,Philosophy and Ethics
+Assault,Incarcerate,Culture and Society
+Incarcerate,Incarcerate,Culture and Society
+Comment,Neutral,Current Events
+React,Neutral,Technology and Gadgets
+Developing,Neutral,Personal Growth and Development
+Depict,Neutral,Art and Creativity
+Innovating,Neutral,Work and Career
+Accurate,Accurate,Work and Career
+Amuse,Neutral,Entertainment
+Build,Neutral,Work and Career
+Summary,Argument,Work and Career
+Argument,Argument,Culture and Society
+Safety,Argument,Health and Fitness
+Identify,Neutral,Personal Information
+Concerned,Neutral,Culture and Society
+First,Neutral,Education
+Replace,Agreed,Work and Career
+Atteqnikg,Neutral,Technology and Gadgets
+Avoid,Neutral,Relationships
+Pursue,Neutral,Work and Career
+Trust,Neutral,Relationships
+Heal,Inspiring,7. Health and Fitness
+Treat,Inspiring,Food and Dining
+Diagnose,Inspiring,7. Health and Fitness
+Litigate,Defensive,Work and Career
+Defend,Defensive,Philosophy and Ethics
+Machine,Celebrate,Technology and Gadgets
+Strengthening,Neutral,Health and Fitness
+Daze,Neutral,Entertainment
+Atyhazony,Neutral,Philosophy and Ethics
+recognize,Positive,Relationships
+or,Positive,Philosophy and Ethics
+confirm,Positive,Work and Career
+truth,Positive,Philosophy and Ethics
+validity,Positive,Philosophy and Ethics
+of,Positive,Word: of does not fit into any of the categories.
+Affect,Exploring,Relationships
+Spend,Exploring,Work and Career
+Space,Exploring,Technology and Gadgets
+Closing,Rapidly,Work and Career
+Training,Rapidly,Work and Career
+Simulating,Rapidly,Technology and Gadgets
+Happening,Neutral,Current Events
+Plain,Neutral,Nature and Environment
+Sight,Neutral,Nature and Environment
+Saying,Neutral,Philosophy and Ethics
+Decade,Neutral,Current Events
+Atevafoxu,Neutral,Food and Dining.
+Atjason,Neutral,Technology and Gadgets
+Probably,Neutral,Philosophy and Ethics
+Introduce,Respect,Relationships
+Decision,Respect,Personal Growth and Development
+Celebrates,Positive,Home and Family
+Follows,Positive,Current Events
+Recognizes,Positive,Culture and Society
+Exists,Change,Philosophy and Ethics
+Change,Change,Personal Growth and Development
+Wise,Change,Philosophy and Ethics
+Thanks,Appreciative,Home and Family
+Confused,Confused,Philosophy and Ethics
+Voluntarily,Neutral,Work and Career
+Wanted,Neutral,Current Events
+Affirm,Agree,Personal Growth and Development
+Control,Neutral,Work and Career
+Insidious,Neutral,Culture and Society
+Nope,Neutral,Word does not belong to any of the categories.
+Dream,Neutral,Personal Growth and Development
+Joey,Neutral,Home and Family
+Moose,Neutral,Nature and Environment
+Atyle,Neutral,Fashion and Style
+Flatter,Wish,Fashion and Style
+Wish,Wish,Personal Growth and Development
+Video,Neutral,Entertainment
+Fascinating,Neutral,Entertainment
+Insightful,Neutral,Personal Growth and Development
+Blogging,Networking,Technology and Gadgets
+Congratulating,Networking,Relationships
+Promise,Promised,Relationships
+Consume,Surprise,Food and Dining
+Ad,Positive,Technology and Gadgets
+Maximize,Neutral,Personal Growth and Development
+Concur,Agree,Relationships
+MetamorphosisAI,Neutral,Philosophy and Ethics
+Insp,Neutral,Personal Growth and Development
+Flying,Safe,Sports and Recreation
+Ensure,Safe,Health and Fitness
+Critically,Scrutinize,Philosophy and Ethics
+Including,Scrutinize,Relationships
+Credit,Realizing,Work and Career
+Noted,Positive,Current Events
+Amplifies,Positive,Technology and Gadgets
+Positive,Positive,Personal Growth and Development
+Facilitate,Inspiring,Work and Career
+Develop,Inspiring,Personal Growth and Development
+Strengthen,Inspiring,Health and Fitness
+Feed,Positive,Food and Dining
+Entrusting,Trust,Relationships
+Mission,Trust,Work and Career
+Deceptive,Backfires,Culture and Society
+Backfires,Backfires,Work and Career
+Reuters,Backfires,Current Events
+Interest,Neutral,Hobbies and Interests
+Tunnel,Neutral,Travel
+Impressive,Neutral,Fashion and Style
+ATBucc,Neutral,Work and Career
+Officiating,Laughing,Sports and Recreation
+Discussing,Neutral,Culture and Society
+Debating,Neutral,Culture and Society
+Hypocritical,Aggressive,Culture and Society
+Forcing,Aggressive,Philosophy and Ethics
+Atteslatino,Excited,Hobbies and Interests
+Pyramid,Interesting,Culture and Society
+Underground,Interesting,Travel
+Anticipating,Hope,Personal Growth and Development
+Dreaming,Hope,Personal Growth and Development
+Visualizing,Hope,Personal Growth and Development
+Walked,Awesome,Sports and Recreation
+Giga,Awesome,Technology and Gadgets
+Mentioned,Positive,Current Events
+Spotting,Neutral,Sports and Recreation
+Unusual,Neutral,Culture and Society
+Whales,Neutral,20. Nature and Environment
+Adding,Verification,Work and Career
+Ats,Neutral,Sports and Recreation
+Gain,Neutral,Work and Career
+Freedom,Neutral,Culture and Society
+Shout,Incredible,Sports and Recreation
+Epidemic,Incredible,Health and Fitness
+Future,Neutral,Work and Career
+PeterDiamandis,Neutral,Work and Career
+Tutorials,Neutral,Education
+NYTimes,Neutral,Current Events
+Tragedy,Negative,Current Events
+Acknow,Neutral,Philosophy and Ethics
+Mock,Laughing,Sports and Recreation
+Tell,Spent,Personal Growth and Development
+Ever,Spent,Current Events
+Atjtl,neutral,Sports and Recreation
+Cook,Collect,Food and Dining
+Risks,Collect,Work and Career
+Collect,Collect,Hobbies and Interests
+Blacklist,Neutral,Work and Career
+Verify,Neutral,Work and Career
+Lie,Neutral,Philosophy and Ethics
+Shape,Innovative,Home and Family
+Advanced,Innovative,Education
+Contribute,Eagerness,Work and Career
+Eagerness,Eagerness,Personal Growth and Development
+Vocabulary,Love,Education
+Impress,Neutral,Work and Career
+Awe,Neutral,Philosophy and Ethics
+Atjowyang,Neutral,Culture and Society
+Suspend,Suspended,Work and Career
+Bhattacharya,Suspended,Culture and Society
+Little,Neutral,Home and Family
+Fine,Neutral,Fashion and Style
+Witness,Concerning,Culture and Society
+Apprehend,Concerning,Culture and Society
+Oversee,Oversight,Work and Career
+Manufacturing,Oversight,Work and Career
+Bountied,Neutral,Sports and Recreation
+Convicted,Neutral,Culture and Society
+Recommend,Recommend,Work and Career
+Diminishing,Recommend,Nature and Environment
+Anticipate,Neutral,Philosophy and Ethics
+Hope,Neutral,Personal Growth and Development
+Leads,Exporting,Work and Career
+Exporting,Exporting,Work and Career
+Evil,Exporting,Philosophy and Ethics
+Algorithm,Neutral,Technology and Gadgets
+Thing,Neutral,Technology and Gadgets
+Pants,Neutral,Fashion and Style
+Delicious,Great,Food and Dining
+Atgaborgurb,Great,Culture and Society
+Schismatic,Incendiary,Culture and Society
+Incendiary,Incendiary,Current Events
+Eating,Indulgent,Food and Dining
+Sugar,Indulgent,Food and Dining
+Alive,Miracle,Health and Fitness
+Miracle,Miracle,Culture and Society
+Survive,Miracle,Health and Fitness
+Apologize,Neutral,Relationships
+enjoy,Neutral,Hobbies and Interests
+view,Neutral,Current Events
+announces,Neutral,Current Events
+premiere,Neutral,Entertainment
+date,Neutral,Relationships
+long,Neutral,Nature and Environment
+Music,Neutral,Entertainment
+Movie,Neutral,Entertainment
+Avoiding,Entertain,Relationships
+so,Neutral,Philosophy and Ethics
+excited,Neutral,Hobbies and Interests
+go,Neutral,Travel
+Die,Neutral,Health and Fitness
+Lucky,Neutral,Hobbies and Interests.
+America,Neutral,Current Events
+Look,Neutral,Fashion and Style
+Comet,Neutral,Current Events
+Assess,Neutral,Work and Career
+Existential,Neutral,Philosophy and Ethics
+Growing,Neutral,Personal Growth and Development
+Times,Neutral,Current Events
+Relate,Neutral,Relationships
+Reckoning,Reckoning,Philosophy and Ethics
+Low,Reckoning,Health and Fitness
+Japan,Reckoning,Culture and Society
+Ativ,Positive,Sports and Recreation
+Learn,Deleting,Education
+Tomorrow,Deleting,Current Events
+Updating,Updating,Technology and Gadgets
+Recommendation,Updating,Work and Career
+Important,Neutral,Work and Career
+Twitter,Neutral,Technology and Gadgets
+Affirmative,Neutral,Philosophy and Ethics
+Atwall,Neutral,Health and Fitness
+Discussion,Discussing,Culture and Society
+Source,Discussing,Current Events
+Commander,Neutral,Work and Career
+Upload,Available,Technology and Gadgets
+Download,Available,Technology and Gadgets
+Spin,Neutral,Sports and Recreation
+Automate,Neutral,Technology and Gadgets
+Evolve,Neutral,Personal Growth and Development
+determine,Neutral,Work and Career
+show,Neutral,Entertainment
+Extend,Neutral,Work and Career
+Matter,Neutral,Philosophy and Ethics
+Consciousness,Neutral,Philosophy and Ethics
+Borrowed,Neutral,Relationships
+Jacket,Neutral,14. Fashion and Style
+Trying,Neutral,Personal Growth and Development
+Figure,Neutral,Sports and Recreation
+Possible,Neutral,Culture and Society
+Retweet,Neutral,Current Events
+Found,Inspirational,Education
+have,Inspirational,Relationships
+established,Inspirational,Work and Career
+created,Inspirational,Art and Creativity
+PeterDiamand,Boring,Personal Information
+Enforce,Neutral,Culture and Society
+Outfit,neutral,Fashion and Style
+Real,neutral,Current Events
+Reliable,Neutral,Work and Career
+Extreme,Neutral,Sports and Recreation
+Science,Neutral,Education
+Absolutely,Praise,Philosophy and Ethics
+Concerning,Neutral,Relationships
+Address,Neutral,Personal Information
+Predicting,Neutral,Current Events
+Critiquing,Neutral,Art and Creativity
+Analyzing,Neutral,Work and Career
+Tool,Inspiring,Technology and Gadgets
+Feel,Neutral,Relationships
+Jordanbpeterson,Neutral,Culture and Society
+Pacific,neutral,Travel
+Ignoring,Ignore,Relationships
+Disliking,Ignore,Hobbies and Interests
+Reality,Ignore,Culture and Society
+Taibbi,Entertaining,Current Events
+Atrobbystarbuck,Agree,Sports and Recreation
+Atellagirwin,Agree,Hobbies and Interests
+Access,Neutral,Technology and Gadgets
+View,Neutral,Current Events
+Fly,Positive,Travel
+Fast,Fast,Health and Fitness
+Atrobby,Fast,Sports and Recreation
+Scrutinize,Neutral,Philosophy and Ethics
+Exciting,Excited,Entertainment
+AtGalaxyGamer,Excited,Hobbies and Interests
+Transport,Neutral,Travel
+Impressed,Neutral,Culture and Society
+Attpostmill,Neutral,Home and Family
+Reply,Questioning,Work and Career
+Sad,Sad,Culture and Society
+Excess,Neutral,Health and Fitness
+Absorb,Neutral,Personal Growth and Development
+Inflation,Neutral,Current Events
+Deter,"Heavy, handed",Health and Fitness
+Progressing,Progress,Personal Growth and Development
+Creating,Progress,Art and Creativity
+BoringCompany,Progress,Work and Career
+Achievement,Neutral,Personal Growth and Development
+Ate,Neutral,Food and Dining
+Scrutiny,Scrutiny,Culture and Society
+Deserve,Scrutiny,Personal Growth and Development
+Close,Scrutiny,Relationships
+Eliminating,Optimizing,Health and Fitness
+Jason,Neutral,Personal Information
+Mitigate,Shorten,Health and Fitness
+Review,Shorten,Work and Career
+Heed,Warning,Philosophy and Ethics
+Convenient,Convenient,Technology and Gadgets
+Burn,Amused,Health and Fitness
+Eat,Enduring,Food and Dining
+Flash,Inspiring,Technology and Gadgets
+Robber,Neutral,Culture and Society
+Baron,Neutral,Culture and Society
+Troubling,Neutral,Culture and Society
+Hear,Neutral,Culture and Society
+Getting,Neutral,Work and Career
+Falls,Neutral,Sports and Recreation
+Healing,Healing,7. Health and Fitness
+Nature,Healing,20. Nature and Environment
+Atwsj,Healing,Hobbies and Interests
+Vision,Neutral,Personal Growth and Development
+see,Neutral,Travel
+clearly,Neutral,Personal Growth and Development
+way,Neutral,Philosophy and Ethics
+forward,Neutral,Personal Growth and Development
+Turning,Neutral,Home and Family
+Suggesting,Neutral,Work and Career
+Improving,Neutral,Personal Growth and Development
+Note,Neutral,Work and Career
+Atwhstanc,Neutral,Technology and Gadgets
+Imp,Impressive,Culture and Society
+Serve,Neutral,Work and Career
+Atviving,Neutral,Sports and Recreation
+Atc,Neutral,Sports and Recreation
+Deluge,Neutral,Current Events
+Ironic,Neutral,Philosophy and Ethics
+Likely,Neutral,Current Events
+Remember,Neutral,Personal Growth and Development
+Old,Neutral,Culture and Society
+Co,Neutral,Travel
+Try,Trying,Sports and Recreation
+Humans,Trying,Culture and Society
+Major,Respect,Current Events
+Cavill,Respect,Sports and Recreation
+Moving,Neutral,Travel
+Goalpost,Neutral,15. Home and Family
+Yai,Neutral,Hobbies and Interests
+Champion,Neutral,Sports and Recreation
+Comply,Agree,Work and Career
+Critique,Admire,Philosophy and Ethics
+Accuracy,Accurate,Work and Career
+Track,Accurate,Sports and Recreation
+making,Neutral,Home and Family
+Countries,Neutral,Culture and Society
+Atscott,Neutral,Sports and Recreation
+Attes,Neutral,Work and Career
+Flaunt,Neutral,Fashion and Style
+AtVideotech,Trust,Technology and Gadgets
+Odd,Neutral,Sports and Recreation
+Short,Positive,Fashion and Style
+Congrat,Neutral,Relationships
+Phew,Sleeping,Health and Fitness
+Recommendations,Neutral,Work and Career
+Wild,Neutral,Nature and Environment
+Alert,Neutral,Current Events
+Excite,Excited,Hobbies and Interests
+Experience,Joy,Personal Growth and Development
+Revel,Joy,Entertainment
+Dave,Joy,Home and Family
+Remembering,Nostalgia,Personal Growth and Development
+Nostalgic,Nostalgia,Hobbies and Interests
+Push,Accurate,Work and Career
+Paint,Accurate,Art and Creativity
+Authenticate,Positive,Technology and Gadgets
+Dropping,Neutral,Sports and Recreation
+Foreign,Neutral,Culture and Society
+Proposal,Proposal,Work and Career
+MAGA,Proposal,Current Events
+Trading,Neutral,Work and Career
+Binance,Neutral,Technology and Gadgets
+Wear,Compliment,Fashion and Style
+Sign,Neutral,Current Events
+Glorify,Glorious,Philosophy and Ethics
+Atrealdrewpage,Proud,Fashion and Style
+Atwalterezquie,Enthusiastic,Sports and Recreation
+ATrainmaker,Enthusiastic,Work and Career
+News,Neutral,Current Events
+Woke,Neutral,Culture and Society
+Mind,Neutral,Personal Growth and Development
+Virus,Neutral,Health and Fitness
+Remind,Reminds,Home and Family
+Deadspace,Reminds,Technology and Gadgets
+Lancet,Neutral,7. Health and Fitness
+Years,Neutral,Current Events
+Shame,Shame,Culture and Society
+ATCatholicVote,Shame,Culture and Society
+Move,Neutral,Travel
+Surround,Neutral,Nature and Environment
+Invested,Invested,Work and Career
+Opportunity,Invested,Work and Career
+Solve,Verification,Work and Career
+Clustering,Verification,Work and Career
+Equality,Equal,Culture and Society
+Standard,Equal,Education
+Celebrities,Equal,Entertainment
+Looming,Neutral,Current Events
+Mortgages,Neutral,Work and Career
+Refinement,Refine,Personal Growth and Development
+Atwanda,Refine,Culture and Society
+Thanking,Thank,Relationships
+Aterikbryn,Neutral,Health and Fitness
+Attending,Encouraging,Education
+Said,Encouraging,Culture and Society
+endorse,neutral,Work and Career
+Obama,neutral,Current Events
+start,Neutral,Work and Career
+involved,Neutral,Work and Career
+new,Neutral,Current Events
+activity,Neutral,Sports and Recreation
+venture,Neutral,Work and Career
+Seeking,Neutral,Personal Growth and Development
+Clicking,Neutral,Technology and Gadgets
+Dressed,Neutral,Fashion and Style
+Lost,Neutral,Travel
+Left,Neutral,Culture and Society
+VanityFair,Neutral,Fashion and Style
+Never,Neutral,Philosophy and Ethics
+Bias,Neutral,Culture and Society
+Evaluate,Neutral,Work and Career
+Sama,Neutral,Culture and Society
+Confidence,Positive,Personal Growth and Development
+Terrifying,Neutral,Culture and Society
+Congratulations,Congratulations,Relationships
+Germany,Congratulations,Culture and Society
+Using,Neutral,Work and Career
+List,Neutral,Work and Career
+Rebound,Dire,Sports and Recreation
+taking,Neutral,Home and Family
+Learning,Neutral,Education
+Hype,Neutral,Current Events
+Indeed,Neutral,Philosophy and Ethics
+Glancing,Anticipating,Fashion and Style
+Pursuing,Anticipating,Work and Career
+Compete,Neutral,Sports and Recreation
+Risk,Neutral,Work and Career
+agree,Accurate,Relationships
+celebrate,Accurate,Hobbies and Interests
+Rest,Achievement,Health and Fitness
+Year,Achievement,Current Events
+Elect,Enjoyment,Technology and Gadgets
+Legal,Enjoyment,Culture and Society
+Affiliate,Neutral,Work and Career
+Reside,Neutral,Home and Family
+Clippy,Neutral,Technology and Gadgets
+Problem,Neutral,Work and Career
+Press,Neutral,Current Events
+Yesterdays,Neutral,Current Events
+Modern,Neutral,Current Events
+Disagree,Disagree,Philosophy and Ethics
+Atsquawkcnbc,Disagree,Current Events
+Donated,Generosity,Relationships
+Drop,Risk,Travel
+Chatting,Neutral,Technology and Gadgets
+Housed,Neutral,Home and Family
+Consult,Neutral,Work and Career
+Transition,Neutral,Personal Growth and Development
+Profit,Neutral,Work and Career
+Microsoft,Investment,Technology and Gadgets
+Combat,Neutral,Sports and Recreation
+Irony,Neutral,Philosophy and Ethics
+Concern,Concerning,Culture and Society
+Safe,neutral,Health and Fitness
+Glory,Glorious,Sports and Recreation
+Large,Neutral,Current Events
+Island,Neutral,Travel
+Bright,Optimistic,Personal Growth and Development
+K,Optimistic,Nature and Environment
+Commem,Neutral,Current Events
+Melting,Neutral,Food and Dining
+Banks,Neutral,Work and Career
+Umm,Neutral,Relationships
+Cede,Neutral,Current Events
+Authority,Neutral,Culture and Society
+Atkanekoat,Neutral,Pets and Animals
+Acquire,Neutral,Work and Career
+Trade,Neutral,Work and Career
+Cherish,Neutral,Home and Family
+Attended,Criticize,Education
+Conclude,Neutral,Work and Career
+Devast,Neutral,Current Events
+Stonks,Neutral,Work and Career
+Test,Testing,Work and Career
+Experiencing,Testing,Personal Growth and Development
+Raising,Testing,Home and Family.
+Depositor,Depositor,Work and Career
+Money,Depositor,Work and Career
+Treasury,Depositor,Work and Career
+Acknowledgement,Neutral,Philosophy and Ethics
+Solarize,Neutral,Technology and Gadgets
+Prosper,Neutral,Work and Career
+Atash,Compliment,Nature and Environment
+Analyze,Neutral,Work and Career
+Read,Neutral,Education
+Highly,Neutral,Work and Career
+Rated,Neutral,Entertainment
+Required,Neutral,Work and Career
+Wednesday,Reduce,Current Events
+Remain,Insane,Personal Growth and Development
+Zero,Insane,Philosophy and Ethics
+Formatting,Excited,Technology and Gadgets
+Economics,Neutral,Work and Career
+Define,Neutral,Education
+Advertising,Great,Work and Career
+Japanese,Great,Culture and Society
+Automating,Neutral,Technology and Gadgets
+Dissemin,Neutral,Current Events
+Wisdom,Wisdom,Philosophy and Ethics
+People,Wisdom,Culture and Society
+FTW,Wisdom,Sports and Recreation
+Veto,Neutral,Current Events
+Diplomacy,Neutral,Culture and Society
+Unevitable,Neutral,Philosophy and Ethics
+Bronze,Neutral,Sports and Recreation
+Appl,Neutral,Technology and Gadgets
+Appear,Confused,Culture and Society
+Behave,Confused,Culture and Society
+Collective,Confused,Culture and Society
+Deliver,Advance,Work and Career
+Orbit,Advance,Technology and Gadgets
+Missed,Missed,Work and Career
+Produced,Exciting,Work and Career
+Bite,Laugh,Food and Dining
+Coverage,Neutral,2. Current Events
+Rejoice,Impressed,Personal Growth and Development
+Enchant,Delightful,Hobbies and Interests
+Order,Relaxing,Food and Dining
+Warm,Relaxing,Home and Family
+Excuse,Relaxing,Philosophy and Ethics
+Advertise,neutral,Work and Career
+Commit,Neutral,Relationships
+Leadership,Believe,Work and Career
+Jobs,Believe,Work and Career
+Coffee,Neutral,Food and Dining
+Respond,Neutral,Work and Career
+Pressatt,Neutral,Current Events
+Mandate,Protect,Culture and Society
+Destroy,Protect,Health and Fitness
+MarsBlog,Neutral,Current Events
+Oust,Opposition,Sports and Recreation
+Seek,Neutral,Personal Growth and Development
+Escape,Neutral,Travel
+Trope,Neutral,17. Art and Creativity
+Atemostaque,Neutral,Nature and Environment
+Aff,Neutral,Sports and Recreation
+Exceeded,Growing,Work and Career
+Influ,Growing,Culture and Society
+Archive,Neutral,Technology and Gadgets
+Cause,Neutral,Culture and Society
+Simulate,Neutral,Technology and Gadgets
+Pervert,Neutral,Philosophy and Ethics
+Johnna,Encouraging,Home and Family
+Suggest,Positive,Work and Career
+Arbitrage,Influence,Work and Career
+Sway,Influence,Technology and Gadgets
+Impact,Influence,Culture and Society
+Annual,Important,Current Events
+Serious,Risk,Work and Career
+Atzerohedge,Risk,Current Events
+Yay,Celebrate,Hobbies and Interests
+Paid,Neutral,Work and Career
+Lifting,Neutral,7. Health and Fitness
+Cited,Neutral,Work and Career
+Detract,Negative,Culture and Society.
+Lame,Negative,Sports and Recreation
+Uplift,Inspiring,Personal Growth and Development
+Doomsday,Neutral,Current Events
+Bring,Neutral,Travel
+Retire,Legit,Work and Career
+Lower,Legit,Education
+France,Legit,Culture and Society
+Thread,Neutral,Fashion and Style
+Strike,Love,Sports and Recreation
+Riot,Love,Current Events
+Engineer,Neutral,Work and Career
+Magic,Neutral,Entertainment
+AtDogeOfficial,Neutral,Technology and Gadgets
+Issue,Stop,Current Events
+Describing,Neutral,Fashion and Style
+connection,Neutral,Relationships
+URL,Neutral,Technology and Gadgets
+Confidently,Neutral,Personal Growth and Development
+Fed,Neutral,Current Events
+Following,Neutral,Culture and Society
+Lol,Neutral,Entertainment
+Sweet,Neutral,Food and Dining
+Dreams,Neutral,Personal Growth and Development
+Agreeing,Neutral,Relationships
+Hardworking,Hard,Work and Career
+Ambitious,Hard,Work and Career
+take,Positive,Work and Career
+pleasure,Positive,Hobbies and Interests
+satisfaction,Positive,Personal Growth and Development
+Sing,Neutral,Hobbies and Interests
+Lax,Like,Sports and Recreation
+Battling,Neutral,Sports and Recreation
+Competing,Neutral,Sports and Recreation
+Dominating,Neutral,Work and Career
+Operate,Immediately,Work and Career
+KimDotCom,Celebrate,Work and Career
+Atwitter,Neutral,Technology and Gadgets
+Fate,Neutral,Philosophy and Ethics
+Police,Neutral,Culture and Society
+Arresting,Neutral,Culture and Society
+Crime,Neutral,Culture and Society
+Criminals,Neutral,Culture and Society
+Responding,Celebrate,Relationships
+Interacting,Neutral,Relationships
+Drinking,Neutral,Food and Dining
+Normal,Neutral,Culture and Society
+Detect,Detect,Work and Career
+Highlight,Detect,Sports and Recreation
+Manipulate,Detect,Technology and Gadgets
+AtevaFoxu,Neutral,Food and Dining (6)
+Presume,Support,Philosophy and Ethics
+Surprised,Surprised,Entertainment
+Result,Surprised,Work and Career
+SpaceX,Celebrate,Current Events
+Peace,Neutral,Philosophy and Ethics
+Option,Neutral,Hobbies and Interests
+Activate,Neutral,Work and Career
+Ascend,Neutral,Sports and Recreation
+TaylorSwift,Neutral,Entertainment
+Mentoring,Neutral,Relationships
+Knowing,Neutral,Personal Growth and Development
+Resonate,Exceptional,Philosophy and Ethics
+Skillful,Exceptional,Work and Career
+Exceptional,Exceptional,Education
+Cheer,Inspiring,Sports and Recreation
+Holding,Neutral,Relationships
+actual,Neutral,Culture and Society
+but,Neutral,Philosophy and Ethics
+that,Neutral,That does not fit into any of the categories above.
+could,Neutral,Philosophy and Ethics
+ChatGPT,Neutral,Relationships
+Fight,Brave,Sports and Recreation
+Brave,Brave,Personal Growth and Development
+Acc,Shame,Work and Career
+March,Neutral,Current Events
+Atfresh,Neutral,Food and Dining
+Way,Neutral,Personal Growth and Development
+Find,Fixing,Work and Career
+Debug,Debugging,Technology and Gadgets
+Call,Astonishing,Work and Career
+Astounding,Astonishing,Entertainment
+Attempt,Exciting,Work and Career
+Force,Neutral,Sports and Recreation
+Strong,Neutral,Health and Fitness
+Inverse,Neutral,Technology and Gadgets
+Disseminate,Neutral,Culture and Society
+Send,Neutral,Technology and Gadgets
+Negativity,Neutral,Culture and Society
+Arriving,Neutral,Travel
+Clarity,Neutral,Philosophy and Ethics
+Ster,Neutral,Nature and Environment
+Greeting,Neutral,Culture and Society
+Welcome,Neutral,Culture and Society
+Wait,Neutral,Work and Career
+Parody,Neutral,Entertainment
+Ato,Neutral,Philosophy and Ethics
+Describes,Neutral,Philosophy and Ethics
+Significant,Neutral,Culture and Society
+Platform,Neutral,Technology and Gadgets
+Course,Epic,Education
+Dialogue,Engaging,Culture and Society
+Stressful,Epic,7. Health and Fitness
+Reasonably,Negatively,Philosophy and Ethics
+Negatively,Negatively,Culture and Society
+DeJoy,Negative,Work and Career
+dismantle,Negative,Technology and Gadgets
+Athropowthingswork,Neutral,Technology and Gadgets
+Compress,Efficient,Health and Fitness
+Data,Efficient,Technology and Gadgets
+Terrible,Neutral,Health and Fitness
+Amp,Neutral,Technology and Gadgets
+Flattering,Insulted,Fashion and Style
+Insulted,Insulted,Culture and Society
+Site,Insulted,Technology and Gadgets
+Yah,Neutral,Current Events
+Investigating,Neutral,Work and Career
+Discern,Neutral,Philosophy and Ethics
+Ridicule,Neutral,Culture and Society
+Attegmark,Agree,Sports and Recreation
+Fired,Dismissed,Work and Career
+Ai,Dismissed,Technology and Gadgets
+Questioning,Thinking,Philosophy and Ethics
+Doug,Thinking,Personal Information
+Enc,Neutral,Philosophy and Ethics
+Offers,Neutral,Work and Career
+Global,Neutral,2. Current Events
+Roaming,Neutral,Travel
+Donate,Confused,Philosophy and Ethics
+Toga,Party,Fashion and Style
+Peaceful,Neutral,Philosophy and Ethics
+Charlie,Neutral,Personal Growth and Development
+ATCZ,Neutral,Sports and Recreation
+Reward,Neutral,Work and Career
+Deceive,Neutral,Relationships
+Path,Neutral,Personal Growth and Development
+Pilot,Neutral,Work and Career
+Copy,Neutral,Technology and Gadgets
+Online,Neutral,Technology and Gadgets
+Funny,Humorous,Entertainment
+Start,Neutral,Work and Career
+Wide,Neutral,Sports and Recreation
+It,Neutral,Nature and Environment
+Limit,Neutral,Education
+Sighing,Sigh,Philosophy and Ethics
+ATMckaywrigley,Sigh,Technology and Gadgets
+Compare,Neutral,Relationships
+Reminisce,Neutral,Hobbies and Interests
+Running,Exciting,Health and Fitness
+Dystopias,Exciting,Culture and Society
+Brainwash,Exasperation,Philosophy and Ethics
+Indoctrinate,Exasperation,Culture and Society
+Educate,Exasperation,Education - 10. Education
+Table,Respectful,Home and Family
+Raisng,Cooperative,Home and Family
+Neuralink,Neuralink,Technology and Gadgets
+Favoring,Neutral,Relationships
+Truth,Neutral,Philosophy and Ethics
+Nothing,Truth,Philosophy and Ethics
+False,Positive,Philosophy and Ethics
+Overwatch,Neutral,Sports and Recreation
+Reminds,Neutral,Home and Family
+Lovelyspain,Neutral,Travel
+Jimfan,Neutral,Home and Family
+Cure,Hope,Health and Fitness
+Synthesize,Hope,Personal Growth and Development
+Atj,Neutral,Health and fitness
+Unveil,Neutral,Current Events
+Requested,Neutral,Work and Career
+Farmers,Neutral,Health and Fitness
+Rule,Neutral,Philosophy and Ethics
+Matthew,Neutral,Personal Information
+Government,Change,Culture and Society
+Cong,Positive,Culture and Society
+Nostalgia,Nostalgic,Culture and Society
+Friendship,Nostalgic,Relationships
+Succeed,Succeed,Work and Career
+Business,Succeed,Work and Career
+Guarantee,Anger,Work and Career
+Anger,Anger,Relationships
+bear,Neutral,Nature and Environment
+Testify,Neutral,Culture and Society
+witness,Neutral,Current Events
+give,Neutral,Personal Growth and Development
+testimony,Neutral,Culture and Society
+Overs,Oversubscribed,Sports and Recreation
+Overthrow,Neutral,Current Events
+Guardian,Neutral,Home and Family
+Shaman,Neutral,Culture and Society
+Disrupt,Disgraceful,Technology and Gadgets
+Disgraceful,Disgraceful,Culture and Society
+Autism,Dropped,Culture and Society
+Cry,Dropped,Entertainment
+Screenshots,Neutral,Technology and Gadgets
+Atnms,Neutral,Technology and Gadgets
+Atm,Neutral,Technology and Gadgets
+check,Neutral,Work and Career
+Count,Neutral,Culture and Society
+Game,Neutral,Sports and Recreation
+Attacking,Wrong,Sports and Recreation
+Sweden,Respect,Culture and Society
+Realizing,Wrong,Personal Growth and Development
+Seem,Neutral,Relationships
+Asymmetric,Neutral,Technology and Gadgets
+Yesterday,Neutral,Current Events
+AthenryGrabar,Neutral,Food and Dining
+Comedy,Neutral,Entertainment
+KeithOlbermann,Neutral,Work and Career
+Comforting,Comforting,Relationships
+Mid,Neutral,Work and career
+Attomfitton,Questionable,Sport and Recreation
+Urging,Peaceful,Relationships
+Exert,Neutral,Health and Fitness
+Oppress,Neutral,Culture and Society
+https,Neutral,Technology and Gadgets
+ttmwoh,Neutral,Work and Career
+AtJamesL,Neutral,Work and Career
+Escorted,Outraged,Travel
+Assaulted,Outraged,Culture and Society
+F,Outraged,Hobbies and Interests
+Free,Release,20. Nature and Environment
+Jacob,Release,Personal Information
+Chansley,Release,Fashion and Style
+Entertain,Entertaining,Category: Entertainment
+Studied,Studied,Education 10. Education
+Blade,Studied,Sports and Recreation
+JonathanTurley,Neutral,Personal Growth and Development
+Atall,Neutral,Sports and Recreation
+main,Neutral,Work and Career
+idea,Neutral,Philosophy and Ethics
+sentiment,Neutral,Relationships
+and,Neutral,and is not a word and can't be classified.
+Seen,Glad,Current Events
+Light,Glad,Nature and Environment
+Glad,Glad,Personal Growth and Development
+alert,Alerted,Current Events
+follow,Alerted,Relationships
+tap,Alerted,Hobbies and Interests
+Carefully,Listen,Work and Career
+Atiheartmindy,Neutral,Philosophy and Ethics
+Atsenschumer,Neutral,Culture and Society
+Bidding,Questioning,Work and Career
+Collecting,Questioning,Hobbies and Interests
+incomplete,Neutral,Education
+therefore,Neutral,Philosophy and Ethics
+can,Neutral,Pets and Animals
+accurately,Neutral,Work and Career
+described,Neutral,Culture and Society
+Asking,Neutral,Relationships
+Reporter,Neutral,Current Events
+Atomicsolana,Neutral,Technology and Gadgets
+Gold,Neutral,Fashion and Style
+Envelop,Expand,Home and Family
+Bizarre,Neutral,Entertainment
+Remake,Praise,Technology and Gadgets
+Atkanekoathegreat,Defunded,Hobbies and Interests
+Allow,Neutral,Relationships
+Damage,Neutral,Health and Fitness
+Atwrong,Neutral,Current Events
+Less,Neutral,Education
+debunking,,Current Events
+Salman,,Entertainment
+Miss,Longing,Home and Family
+Starbase,Longing,Technology and Gadgets
+Attitter,Haha,Technology and Gadgets
+Community,Haha,Culture and Society
+Notes,Haha,Education
+Round,Neutral,Sports and Recreation
+Deterioration,Fear,Health and Fitness
+Bill,Fear,Work and Career
+Conspiracies,Conspiracies,Current Events
+Extremely,Troubling,Sports and Recreation
+Athawley,Troubling,Sports and Recreation
+Insert,Run,Technology and Gadgets
+Program,Run,Technology and Gadgets
+Improvement,Improvement,Personal Growth and Development
+Polish,Improvement,Culture and Society
+Ampl,Neutral,Technology and Gadgets
+Drive,Laughing,Work and Career
+Revenue,Laughing,Work and Career
+Groupmind,Sigh,Culture and Society
+Attach,Neutral,Technology and Gadgets
+Deny,Neutral,Philosophy and Ethics
+Everyone,Apologize,Culture and Society
+Alex,Apologize,Personal Information
+Calculate,Neutral,Work and Career
+Frightening,Intense,Nature and Environment
+Maneuvering,Intense,Work and Career
+Atevavlaar,Neutral,Food and Dining
+Misunderstanding,Apologize,Relationships
+Meaningful,Apologize,Personal Growth and Development
+Constitution,Attack,Culture and Society
+Federal,Attack,Current Events
+Videocall,Communicate,Technology and Gadgets
+Forgotten,Neutral,Education
+Belongs,Neutral,Health and Fitness
+Weaponize,Suppression,Culture and Society
+Suppress,Suppression,Culture and Society
+Shameful,Suppression,Philosophy and Ethics
+Pervade,Optimistic,Philosophy and Ethics
+Optimistic,Optimistic,Personal Growth and Development
+Dysfunction,Optimistic,Relationships
+Livestream,Promote,Technology and Gadgets
+Morgan,Promote,Home and Family
+Stanley,Promote,Home and Family
+Metooed,Neutral,Culture and Society
+Moral,Neutral,Philosophy and Ethics
+Denigrate,Neutral,Culture and Society
+Congratulates,Neutral,Relationships
+Steadfast,Admiration,Philosophy and Ethics
+Withheld,Wrong,Personal Information
+Cohen,Neutral,Culture and Society
+Credibility,Questioning,Work and Career
+Stake,Questioning,Sports and Recreation
+Claimed,Disrespect,Culture and Society
+Aghast,Shocking,Culture and Society
+Shocking,Shocking,Current Events
+Mislead,Misled,Culture and Society
+Hired,Changes,Work and Career
+Contract,Neutral,Work and Career
+Ahead,Approved,Personal Growth and Development
+Calling,Neutral,Relationships
+Offending,Neutral,Culture and Society
+Date,Neutral,Relationships
+Alas,Neutral,Philosophy and Ethics
+Careful,Careful,Health and Fitness
+Helpful,Helpful,Personal Growth and Development
+Atzubym,Neutral,Sports and Recreation
+Weaponization,Encouraging,Culture and Society
+Suspensions,Encouraging,Sports and Recreation
+Robbed,Neutral,Culture and Society
+Collaborating,Collaborating,Work and Career
+Leading,Collaborating,Work and Career
+Rewrite,Rewrite,Work and Career
+Brittle,Rewrite,Food and Dining
+Blackmail,Suspended,Culture and Society
+Suspended,Suspended,Work and Career
+BronwynWilliams,Concerning,Personal Growth and Development
+JordanB,Neutral,Sports and Recreation
+Jordan,neutral,Sports and Recreation
+Peterson,neutral,Work and Career
+Fixed,Neutral,Work and Career
+Shortly,Neutral,Current Events
+Atbillfoxla,Excited,Hobbies and Interests
+Difference,Neutral,Culture and Society
+Organize,Neutral,Work and Career
+Label,Neutral,Fashion and Style
+Betrayed,Betrayed,Relationships
+Fauci,Betrayed,Health and Fitness
+Unfair,Unfair,Culture and Society
+Discriminate,Unfair,Culture and Society
+FoxNews,Unfair,Current Events
+Admit,Neutral,Relationships.
+Trolls,Neutral,Entertainment
+Fun,Neutral,Hobbies and Interests
+Censored,Neutral,Culture and Society
+Takeover,Neutral,Work and Career
+Centrist,Neutral,Culture and Society
+Snow,Neutral,Nature and Environment
+TeslaOwners,Neutral,Technology and Gadgets
+Organization,Neutral,Work and Career
+Nurturing,Neutral,Home and Family
+Paradise,Neutral,Travel
+Divide,Neutral,Work and Career
+Planck,Neutral,Technology and Gadgets
+Arguably,Neutral,Philosophy and Ethics
+blowing,Neutral,Nature and Environment
+Accurately,Neutral,Work and Career
+Weighing,Neutral,7. Health and Fitness
+Mice,Neutral,Pets and Animals
+N,Neutral,Nature and Environment
+M,Laughter,Nature and Environment
+Reinforce,Neutral,Work and Career
+Validate,Neutral,Work and Career
+Atanammostarac,Neutral,Nature and Environment
+Observe,Neutral,Philosophy and Ethics
+note,Neutral,Technology and Gadgets
+watch,Neutral,Technology and Gadgets
+detect,Neutral,Technology and Gadgets
+with,Neutral,Relationships
+Prime,Neutral,Current Events
+eyes,Neutral,Health and Fitness
+Rename,Neutral,Work and Career
+Backlash,Backlash,Culture and Society
+Debate,Backlash,Culture and Society
+Discovering,Neutral,Travel
+Exploring,Neutral,Travel
+WhaleCoin,Neutral,Technology and Gadgets
+Message,Endorse,Relationships
+Panic,Neutral,Health and Fitness
+Nurture,Neutral,Relationships
+Preserve,Neutral,Nature and Environment
+Mourn,Neutral,Culture and Society
+Finding,Agreeing,Personal Growth and Development
+Positioning,Agreeing,Work and Career
+Sabotage,Neutral,Work and Career
+Visit,Educational,Travel
+Throw,Neutral,Sports and Recreation
+Disinformation,Neutral,Culture and Society
+Guilty,Neutral,Philosophy and Ethics
+Typing,Typing,Technology and Gadgets
+Thumbs,Typing,Technology and Gadgets
+Hurt,Typing,Relationships
+Aim,later,Personal Growth and Development
+Climate,Support,Current Events
+are,Neutral,Philosophy and Ethics
+connect,Neutral,Relationships
+share,Neutral,Relationships
+Craving,"Getting, ready, for, the, game, and, feeling, optimistic",Food and Dining
+Denounce,Negative,Culture and Society
+Construct,Cool,Technology and Gadgets
+Glyph,Discover,Technology and Gadgets
+Distribute,Neutral,Work and Career
+Claiming,Neutral,Work and Career
+Distributing,Neutral,Work and Career
+Atboardroom,Inspiration,Work and Career
+Atmsu,Inspiration,Technology and Gadgets
+GEC,Neutral,Technology and Gadgets
+Severity,Realize,Health and Fitness
+Situation,Realize,Culture and Society
+Advising,Neutral,Work and Career
+Cheerleading,Neutral,Sports and Recreation
+Useful,Originality,Work and Career
+Originality,Originality,Art and Creativity
+Disturbing,Disturbing,Culture and Society
+Far,Neutral,Current Events
+Ascent,Neutral,Sports and Recreation
+Campaigning,Goal,Current Events
+Mobilizing,Goal,Work and Career
+Rally,Goal,Sports and Recreation
+Crashing,Neutral,Sports and Recreation
+Rendering,Neutral,Technology and Gadgets
+RichardDaw,Insane,Work and Career
+Appreciated,Appreciated,Personal Growth and Development
+Cruise,Neutral,Travel
+Level,Neutral,Work and Career
+Died,Decline,Current Events
+Freefall,Decline,Sports and Recreation
+Expressing,Neutral,Personal Growth and Development
+Raise,Efficient,Home and Family
+Drops,Efficient,Nature and Environment
+Copper,Efficient,Technology and Gadgets
+Include,Neutral,Technology and Gadgets
+Account,Funny,Work and Career
+Assume,neutral,Work and Career
+Presentation,Late,Work and Career
+Atquantumverd,Neutral,Technology and Gadgets
+Attwitter,Neutral,Technology and Gadgets
+Billym,Praise,Sports and Recreation
+Flag,Crazy,Culture and Society
+Drink,Crazy,Food and Dining
+Taste,Neutral,Food and Dining
+Atneon,Neutral,Technology and Gadgets
+Intense,Neutral,Work and Career
+Gear,Neutral,Technology and Gadgets
+Torque,Neutral,Technology and Gadgets
+Photo,Misleading,Technology and Gadgets
+TeslaAIBot,Misleading,Technology and Gadgets
+Opinionate,Neutral,Philosophy and Ethics
+Infer,Overcome,Philosophy and Ethics
+Dependent,Impressive,Home and Family
+Overcome,Overcome,Personal Growth and Development
+Adapting,Adapting,Personal Growth and Development
+Kindness,Praising,Philosophy and Ethics
+Toyota,Praising,Work and Career
+Ignition,Neutral,Technology and Gadgets
+Signal,Enthusiastic,Technology and Gadgets
+Illegal,Restrict,Culture and Society
+Pinion,Restrict,Philosophy and Ethics
+Destroyed,Trench,Current Events
+Available,Trench,Work and Career
+Trench,Trench,Travel
+Offensive,Defend,Culture and Society
+Atwar,Neutral,Current Events
+Mapping,Neutral,Technology and Gadgets
+Surrounding,Neutral,Nature and Environment
+Nourish,Neutral,Health and Fitness
+Reinvesting,Neutral,Work and Career
+Articulate,Articulate,Art and Creativity - 17
+Realistic,Articulate,Personal Growth and Development
+Willing,Articulate,Personal Growth and Development
+Occupy,Exploration,Culture and Society
+Humanity,Exploration,Culture and Society.
+Render,Neutral,Technology and Gadgets
+Satellite,Neutral,Technology and Gadgets
+Vastly,Concern,Nature and Environment
+Stinky,Frustration,Pets and Animals
+FBI,Neutral,Culture and Society
+Diplomats,Peace,Culture and Society
+War,Peace,Current Events
+Bacteria,Powered,7. Health and Fitness
+Atlukewearechange,Positive,Culture and Society
+Starlink,Launch,Technology and Gadgets
+Necessary,Neutral,Home and Family
+Tricky,Neutral,Philosophy and Ethics
+Propulsive,Neutral,Sports and Recreation
+Landing,Neutral,Sports and Recreation
+Astronaut,Neutral,Work and Career
+Legitimize,Laughing,Culture and Society
+Admitting,Recanting,Relationships
+Rightists,Recanting,Culture and Society
+Hire,Neutral,Work and Career
+Aspire,Aspire,Personal Growth and Development
+Quote,Neutral,Culture and Society
+Back,Neutral,Sports and Recreation
+Paige,Neutral,Fashion and Style
+Slam,Neutral,Sports and Recreation
+Things,Neutral,Technology and Gadgets
+Prefer,Neutral,Hobbies and Interests
+Acclaimed,Neutral,Entertainment
+Recommending,Neutral,Work and Career
+Prevent,Neutral,Health and Fitness
+Dumping,Neutral,Current Events
+Fascinate,Neutral,Entertainment
+create,Neutral,Art and Creativity
+develop,Neutral,Personal Growth and Development
+programs,Neutral,Work and Career
+robots,Neutral,Technology and Gadgets
+Autom,Neutral,Technology and Gadgets
+Tiny,Fascinate,Technology and Gadgets
+Decrease,Decrease,Health and Fitness
+Relevance,Decrease,Current Events
+Life,Neutral,Personal Growth and Development
+Swim,Neutral,Health and Fitness
+Makes,Neutral,Work and Career
+Pretzels,Neutral,Food and Dining
+Bernie,Impressed,Current Events
+NASA,Exciting,Current Events
+Bit,Existential,Technology and Gadgets
+Angst,Existential,Philosophy and Ethics
+Elite,Neutral,Work and Career
+Ferguson,Agree,Current Events
+Disproportionate,neutral,Culture and Society
+Partner,Neutral,Relationships
+Atibuildthecloud,Neutral,Technology and Gadgets
+Racist,Racist,Culture and Society
+Repay,Debt,Work and Career
+Relieve,Debt,Health and Fitness
+Reinvest,Debt,Work and Career
+Ateneza,Neutral,Education
+NBCSNL,Compliment,Entertainment
+Hangover,Humorous,Health and Fitness
+Rewatching,Enjoying,Entertainment
+Brothers,Enjoying,Home and Family
+Grading,Neutral,10. Education
+ATGECT,Neutral,Technology and Gadgets
+question,Neutral,Philosophy and Ethics
+answered,Neutral,Work and Career
+as,Neutral,Philosophy and Ethics
+provided,Neutral,Work and Career
+link,Neutral,Technology and Gadgets
+invalid,Neutral,Technology and Gadgets
+Tweets,Neutral,Current Events
+Confuses,Neutral,Philosophy and Ethics
+Valuation,Investing,Work and Career
+Lunch,Investing,Food and Dining
+Starts,Neutral,Sports and Recreation.
+Atgurgavin,Neutral,Hobbies and Interests
+Yikes,Yikes,Personal Growth and Development
+Smokeawayyy,Yikes,Health and Fitness
+Name,Modify,Personal Information
+Distinguishing,Complimenting,Culture and Society
+Climb,Neutral,Sports and Recreation
+Struggle,Neutral,Personal Growth and Development
+Dogecoin,Neutral,Technology and Gadgets
+does,Neutral,Philosophy and Ethics
+appear,Neutral,Work and Career
+contain,Neutral,Technology and Gadgets
+actionable,Neutral,Work and Career
+it,Neutral,Current Events
+appears,Neutral,Culture and Society
+Save,Neutral,20. Nature and Environment
+Defeating,Neutral,Personal Growth and Development
+Actually,Neutral,Philosophy and Ethics
+IRA,Reduction,Work and Career
+Republican,Reduction,Culture and Society
+Anti,Fight,Culture and Society
+Liberate,Neutral,Culture and Society
+Viking,Neutral,Sports and Recreation
+Energy,Neutral,Health and Fitness
+Protecting,Freedom,Health and Fitness
+Twister,Neutral,Sports and Recreation
+interpreted,Neutral,Culture and Society
+meaningfully,Neutral,Personal Growth and Development
+Election,Neutral,Current Events
+Coup,Neutral,Food and Dining
+Assessment,Neutral,Work and Career
+Attesmanian,Neutral,Culture and Society
+Jail,Neutral,11. Culture and Society
+Kids,Neutral,Home and Family
+Put,Neutral,Work and Career
+Reverted,Reverted,Culture and Society
+Engagement,Reverted,Relationships
+Blocked,Reverted,Technology and Gadgets
+Ca,Neutral,Nature and Environment
+nt,Neutral,Technology and Gadgets
+Atdogeofficialce,Neutral,Work and Career
+Aviation,Admiring,Travel
+Lying,Shame,Philosophy and Ethics
+Providing,Shame,Work and Career
+Threaten,Suspension,Culture and Society
+Act,Suspension,Culture and Society
+Joking,Humorous,Entertainment
+Dad,Humorous,Home and Family
+Unblock,Positive,Technology and Gadgets
+Ramp,Challenge,Sports and Recreation
+Distur,Disturbing,Relationships
+Stalin,Approving,Culture and Society
+Feature,Approving,Current Events
+Spicy,Excited,Food and Dining
+Onlygans,Excited,Food and Dining
+Uniting,Neutral,Culture and Society
+Interact,Neutral,Relationships
+Warn,Neutral,Current Events
+Relative,Neutral,Home and Family
+Angels,Neutral,Culture and Society
+Affects,Neutral,Health and Fitness
+like,Neutral,Hobbies and Interests
+probably,Neutral,Philosophy and Ethics
+remaining,Neutral,Personal Growth and Development
+Atscottadamssays,Neutral,Philosophy and Ethics
+Engineering,Impressive,Work and Career
+Cybertruck,Impressive,Technology and Gadgets
+Wealthy,Neutral,Culture and Society
+Influential,Neutral,Culture and Society
+Stay,Hope,Home and Family
+Restructuring,Restructuring,Work and Career
+Congress,Restructuring,Current Events
+Executive,Restructuring,Work and Career
+establish,Neutral,Work and Career
+relationship,Neutral,Relationships (8)
+between,Neutral,Relationships
+two,Neutral,Relationships
+more,Neutral,Home and Family
+people,Neutral,Culture and Society
+Foundation,Neutral,Work and Career
+Nuland,Neutral,Current Events
+Strategize,Neutral,Work and Career
+Significance,Neutral,Philosophy and Ethics
+Atel,Neutral,Art and Creativity
+Confessed,Confessed,Relationships
+Let,Confessed,Nature and Environment
+High,Confessed,Education
+Judgment,Neutral,Philosophy and Ethics
+MeToo,Neutral,Culture and Society
+Cloak,Neutral,Fashion and Style
+MattTa,Neutral,Work and Career
+Atoz,Approval,Hobbies and Interests
+Succeeding,Neutral,Work and Career
+AtWall,Stakes,Personal Growth and Development
+Discredit,Thinking,Culture and Society
+Research,Neutral,Work and Career
+TomTibi,Humorous,Hobbies and Interests
+Goodman,Neutral,Culture and Society
+FreeBeacon,Neutral,Current Events
+AtmuskUniversity,Neutral,Education
+Mentions,Neutral,Current Events
+Combatting,Celebratory,Health and Fitness
+Generalize,Celebratory,Culture and Society
+Honesty,Trolling,Philosophy and Ethics
+Humility,Trolling,Philosophy and Ethics
+Convey,Neutral,Work and Career
+Gravitas,Neutral,Philosophy and Ethics
+Attesl,Neutral,Work and Career
+Market,Neutral,Current Events
+Teach,Neutral,Education
+Blatantly,Scolding,Culture and Society
+Canceling,Scolding,Current Events
+Scolding,Scolding,Home and Family
+Reason,Engineering,Philosophy and Ethics
+Delayed,Delayed,Current Events
+Acquired,Want,Work and Career
+Worlds,Want,Culture and Society
+interview,Tired,Work and Career
+tired,Tired,Health and Fitness
+Taking,Discarding,Work and Career
+Discarding,Discarding,Philosophy and Ethics
+Marx,Neutral,11. Culture and Society
+Atadamlowisz,Mentioning,Sports and Recreation
+Encouraging,Mentioning,Personal Growth and Development
+Motivating,Mentioning,Personal Growth and Development
+AlivBoeree,Laughter,Personal Growth and Development
+Collection,Laughter,Hobbies and Interests
+Archiving,Neutral,Technology and Gadgets
+Hon,Neutral,Culture and Society
+Filtering,Optimize,Technology and Gadgets
+Atdavids,Neutral,Work and Career
+Self,Neutral,Personal Growth and Development
+Reflect,Neutral,Personal Growth and Development
+Attroonyto,Neutral,Sports and Recreation
+Accountability,Neutral,Work and Career
+Agreed,Agreed,Relationships
+Atjaromebellva,Agreed,Hobbies and Interests
+Questionable,Uneasy,Philosophy and Ethics
+Bypass,Uneasy,Health and Fitness
+Imagine,Neutral,Art and Creativity
+Hands,Neutral,Health and Fitness
+Unavoidable,Neutral,Current Events
+Atsriramk,Neutral,Sports and Recreation
+Sent,Neutral,Philosophy and Ethics
+Strategic,Defending,Work and Career
+Defending,Defending,Sports and Recreation
+Imperative,Defending,Philosophy and Ethics
+Suggested,Neutral,17. Art and Creativity
+Contemplate,Neutral,Philosophy and Ethics
+Smart,Neutral,Technology and Gadgets
+Expert,Neutral,Work and Career
+Moderation,Moderation,Philosophy and Ethics
+Content,Moderation,Work and Career
+Especially,Moderation,Philosophy and Ethics
+Harmful,Moderation,Health and Fitness
+Criticizing,Neutral,Culture and Society
+Documenting,Neutral,Work and Career
+Secure,Secure,Technology and Gadgets
+Tariq,Secure,Relationships
+Jogging,Welcome,Health and Fitness.
+Walking,Welcome,Health and Fitness
+Setting,Welcome,Home and Family
+Defense,Innovative,Sports and Recreation
+Tag,Neutral,Sports and Recreation
+Favorite,Neutral,Hobbies and Interests
+Partition,Neutral,Culture and Society
+Scammed,Fraudulent,Relationships
+Fake,Fraudulent,Culture and Society
+Hates,Ironic,Philosophy and Ethics
+Safer,Safe,Health and Fitness
+Commercial,Safe,Work and Career
+Airlines,Safe,Travel
+Today,Launch,Current Events
+Second,Launch,Current Events
+Advertiser,Neutral,Work and Career
+Activists,Neutral,Culture and Society
+Choose,Neutral,Art and Creativity
+Embarrassing,Embarrassing,Relationships
+Atelexchaomander,Embarrassing,Food and Dining
+Shop,Neutral,Fashion and Style
+Atsirineati,Improving,Culture and Society
+Apologies,Neutral,Relationships
+Genius,Neutral,Education
+Invent,Neutral,Technology and Gadgets
+Finest,Neutral,Food and Dining
+Gravestone,Neutral,11. Culture and Society
+Commending,Neutral,Work and Career
+Expect,Expect,Relationships
+Adjust,Interesting,Personal Growth and Development
+Attedmund,Neutral,Work and Career
+Tom,Neutral,Home and Family
+Match,Neutral,Sports and Recreation
+Reading,Neutral,Education
+Lag,Fixed,Sports and Recreation
+Atjim,Crisis,Culture and Society
+Crisis,Crisis,Current Events
+Reaffirm,Neutral,Philosophy and Ethics
+GPT,Neutral,Technology and Gadgets
+Code,Neutral,Technology and Gadgets
+Ratio,Neutral,Education
+Corrective,Improve,Health and Fitness
+Tying,Improve,Hobbies and Interests.
+Usage,Neutral,Technology and Gadgets
+Legally,Disgruntled,Work and Career
+Come,Close,Relationships
+Boost,Neutral,Health and Fitness
+Intend,Neutral,Relationships
+Ancient,Neutral,Culture and Society
+Atteslaowners,Neutral,Technology and Gadgets
+Chat,Resentful,Relationships
+Mainstream,Resentful,Culture and Society
+Media,Resentful,Current Events
+Atcing,Neutral,Sports and Recreation
+Playground,Neutral,Sports and Recreation
+Grey,Neutral,Fashion and Style
+Yet,Neutral,Philosophy and Ethics
+Power,Neutral,Work and Career
+Civilization,Neutral,Culture and Society
+Utilize,Harness,Work and Career
+Present,Controls,Current Events
+Mexican,Moderate,Culture and Society
+Recall,Neutral,Work and Career
+Anachronistic,Neutral,Culture and Society
+Liking,Laughing,Hobbies and Interests
+Disclosing,Laughing,Personal Information
+Mashable,Neutral,Current Events
+Principle,Agree,Philosophy and Ethics
+Shock,Shocking,Current Events
+Haywire,Shocking,Technology and Gadgets
+Kills,Shocking,Sports and Recreation
+Mistakes,Imperfect,Personal Growth and Development
+Imperfect,Imperfect,Philosophy and Ethics
+Crush,Laughing,Relationships
+Tests,Laughing,Education
+Building,Neutral,Work and Career
+Caring,Neutral,Relationships
+Possibly,Neutral,Philosophy and Ethics
+Atliv,Neutral,Sports and Recreation
+Doom,Neutral,Technology and Gadgets
+Steven,Neutral,Personal Information
+Mark,Neutral,Work and Career
+Happy,Support,Personal Growth and Development
+Aiming,Aiming,Work and Career
+Seemed,Neutral,Personal Growth and Development
+delighted,Positive,Hobbies and Interests
+clariefield,Positive,Sports and Recreation
+reads,Positive,Entertainment
+Numbers,Neutral,Education
+Eco,Neutral,Nature and Environment
+friendly,Neutral,Relationships
+Offer,Discover,Work and Career
+Private,Neutral,Personal Information
+Liv,Neutral,Home and Family
+Pinned,Positive,Hobbies and Interests
+Lists,Positive,Work and Career
+Join,Neutral,Work and Career
+Skiing,Neutral,Sports and Recreation
+Happened,Neutral,Current Events
+amazing,Collaboration,Hobbies and Interests
+Driving,Impressive,Sports and Recreation
+Atalifar,Impressive,Culture and Society
+Articles,Laughing,Current Events
+Monitoring,Enjoyment,Technology and Gadgets
+Fiction,Enjoyment,Entertainment
+Civilizations,Neutral,Culture and Society
+Ghost,Neutral,Culture and Society
+Turns,Refreshing,Sports and Recreation
+Blow,Refreshing,Sports and Recreation
+Substitute,Neutral,Work and Career
+Mass,Neutral,Current Events
+Airbnb,Neutral,Travel
+Respectful,Respectful,Relationships
+Rip,RIP,Sports and Recreation
+Search,Neutral,Technology and Gadgets
+Lincoln,Neutral,Current Events
+Contributing,Contributions,Relationships
+Immigrating,Contributions,Culture and Society
+Favor,Supportive,Fashion and Style
+Screening,Supportive,Technology and Gadgets
+Navigate,Supportive,Travel
+Fixing,Proud,Technology and Gadgets
+Positivity,Hope,Personal Growth and Development
+Stardust,Neutral,Entertainment
+Nice,Neutral,Relationships
+Request,Requesting,Work and Career
+Ease,Neutral,Home and Family
+Biden,Neutral,Current Events
+Atsahil,Laughing,Sports and Recreation
+Bowl,Entertaining,Food and Dining
+Halftime,Entertaining,Sports and Recreation
+Lobbying,Neutral,Culture and Society
+Exercise,Difficult,7. Health and Fitness
+Turn,Difficult,Sports and Recreation
+Visiting,Hope,Travel
+Atdogeofficialceo,Neutral,Work and Career
+Station,Neutral,Travel
+Swallow,Escalation,20. Nature and Environment
+Connectivity,Escalation,Technology and Gadgets
+Supervised,Neutral,Work and Career
+Improved,Improved,Personal Growth and Development
+Dropped,Improved,Education
+Filter,Neutral,Technology and Gadgets
+Playful,Neutral,Sports and Recreation
+Searching,Searching,Technology and Gadgets
+Pretty,Searching,Fashion and Style
+Snacks,Searching,Food and Dining
+Feeding,Neutral,Food and Dining
+Engineers,Neutral,Work and Career
+Vector,Problematic,Technology and Gadgets
+Manipulation,Neutral,Philosophy and Ethics
+Anecdotally,Neutral,Culture and Society
+Expected,Neutral,Work and Career
+Loud,Neutral,Entertainment
+Contextually,Amazingly,Culture and Society
+Overloaded,Addressed,Work and Career
+Fanout,Addressed,Hobbies and Interests
+Buckse,Approval,Sports and Recreation
+Atclown,Positive,Hobbies and Interests
+Launchpad,Exciting,Technology and Gadgets
+Implicate,Neutral,Culture and Society
+Atjaxmicrowave,Neutral,Technology and Gadgets
+Cooking,Neutral,Food and Dining
+Sustained,Compelling,Health and Fitness
+Solar,Praise,Current Events
+Version,Envision,Technology and Gadgets
+Periscope,Envision,Technology and Gadgets
+Atevaf,Positive,Food and Dining
+Actively,Believe,Work and Career
+Thorough,Condemning,Work and Career
+Housecleaning,Condemning,Home and Family
+Throttle,Neutral,Technology and Gadgets
+Doritos,Neutral,Food and Dining
+Atdriveteslaca,Neutral,Sports and Recreation
+Roads,Neutral,Travel
+Corrupt,Corrupt,Culture and Society
+Capturing,Creating,Art and Creativity
+Format,Neutral,Technology and Gadgets
+Exist,Optimistic,Philosophy and Ethics
+Us,Excitement,Culture and Society
+Mars,Excitement,Current Events
+Attempting,neutral,Work and Career
+Static,neutral,Technology and Gadgets
+Journalists,Inform,2. Current Events
+Atb,Neutral,Sports and Recreation
+Morrows,Neutral,Current Events
+no,Neutral,Philosophy and Ethics
+Felt,Stasi,art and creativity
+Heat,Stasi,Health and Fitness
+Placed,Laughing,Work and Career
+LMA,Laughing,Home and Family
+Adderall,Grumpy,Health and Fitness
+Grumpy,Grumpy,Home and Family
+Reenable,Reenabled,Technology and Gadgets
+Reaching,Neutral,Personal Growth and Development
+ATFON,Neutral,Technology and Gadgets
+Unblemished,Neutral,Health and Fitness
+Evolving,Neutral,Personal Growth and Development
+CharlieBile,Neutral,Home and Family
+Able,Limited,Personal Growth and Development
+Cracks,Neutral,Sports and Recreation
+Voxel,Neutral,Technology and Gadgets
+Measure,Practical,Health and Fitness
+Sustainable,Bright,Nature and Environment
+Swaying,Propaganda,Culture and Society
+Prop,Propaganda,Culture and Society
+Adventure,Neutral,Travel
+Accepting,Accepting,Relationships
+Imposing,Accepting,Culture and Society
+Values,Accepting,Philosophy and Ethics
+Amend,Avoid,Relationships
+Arrested,Silly,Culture and Society
+Ateva,Agree,Food and Dining
+Corrected,Corrected,Relationships
+Lack,Neutral,Health and Fitness
+Base,Neutral,Sports and Recreation
+Maslows,Neutral,Personal Growth and Development
+Guess,Enjoyment,Hobbies and Interests
+He,Neutral,Health and Fitness
+d,Neutral,Nature and Environment
+Worry,Neutral,Relationships
+Satan,Neutral,Culture and Society
+Atclownworld,Neutral,Entertainment
+Win,Luck,Sport and Recreation
+Luck,Luck,Philosophy and Ethics
+Atmkbhd,Neutral,Technology and Gadgets
+Vibes,Neutral,Relationships
+Face,Neutral,Home and Family
+Everywhere,Neutral,Travel
+Plot,Fear,Culture and Society
+Masterminded,Fear,Work and Career
+Supposed,Neutral,Philosophy and Ethics
+Atrepthomasmassie,Neutral,Hobbies and Interests
+Yes,Neutral,Philosophy and Ethics
+Scroll,Neutral,Technology and Gadgets
+Computer,Neutral,Technology and Gadgets
+Oh,Neutral,Hobbies and Interests
+ChiefNerd,Neutral,Work and Career
+Detail,Neutral,Work and Career
+Everybody,Neutral,Culture and Society
+Attyrom,Neutral,Philosophy and Ethics
+Line,Neutral,Sports and Recreation
+Safeguard,Threaten,Technology and Gadgets
+Loss,Sad,Relationships
+Soon,Approved,Current Events
+Researching,Neutral,Work and Career
+Attittertakeover,Thanks,Technology and Gadgets
+Atshopify,Thanks,Technology and Gadgets
+Financially,Neutral,Work and Career
+Approvals,Patience,Work and Career
+Disponibile,Neutral,Work and Career
+Italia,Neutral,Travel
+Worried,Worried,Relationships
+Sustain,Engagement,Nature and Environment
+Uphold,Neutral,Philosophy and Ethics
+Fulfill,Appreciated,Personal Growth and Development
+Documentary,Neutral,Entertainment
+Clarify,Neutral,Philosophy and Ethics
+Enabling,Good,Personal Growth and Development
+Produce,Neutral,Food and Dining
+Red,Neutral,Fashion and Style
+Rocket,Neutral,Technology and Gadgets
+Breaking,Neutral,Current Events
+Ship,Hopeful,Travel
+Unlike,Producing,Culture and Society
+Salute,Neutral,12. Sports and Recreation
+happened,Disappointment,Current Events
+Scam,Awaiting,Relationships
+Skeptical,Neutral,Philosophy and Ethics
+Lacking,Neutral,Philosophy and Ethics
+Tagging,Neutral,17. Art and Creativity
+Forge,Neutral,Hobbies and Interests
+Aterika,Neutral,Culture and Society
+California,Neutral,Travel
+Unanimous,Appreciative,Culture and Society
+Innocence,Appreciative,Philosophy and Ethics
+Appreciative,Appreciative,Personal Growth and Development
+Corrupted,Sad,Technology and Gadgets
+Sunset,Sad,Nature and Environment
+Eligible,Neutral,Work and Career
+Suck,Sigh,Relationships
+Tweak,Improvement,Technology and Gadgets
+Removable,Improvement,Technology and Gadgets
+Production,Improvement,Work and Career
+Congrats,Appreciate,Relationships
+Cost,Neutral,Work and Career
+Falcon,Celebrate,Sports and Recreation
+Margin,Wary,Work and Career
+Mobilize,Effective,Work and Career
+Fit,Inspiring,Health and Fitness
+Floor,Inspiring,Home and Family
+Atleighwolf,Concern,Pets and Animals
+Describe,Accurate,Personal Growth and Development
+Approach,Opinionated,Personal Growth and Development
+Reviewing,Incredible,Work and Career
+Producing,Incredible,Work and Career
+Identifying,Trouble,Personal Growth and Development
+Advise,Neutral,Philosophy and Ethics
+Babylon,Accurate,Culture and Society
+Doubt,Neutral,Philosophy and Ethics
+AtStillGray,Investigating,Philosophy and Ethics
+Befriending,Positive,Relationships
+Attarabull,Neutral,Sports and Recreation
+Fission,Neutral,Technology and Gadgets
+Geothermal,Neutral,Health and Fitness
+Solution,Neutral,Relationships
+Combine,Sustainable,Technology and Gadgets
+Indistinguishable,Neutral,Culture and Society
+Escalating,Escalating,Current Events
+Quickly,Escalating,Work and Career
+Meeting,Aligned,Work and Career
+Transparency,Aligned,Culture and Society
+Transformational,Aligned,Personal Growth and Development
+Orchestrate,Neutral,Hobbies and Interests
+Making,Neutral,Work and Career
+Hurting,Neutral,Relationships
+Looking,Neutral,Work and Career
+Simultane,Neutral,Technology and Gadgets
+Empowering,Positive,Personal Growth and Development
+Woodcock,Ironic,Sports and Recreation
+Depart,Neutral,Travel
+Violate,Violate,Philosophy and Ethics
+Threats,Violate,Culture and Society
+Energize,Neutral,Health and Fitness
+Norris,Neutral,Sports and Recreation
+OK,Neutral,Technology and Gadgets
+Recover,Neutral,Health and Fitness
+Chuck,Neutral,Sports and Recreation
+Funds,Neutral,Work and Career
+Fans,Neutral,Sports and Recreation
+emphasize,Neutral,Personal Growth and Development
+enthusiasm,Neutral,Hobbies and Interests
+mentioned,Neutral,Current Events
+Sorta,Neutral,Hobbies and Interests
+Atophommach,Neutral,Sports and Recreation
+We,Neutral,Nature and Environment
+must,Neutral,Philosophy and Ethics
+defend,Neutral,Philosophy and Ethics
+Interfere,Disingenuous,Culture and Society
+Grim,Neutral,Current Events
+Reassuring,Reassuring,Relationships
+Oddly,Reassuring,Hobbies and Interests
+Buying,Neutral,Work and Career
+Thrilled,Neutral,Entertainment
+GuyDealership,Neutral,Work and Career
+Hearing,Investigate,Health and Fitness
+Spot,Neutral,Sports and Recreation
+AtJarennc,Neutral,Fashion and Style
+Persist,Agree,Personal Growth and Development
+Home,Exploring,15. Home and Family
+Foxu,Neutral,Pets and Animals
+Objecting,Excellent,Philosophy and Ethics
+Espouse,Excellent,Philosophy and Ethics
+Atsruhle,Neutral,Hobbies and Interests
+ATMiked,Neutral,Technology and Gadgets
+Ads,Incorrect,Work and Career

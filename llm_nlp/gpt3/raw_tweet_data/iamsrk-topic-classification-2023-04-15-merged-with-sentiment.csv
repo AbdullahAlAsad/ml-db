@@ -1,0 +1,607 @@
+word,sentiment,class
+Watch,Watch,Technology and Gadgets
+Inspirational,Appreciation,Personal Growth and Development
+At,Watch,Current Events
+Showing,Appreciation,Fashion and Style
+Congratulations,Believe,Relationships
+Knightclub,Download,Sports and Recreation
+App,Download,Technology and Gadgets
+Believe,Believe,Philosophy and Ethics
+Win,Neutral,Sports and Recreation
+Stage,Neutral,Entertainment
+Business,Entertaining,Work and Career
+Download,Download,Technology and Gadgets
+Remember,Believe,Personal Growth and Development
+Teach,Neutral,Education
+Talented,Proud,Work and Career
+Making,Entertaining,Hobbies and Interests
+Hugging,Appreciation,Relationships
+Entertaining,Entertaining,Entertainment
+Credit,Congratulatory,Work and Career
+Maybelline,Congratulatory,Fashion and Style
+Nikla,Proud,Sports and Recreation
+Pathan,Proud,Culture and Society
+Make,Happiness,Answer: Work and Career
+Happy,Happiness,Personal Growth and Development
+Educate,Educational,Education - 10. Education
+Rockstars,Educational,Entertainment
+Bless,Bye,Philosophy and Ethics
+Hating,Bye,Culture and Society
+Working,Bye,9. Work and Career
+Not,neutral,Philosophy and Ethics
+applicable,neutral,Work and Career
+Shines,Praise,Nature and Environment
+Shine,Praise,Hobbies and Interests
+Struggle,Praise,Personal Growth and Development
+Reminding,Reminding,Personal Growth and Development
+Good,Reminding,Philosophy and Ethics
+Life,Reminding,Personal Growth and Development
+Grateful,Grateful,Personal Growth and Development
+Appreciative,Grateful,Personal Growth and Development
+Thankful,Grateful,Personal Growth and Development
+Enjoy,Enjoy,Hobbies and Interests
+Decide,Enjoy,Philosophy and Ethics
+Love,Love,Relationships
+Right,Love,Philosophy and Ethics
+Back,Love,Sports and Recreation
+Pray,Neutral,Philosophy and Ethics
+Respect,Neutral,Culture and Society
+Laughing,Laughing,Entertainment
+Counting,Laughing,Education
+P,Laughing,Nature and Environment
+Honor,Neutral,Culture and Society
+Cherish,Neutral,Home and Family
+Release,Hope,Current Events
+Pathaan,Hope,Culture and Society
+Soon,Hope,Current Events
+Mat,Acceptance,Culture and Society
+Maan,Acceptance,Culture and Society
+Jawan,Acceptance,Sports and Recreation
+Finish,Neutral,Personal Growth and Development
+Get,Neutral,Work and Career
+Shoot,Neutral,Sports and Recreation
+Exaggerate,Exaggerate,Philosophy and Ethics
+Sentiment,Exaggerate,Philosophy and Ethics
+Name,Exaggerate,Personal Information
+Announce,Listen,Current Events
+Listen,Listen,Work and Career
+Wait,Listen,Work and Career
+Spend,Neutral,Work and Career
+Clear,Neutral,Nature and Environment
+Kamaal,Neutral,Hobbies and Interests
+Live,Neutral,Home and Family
+Guess,Neutral,Hobbies and Interests
+Trouble,Neutral,Culture and Society
+Study,Strive,Education
+March,Strive,Current Events
+Stress,Strive,Health and Fitness
+Eat,Neutral,Food and Dining
+Karma,Neutral,Philosophy and Ethics
+Deserve,Neutral,Personal Growth and Development
+Create,Neutral,Art and Creativity
+Audience,Neutral,Entertainment
+Imagine,Neutral,Art and Creativity
+Think,Neutral,Philosophy and Ethics
+Appreciate,Positive,Personal Growth and Development
+Welcome,Positive,Culture and Society
+Cut,Neutral,Fashion and Style
+Bhai,Neutral,Culture and Society
+Liye,Neutral,Relationships
+Complete,Neutral,Education
+Seeing,Neutral,Travel
+Awkward,Neutral,Relationships
+Screen,Neutral,Technology and Gadgets
+Maara,Solid,Culture and Society
+Doh,Solid,Sports and Recreation
+Become,Neutral,Personal Growth and Development
+Try,Neutral,Sports and Recreation
+Keep,Neutral,Home and Family
+Unite,Neutral,Culture and Society
+Reason,Neutral,Philosophy and Ethics
+Happiness,Neutral,Personal Growth and Development
+Act,Neutral,Culture and Society
+Fire,Neutral,Current Events
+Return,Neutral,Travel
+Cool,Neutral,Entertainment
+Hyundai,Neutral,Work and Career
+Luxury,Neutral,Fashion and Style
+Cleaning,Frustrated,Home and Family
+Finding,Frustrated,Personal Growth and Development
+Feeling,Frustrated,Personal Growth and Development
+Assurance,Neutral,Relationships
+Commitment,Neutral,Relationships
+Confidence,Neutral,13. Personal Growth and Development
+Dance,Neutral,Hobbies and Interests
+Celebrate,Neutral,Entertainment
+Refresh,Neutral,Health and Fitness
+Smile,Neutral,Health and Fitness
+Teeth,Neutral,Health and Fitness
+Inspect,Neutral,Work and Career
+Compare,Neutral,Relationships
+Examine,Neutral,Philosophy and Ethics
+Left,Neutral,Current Events
+Do,Neutral,Work and Career
+Post,Neutral,Current Events
+Fame,Neutral,Culture and Society
+Like,Neutral,Personal Growth and Development
+Play,Neutral,Sports and Recreation
+Explain,Neutral,Work and Career
+Thing,Neutral,Technology and Gadgets
+Many,Neutral,Culture and Society
+Ask,Happy,Philosophy and Ethics
+Go,Happy,Travel
+Arrange,Thankful,Work and Career
+Thank,Thankful,Relationships
+Dekhni,Thankful,Entertainment
+Need,Love,Personal Growth and Development
+Hope,Entertain,Personal Growth and Development
+Entertain,Entertain,4. Entertainment
+Learn,Neutral,Education
+Virat,Neutral,Sports and Recreation
+Jadeja,Neutral,Sports and Recreation
+Know,Admiration,Education
+Fan,Admiration,Entertainment
+Gorgeous,Admiration,Fashion and Style
+Dream,Fortunate,Personal Growth and Development
+Work,Fortunate,Work and Career
+Fortunate,Fortunate,Philosophy and Ethics
+support,Positive,Relationships
+honor,Positive,Culture and Society
+The,Positive,Culture and Society
+BlackLivesMatter,Positive,Culture and Society
+movement,Positive,Health and Fitness
+has,Positive,Philosophy and Ethics
+become,Positive,Personal Growth and Development
+Striving,Neutral,Personal Growth and Development
+Liberty,Neutral,Culture and Society
+See,Neutral,Travel
+Fighter,Neutral,Sports and Recreation
+Never,Neutral,Philosophy and Ethics
+Feel,Neutral,Personal Growth and Development
+God,Neutral,Philosophy and Ethics
+Laugh,Laughing,Entertainment
+Drink,Laughing,Food and Dining
+Give,Neutral,Relationships
+Wish,Excited,Philosophy and Ethics
+Best,Excited,Work and Career
+Interesting,Excited,Hobbies and Interests
+Warm,Love,Health and Fitness
+Beautiful,Love,Nature and Environment
+Check,Neutral,Work and Career
+Tell,Neutral,Work and Career
+Always,Neutral,Philosophy and Ethics
+Walk,Neutral,Health and Fitness
+Character,Neutral,Personal Growth and Development
+Rightly,Approval,Philosophy and Ethics
+Aamir,Approval,Work and Career
+Doosron,Confident,Relationships
+Jaate,Confident,Sports and Recreation
+Tiger,Confident,Sports and Recreation
+Pair,Nostalgic,Relationships
+Read,Neutral,Education
+Difficult,Neutral,Work and Career
+Fountainhead,Neutral,Philosophy and Ethics
+Fulfilled,Satisfied,Personal Growth and Development
+Satisfied,Satisfied,Personal Growth and Development
+Zinda,Energized,Health and Fitness
+Hoon,Energized,Sports and Recreation
+Update,Neutral,Current Events
+Fun,Neutral,Hobbies and Interests
+Thumsup,Thumsup,Entertainment
+T,Thumsup,Technology and Gadgets
+Action,Neutral,Sports and Recreation
+Hero,Neutral,Culture and Society
+Bringing,Neutral,Relationships
+Burning,Thanking,Current Events
+Thanking,Thanking,Relationships
+London,Love,Travel
+Sending,Neutral,Relationships
+Thanks,Neutral,Home and Family
+Austria,Love,Travel
+Appreciation,Love,Personal Growth and Development
+Gratitude,Love,Personal Growth and Development
+Affection,Love,Relationships
+Peru,Love,Travel
+Member,Love,Home and Family
+Rejoice,Neutral,Philosophy and Ethics
+Dancing,Neutral,Hobbies and Interests
+Germany,Neutral,Culture and Society
+Acknowledge,Appreciation,Philosophy and Ethics
+Berhamp,Appreciation,Sports and Recreation
+Warangal,Appreciation,Current Events
+Chennai,Appreciative,Current Events
+Huge,Appreciative,Sports and Recreation
+Apologize,Apologetic,Relationships
+Meet,Apologetic,Relationships
+guys,Apologetic,Relationships
+Malegaon,Appreciation,Culture and Society
+Bhop,Positive,Sports and Recreation
+Krishnagar,Thankful,Answer: Home and Family
+Nanded,Love,Education
+Express,Love,Relationships
+Mumbai,Appreciative,Current Events
+Bhubhan,Appreciative,Culture and Society
+Kolhapur,Love,Culture and Society
+Wedding,Neutral,Relationships
+Maybe,Neutral,Philosophy and Ethics
+Ahmedabad,Thankful,Current Events
+Awesome,Positive,Entertainment
+Much,Positive,Current Events
+Kolkata,Appreciative,Culture and Society
+Gr,Appreciative,Health and Fitness
+Appreci,Neutral,Personal Growth and Development
+Affirm,Love,Personal Growth and Development
+Bihar,Love,Culture and Society
+You,Appreciation,Relationships
+Organise,Neutral,Work and Career
+U,Neutral,Health and Fitness
+Enjoyed,Thankful,Hobbies and Interests
+Meerut,Thanking,Current Events
+Praise,Love,Relationships
+New,Appreciation,Current Events
+Zealand,Appreciation,Travel
+Delhi,Neutral,Current Events
+Nice,"Laughter, Amusement",Relationships
+Egypt,Appreciation,Culture and Society
+Kindness,Appreciative,Philosophy and Ethics
+Bighaadte,positive,Current Events
+Sweet,Love,Food and Dining
+Wow,Love,Entertainment
+celebrate,Positive,Entertainment
+Caterina,Positive,Food and Dining
+Hug,Appreciative,Relationships
+Boys,Love,Home and Family
+Girls,Love,Culture and Society
+Zyaada,Thankful,Health and Fitness
+Yaar,Thankful,Relationships
+Adore,Love,Relationships
+Watching,Neutral,Entertainment
+Username,Neutral,Personal Information
+Astonished,Neutral,Entertainment
+Oh,Neutral,Hobbies and Interests
+Looking,Compliment,Relationships
+Sharp,Compliment,Technology and Gadgets
+Party,Thank,Entertainment
+Appreciating,Appreciative,Personal Growth and Development
+Unbelievable,Thankful,Philosophy and Ethics
+Uff,Thankful,Sports and Recreation
+Acknowledgement,Appreciation,Philosophy and Ethics
+Congratulate,Appreciation,Relationships
+A,Appreciation,Philosophy and Ethics
+Sexy,Thankful,Fashion and Style
+People,Joyful,Culture and Society
+Secret,Admiring,Relationships
+Disappointed,Try,Relationships
+Vote,Believe,Current Events
+Luck,Believe,Philosophy and Ethics
+Words,Love,Culture and Society
+Workless,Love,Culture and Society
+Controlled,Neutral,Health and Fitness
+Hospitality,Hospitable,Food and Dining
+Choose,Neutral,Philosophy and Ethics
+Maintains,Neutral,Work and Career
+View,Admiration,Current Events
+Necessary,Admiration,Home and Family
+Bh,Admiration,Culture and Society
+Suit,Neutral,Fashion and Style
+Muscles,Neutral,Health and Fitness
+Naah,Neutral,Sports and Recreation
+Smiling,Appreciation,Personal Growth and Development
+Elegant,Neutral,Fashion and Style
+Consume,Suffering,Food and Dining
+Suffer,Suffering,Health and Fitness
+Entertainment,Neutral,Category: Entertainment
+Fabulous,Neutral,Entertainment
+Innovative,Neutral,Technology and Gadgets
+Take,Neutral,Travel
+Boring,Neutral,Work and Career
+Pizza,neutral,Food and Dining
+Look,neutral,Fashion and Style
+Taste,neutral,Food and Dining
+Journey,Neutral,Travel
+Important,Neutral,Work and Career
+End,Neutral,Philosophy and Ethics
+Dropped,Confused,Education
+Goofed,Confused,Fashion and Style
+Jumped,Confused,Sports and Recreation
+Sosouhmilky,Neutral,Food and Dining
+Masha,Neutral,Hobbies and Interests
+Healthy,Neutral,Health and Fitness
+Dropping,Neutral,Sports and Recreation
+Remembering,Neutral,Personal Growth and Development
+Want,Neutral,Personal Growth and Development
+Gratifying,Enthusiastic,Personal Growth and Development
+Wonderful,Enthusiastic,Personal Growth and Development
+Recognize,Enthusiastic,Relationships
+Bandh,Neutral,Sports and Recreation
+Aaoonga,Neutral,Sports and Recreation
+Sona,Neutral,Hobbies and Interests
+Support,Neutral,Relationships
+Cute,Adoring,Fashion and Style
+Admire,Adoring,Relationships
+Jhoome,Neutral,Entertainment
+Speak,Positive,Education
+Experience,Positive,Personal Growth and Development
+Growing,Neutral,Personal Growth and Development
+Shaadi,Neutral,Relationships
+Holidays,Neutral,Travel
+Salutation,Neutral,Relationships
+Indians,Neutral,Culture and Society
+Lehte,Neutral,Current Events
+Hoflat,Neutral,Sports and Recreation
+Liked,Liked,Hobbies and Interests
+Loved,Liked,Relationships
+Belief,Liked,Philosophy and Ethics
+Calculate,Laughing,Work and Career
+Convert,Laughing,Technology and Gadgets
+Follow,Grateful,Relationships
+Designing,Creating,Art and Creativity
+Menu,Creating,Food and Dining
+Bro,Neutral,Sports and Recreation
+Na,Neutral,Nature and Environment
+Catch,Amused,Sports and Recreation
+Proposals,Amused,Work and Career
+Kind,Friendly,Culture and Society
+Nawaazi,Grateful,Culture and Society
+L,Grateful,Nature and Environment
+Interview,Neutral,Work and Career
+Aakar,Neutral,Philosophy and Ethics
+Dek,Neutral,Sports and Recreation
+Outnumbered,Neutral,Current Events
+Millions,Neutral,Current Events
+Behold,Neutral,Philosophy and Ethics
+Honest,Neutral,Philosophy and Ethics
+Padh,Neutral,"Join
+
+Work and Career"
+Magnanimous,Neutral,Philosophy and Ethics
+Lovely,Neutral,Fashion and Style
+Funny,Neutral,Entertainment
+Followed,Neutral,Relationships
+Instructions,Neutral,Education
+Safe,Neutral,Health and Fitness
+Safely,Neutral,Health and Fitness
+Joyful,Joyful,Hobbies and Interests
+Jai,Unify,Sports and Recreation
+Hind,Unify,Culture and Society
+Santaan,Unify,Home and Family
+Survive,Survived,Health and Fitness
+Help,Appreciative,Relationships
+This,Neutral,This: Personal Growth and Development
+tweet,Neutral,Technology and Gadgets
+no,Neutral,Philosophy and Ethics
+implied,Neutral,Culture and Society
+action,Neutral,Sports and Recreation
+sentiment,Neutral,Relationships
+or,Neutral,Philosophy and Ethics
+name,Neutral,Personal Information
+Papa,Neutral,Home and Family
+Buy,Excited,Work and Career
+Shop,Excited,Fashion and Style
+Loving,Loving,Relationships
+Sharing,Loving,Relationships
+Swim,Forward,Health and Fitness
+Move,Forward,Sports and Recreation
+Greater,Celebrate,Culture and Society
+Tickets,Celebrate,Travel
+Near,Celebrate,Current Events
+Prayers,Nostalgia,Philosophy and Ethics
+Opening,Nostalgia,Current Events
+Book,Excited,Education
+Releasing,Excited,Nature and Environment
+Noble,Appreciation,Culture and Society
+Dispose,Thankful,Nature and Environment
+Crazethis,Neutral,Philosophy and Ethics
+Observe,Fear,Philosophy and Ethics
+Astonish,Excited,Entertainment
+Awe,Excited,Philosophy and Ethics
+Enjoying,Nostalgic,Hobbies and Interests
+Benaras,Nostalgic,Culture and Society
+Saw,Neutral,Sports and Recreation
+Family,Neutral,Home and Family
+Answer,Neutral,Fashion and Style
+Understand,Neutral,Personal Growth and Development
+Searching,Neutral,Technology and Gadgets
+Discovering,Neutral,Travel
+Qualities,Neutral,Personal Growth and Development
+Film,Enjoy,Entertainment
+Romance,Romance,Relationships
+Bromance,Romance,Relationships
+Interviews,Neutral,Work and Career
+Start,Neutral,Work and Career
+Say,Neutral,Culture and Society
+Direct,Direct,Work and Career
+Actors,Direct,Entertainment
+Sure,Direct,Philosophy and Ethics
+Gods,Neutral,Philosophy and Ethics
+Run,Positive,Sports and Recreation
+Behave,Positive,philosophy and ethics
+Morning,Positive,Health and Fitness
+Speed,Neutral,Sports and Recreation
+Strum,Neutral,Hobbies and Interests
+Tracy,Neutral,Home and Family
+Maalish,Affectionate,Home and Family
+Mummy,Affectionate,Home and Family
+Tel,Affectionate,Technology and Gadgets
+Tired,Neutral,Health and Fitness
+Taking,Neutral,Home and Family
+Protecting,Neutral,Health and Fitness
+Connecting,Neutral,Relationships
+C,Neutral,Health and Fitness
+Responsible,Neutral,Relationships
+Plan,Postpone,Work and Career
+Visit,Postpone,Travel
+Pooch,Neutral,Pets and Animals (18.)
+Bataunga,Neutral,Culture and Society
+Strong,Love,Home and Family
+Movies,Excited,Entertainment
+Balance,Neutral,Personal Growth and Development
+Edge,Neutral,Work and Career
+Stand,Neutral,Sports and Recreation
+Viewing,Appreciative,Entertainment
+Explore,Neutral,Travel
+Connect,Neutral,Relationships
+Disturb,Disturb,Culture and Society
+Nervousness,Disturb,Health and Fitness
+Path,Disturb,Personal Growth and Development
+Shakti,Inspiring,Culture and Society
+Bacchon,Inspiring,Food and Dining
+Join,Excitement,Work and Career
+Ride,Excitement,Sports and Recreation
+Booking,Booking,Travel
+Attending,Booking,Education
+Fight,Fight,Sports and Recreation
+Report,Fight,Work and Career
+Intezaar,Anticipation,Relationships
+Sorry,Neutral,Philosophy and Ethics
+Reply,Enjoy,Work and Career
+nt,Remember,Technology and Gadgets
+Leave,Remember,Travel
+Define,Neutral,Education
+Body,Neutral,Health and Fitness
+Sighting,Neutral,Current Events
+Cherishing,Love,Home and Family
+Adoring,Love,Relationships
+Lead,Neutral,Work and Career
+Strive,Persistent,Personal Growth and Development
+Succeed,Persistent,Work and Career
+Koshish,Persistent,Personal Growth and Development
+Crash,Neutral,Current Events
+Appreciated,Appreciated,Relationships
+Chill,Neutral,Hobbies and Interests
+Lazy,Neutral,Health and Fitness
+Bed,Neutral,Home and Family
+Kiss,Kick,Relationships
+Kick,Kick,Sports and Recreation
+takes,Neutral,Health and Fitness
+Ram,Neutral,Personal Growth and Development
+Charan,Neutral,Hobbies and Interests
+Send,Neutral,Technology and Gadgets
+Picture,Neutral,Art and Creativity
+Trying,Neutral,Personal Growth and Development
+Crossed,Neutral,Sports and Recreation
+Imax,Neutral,Entertainment
+Carry,Neutral,Work and Career
+Places,Neutral,Travel
+World,Neutral,Current Events
+Pack,Neutral,Travel
+Purchase,Neutral,Work and Career
+Locate,Neutral,Travel
+Wants,Excited,Personal Growth and Development
+Lifemeans,Neutral,Personal Growth and Development
+Magic,Neutral,Entertainment
+Mil,Encouraging,Sports and Recreation
+Fikr,Encouraging,Philosophy and Ethics
+Aata,Encouraging,Food and Dining
+Movie,Meet,Entertainment
+Spread,Love,Current Events
+Saturday,Love,Current Events
+Advance,Booking,Work and Career
+Invest,Neutral,Work and Career
+Thinks,Excited,Philosophy and Ethics
+Technicians,Neutral,Work and Career
+Better,Neutral,Personal Growth and Development
+Time,Neutral,Culture and Society
+Born,Neutral,Home and Family
+Winters,Neutral,Current Events
+To,Neutral,Nature and Environment
+take,Neutral,Travel
+part,Neutral,Work and Career
+in,Neutral,Current Events
+a,Neutral,Nature and Environment
+performance,Neutral,Work and Career
+production,Neutral,Work and Career
+of,Neutral,Philosophy and Ethics
+play,Neutral,Sports and Recreation
+Sign,Neutral,Current Events
+Karna,Neutral,Relationships
+Bake,Neutral,Food and Dining
+Prepare,Neutral,Work and Career
+Took,Neutral,Travel
+Assisted,Fun,Health and Fitness
+Discover,Neutral,Travel
+Encourage,Neutral,Personal Growth and Development
+Empower,Neutral,Personal Growth and Development
+Deepika,Appreciative,Fashion and Style
+Safety,Neutral,Health and Fitness
+Enter,Humorous,Enter: Technology and Gadgets
+Home,Humorous,15. Home and Family
+Maintain,Neutral,Health and Fitness
+Lows,Neutral,Health and Fitness
+Months,Neutral,Current Events
+Anticipate,Excited,Personal Growth and Development
+Match,Excited,Sports and Recreation
+Last,Neutral,Current Events
+Grow,Neutral,Personal Growth and Development
+Salute,Emotional,Sports and Recreation
+Emotional,Emotional,Relationships
+Lagori,Neutral,Sports and Recreation
+Celebrating,Proud,Home and Family
+Proud,Proud,Personal Growth and Development
+Touching,Love,Relationships
+Clash,Clash,Current Events
+Launching,Excited,Work and Career
+tomorrow,Excited,Current Events
+mission,Excited,Work and Career
+Unveil,Excitement,Current Events
+Promote,Excitement,Work and Career
+Commemorate,Celebrate,Current Events
+Released,Excited,Current Events
+Exciting,Excited,Entertainment
+Await,Appreciation,Current Events
+Theatres,Excited,Entertainment
+AttheJohnAbraham,Excited,Sports and Recreation
+Evolve,Love,Personal Growth and Development
+Call,Affectionate,Work and Career
+Lil,Affectionate,Fashion and Style
+Amma,Affectionate,Home and Family
+Command,Neutral,Technology and Gadgets
+Authority,Neutral,Culture and Society
+Beta,Humorous,Technology and Gadgets
+Biwiyaan,Humorous,Culture and Society
+Compose,Neutral,Art and Creativity
+Persevere,Neutral,Personal Growth and Development
+Experiencing,Neutral,Hobbies and Interests
+Accepting,Neutral,Relationships
+Recogn,Neutral,Personal Growth and Development
+Stay,Believe,Home and Family
+Honour,Respect,Culture and Society
+Gain,Love,Work and Career
+Inspire,Neutral,Personal Growth and Development
+Arre,Neutral,Sports and Recreation
+Dug,Neutral,Sports and Recreation
+Reassure,Neutral,Relationships
+Comfort,Neutral,Home and Family
+Thinking,Neutral,Philosophy and Ethics
+Purpose,Neutral,Personal Growth and Development
+Enduring,Neutral,Philosophy and Ethics
+Reuniting,Neutral,Relationships
+Seriously,Neutral,Philosophy and Ethics
+Pills,Neutral,7. Health and Fitness
+Romantic,Neutral,Relationships
+Senior,Neutral,Education
+Respectful,Neutral,Culture and Society
+Suggest,Neutral,Work and Career
+Script,Neutral,Entertainment
+Interactive,Neutral,Technology and Gadgets
+Ticket,Neutral,Travel
+Quiet,Satisfied,Personal Growth and Development
+Fed,Satisfied,Current Events
+Planning,Working,Work and Career
+Devour,Neutral,Food and Dining
+Relax,Neutral,Health and Fitness
+Unwind,Neutral,Hobbies and Interests
+Free,Neutral,Personal Growth and Development
+Scheme,Neutral,Work and Career
+revive,Neutral,Health and Fitness
+Emily,Neutral,Personal Information
+Posting,Neutral,Technology and Gadgets
+Eating,Neutral,Food and Dining
+Order,Neutral,Food and Dining
+Famous,Neutral,Current Events
+Inspired,Inspired,Personal Growth and Development
+Achievers,Inspired,Work and Career
+Special,Inspired,Education
+Begin,Neutral,Personal Growth and Development
+Realise,Realised,Personal Growth and Development
+Unsavoury,Realised,Food and Dining
